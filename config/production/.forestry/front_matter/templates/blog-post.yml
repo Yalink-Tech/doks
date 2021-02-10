@@ -26,3 +26,5 @@ fields:
 - type: list
   name: contributors
   label: contributors
+pages:
+- content/blog/This is a blog post from Alex/blog-post-from-alex.md
