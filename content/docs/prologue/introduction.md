@@ -1,18 +1,16 @@
 ---
-title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
-draft: false
+title: Introduction
+description: Doks is a Hugo theme helping you build modern documentation websites
+  that are secure, fast, and SEO-ready — by default.
+lead: Doks is a Hugo theme helping you build modern documentation websites that are
+  secure, fast, and SEO-ready — by default.
+date: 2020-10-06T08:48:57.000+00:00
+lastmod: 2020-10-06T08:48:57.000+00:00
 images: []
-menu:
-  docs:
-    parent: "prologue"
-weight: 100
+weight: "100"
 toc: true
----
 
+---
 ## Get started
 
 There are two main ways to get started with Doks:
@@ -22,6 +20,8 @@ There are two main ways to get started with Doks:
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+
+Hey ! this is a test
 
 ### Quick Start
 
