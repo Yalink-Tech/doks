@@ -18,3 +18,5 @@ This is super fun....
 Let's try to insert an image in the text
 
 ![](/uploads/logo-yalink-texte-jaune.png)
+
+Buuuh ca marche bof
