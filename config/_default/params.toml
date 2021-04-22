@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Yalink"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Yalink Docs & Blog"
+description = "Yalink Docs & Blog est le site de documentation et le blog de Yalink!"
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
