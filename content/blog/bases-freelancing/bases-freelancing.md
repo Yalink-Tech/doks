@@ -129,9 +129,7 @@ Le régime fiscal définit de quelle manière l’activité sera soumise à l’
 
 ## L’aventure de Jackie Mongoose
 
-[https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1616776959241x976975869457362000%2FHumaaans%20-%20Space.png?w=192&h=207&auto=compress&fit=crop&dpr=2](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1616776959241x976975869457362000%2FHumaaans%2520-%2520Space.png?w=192&h=207&auto=compress&fit=crop&dpr=2 "https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1616776959241x976975869457362000%2FHumaaans%20-%20Space.png?w=192&h=207&auto=compress&fit=crop&dpr=2")
-
-**Jackie Mongoose 32 ans   
+**Jackie Mongoose 32 ans  
 Ingénieure Freelance  
 Télécommunication  
 Bordeaux**
