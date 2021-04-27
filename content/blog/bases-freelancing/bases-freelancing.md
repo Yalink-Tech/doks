@@ -9,6 +9,7 @@ title = "Quelles sont les bases du freelancing?"
 weight = "100"
 
 +++
+
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es qui souhaitent connaître la **rémunération** d’un freelance en fonction **des différents statuts** qui existent en France.
