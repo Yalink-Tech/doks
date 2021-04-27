@@ -1,10 +1,12 @@
 +++
-date = 2020-10-06T08:50:29Z
-description = "The Doks contributors."
+date = 2021-04-27T08:50:29Z
+description = "CEO & Co fondateur de Yalink"
 draft = true
 images = []
-lastmod = 2020-10-06T08:50:29Z
-title = "Contributors-(copy)"
+lastmod = 2021-04-27T08:50:29Z
+title = "Antoine Paemelaere"
 
 +++
-The Doks contributors.
+CEO & Co fondateur de Yalink
+
+[@Antoine Paemelaere](https://www.linkedin.com/in/antoine-paemelaere/ "Antoine Paemelaere")
