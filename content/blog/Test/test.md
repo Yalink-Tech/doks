@@ -1,12 +1,12 @@
 +++
-contributors = []
-date = ""
+contributors = ["Vincent"]
+date = 2021-04-27T04:00:00Z
 description = "Coucou ceci est un test"
 images = []
-lastmod = ""
+lastmod = 2021-04-27T04:00:00Z
 lead = "auuuajj"
 title = "Test"
-weight = nil
+weight = 100
 
 +++
 # Test 
