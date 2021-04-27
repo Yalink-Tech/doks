@@ -2,11 +2,11 @@
 contributors = ["Vincent"]
 date = 2021-02-10T05:00:00Z
 description = "Comment devenir freelance? Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
-images = ["/uploads/logo-yalink-texte-jaune.png"]
+images = ["https://docs.yalink.fr//uploads/logo-yalink-texte-jaune.png"]
 lastmod = 2021-02-10T05:00:00Z
 lead = "Comment devenir freelance?\n Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
 title = "Quelles sont les bases du freelancing?"
-weight = 100
+weight = "100"
 
 +++
 ## 🌱 Pourquoi un article de blog?
@@ -133,3 +133,5 @@ Le régime fiscal définit de quelle manière l’activité sera soumise à l’
 Ingénieure Freelance  
 Télécommunication  
 Bordeaux**
+
+Oaui je fais un test
