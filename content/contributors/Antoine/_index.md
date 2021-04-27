@@ -1,14 +1,12 @@
 ---
-title: "Vincent Pepin"
+title: "Antoine"
 description: "COO & Co-Fondateur de Yalink"
 date: 2020-10-06T08:50:45+00:00
 lastmod: 2020-10-06T08:50:45+00:00
 draft: false
-images: ["vincent.jpg"]
+images: []
 ---
 
 COO & Co-Fondateur de Yalink
 
 [@VincentPepin](https://www.linkedin.com/in/vincentpepin/)
-
-{{< img-simple src="vincent.jpg" alt="Square" class="border-0 rounded-circle" >}}

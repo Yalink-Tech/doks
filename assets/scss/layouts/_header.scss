@@ -32,6 +32,10 @@
 
 .navbar-nav {
   flex-direction: row;
+  // position: absolute;
+  // align-items: left;
+  // justify-content: left;
+  // margin-left: 200px;
 }
 
 .nav-item {
@@ -65,12 +69,13 @@
 .navbar {
   background-color: rgba(255, 255, 255, 0.95);
   border-bottom: 1px solid $gray-200;
-  margin-top: 4px;
+  margin-top: 0px;
+  // margin-left: 400px;
 }
 
 .header-bar {
-  border-top: 4px solid;
-  border-image-source: linear-gradient(90deg, $primary, #8ed6fb 50%, $primary);
+  // border-top: 4px solid;
+  border-image-source: linear-gradient(90deg, $primary, #ffffff 50%, $primary);
   border-image-slice: 1;
 }
 
