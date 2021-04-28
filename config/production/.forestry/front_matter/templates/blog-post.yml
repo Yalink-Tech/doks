@@ -26,3 +26,5 @@ fields:
 - type: list
   name: contributors
   label: contributors
+pages:
+- content/blog/La micro entreprise/comment-devenir-ingenieur-micro-entrepeneur.md
