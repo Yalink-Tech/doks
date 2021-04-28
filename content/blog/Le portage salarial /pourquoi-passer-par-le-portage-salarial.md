@@ -1,5 +1,5 @@
 +++
-contributors = ["vincent"]
+contributors = ["Vincent"]
 date = 2021-04-27T22:00:00Z
 description = "Le petit guide du portage salarial. Le portage salarial est-il le bon compromis  entre le salariat et le freelancing ? "
 images = []
