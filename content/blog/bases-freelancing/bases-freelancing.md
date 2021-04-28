@@ -99,7 +99,6 @@ En France, une personne freelance peut opter pour deux principaux statuts juridi
 
 > La société est une **personne morale** distincte de son fondateur qui dispose de son propre patrimoine.
 >
->   
 > Lors de la création d’une société, on distingue la personne morale (la société) des personnes physiques (fondateurs / associés).La personne morale dispose de son propre patrimoine.
 >
 > > _Exemples de statuts adaptés_
@@ -134,12 +133,12 @@ Le régime fiscal définit de quelle manière l’activité sera soumise à l’
 
 ![](/uploads/humaaans-space.png)
 
-Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Mais qui est **Jackie Mongoose** ? 
+Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Mais qui est **Jackie Mongoose** ?
 
 > Jackie a **32** ans.  
 > C'est une ingénieure **Freelance**.  
 > Elle travaille dans les **télécommunication**.  
-> Elle vit à **Bordeaux**, la belle endormie. 
+> Elle vit à **Bordeaux**, la belle endormie.
 
 👉 Jackie souhaite travailler en moyenne **18 jours** par mois, 12 mois par an. Ceci équivaut à 7 semaines de congé par an.
 
@@ -147,10 +146,28 @@ Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Ma
 
 > > 🚧 Jackie a fixé son TJM en fonction de ses compétences et de ses besoins personnels. Celui-ci peut varier en fonction de la durée de la mission ainsi que de la complexité de celle-ci
 
-👉 Pour la simplicité des calculs nous prendrons l’hypothèse que Jackie est **célibataire et sans enfant**. Son quotient familial est de **1**. Ceci nous servira pour le calcul de l’impôt. 
+👉 Pour la simplicité des calculs nous prendrons l’hypothèse que Jackie est **célibataire et sans enfant**. Son quotient familial est de **1**. Ceci nous servira pour le calcul de l’impôt.
 
-## 🌱Quel statut choisir ? 
+## 🌱Quel statut choisir ?
 
 Pour vous permettre de choisir le **statut juridique** le plus adapté à votre **situation personnelle**, et avant de rentrer dans le détail de chacun, voici une photographie des principales différences. Nous vous conseillons de consulter un expert comptable en cas de doute.
 
 Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d’autres statuts.
+
+{{< bootstrap-table "table table-striped table-bordered" >}}
+
+|         Structure juridique        |        Micro entrepreneur        | Portage salarial |                        EURL                        |                        SASU                        |
+|:----------------------------------:|:--------------------------------:|:----------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+|             Nb associé             |                 1                |        N/A       |                   1  Si > → SARL                   |                    1 Si > → SAS                    |
+|            € de création           |                0€                |        N/A       |                    300€ / 1 400€                   |                    300€ / 1 400€                   |
+|           € de fermeture           |                0€                |        N/A       |                       1 000€                       |                       1 000€                       |
+|      Démarches administratives     |              Simples             |     Modérées     |                      Complexes                     |                      Complexes                     |
+|          Rédaction statuts         |                Non               |        N/A       |                         Oui                        |                         Oui                        |
+|            Plafond de CA           |              72 600€             |        Non       |                         Non                        |                         Non                        |
+|         Collecte la  TVA ?         |       Non si CA <  34 400€       |        N/A       |                      Oui - 20%                     |                      Oui - 20%                     |
+|           Capital social           |                0€                |        N/A       |              1€ minimum 500€ conseillé             |              1€ minimum 500€ conseillé             |
+|            Régime fiscal           | IR abattement forfaitaire de 34% |        IR        | IR ou IS Possibilité de déduire les charges du CA. | IR ou IS Possibilité de déduire les charges du CA. |
+|            Régime social           |                TNS               |      salarié     |                         TNS                        |                  Assimilé salarié                  |
+| Dirigeant cotise pour le chômage ? |                Non               |        Oui       |                         Non                        |                         Non                        |
+
+{{< /bootstrap-table >}}
