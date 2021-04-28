@@ -9,4 +9,6 @@ images: []
 
 COO & Co-Fondateur de Yalink
 
-[@VincentPepin](https://www.linkedin.com/in/vincentpepin/)
+{{< rounded-img src="antoine.jpeg" alt="Square" class="border-0 rounded-circle" >}}
+
+[@AntoinePaemelaere 🔗](https://www.linkedin.com/in/antoine-paemelaere/)

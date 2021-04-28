@@ -9,4 +9,6 @@ images: []
 
 Stagiaire Web Marketing chez Yalink
 
-[@TimothyHurel](https://www.linkedin.com/in/timothy-hurel-3b2689195/)
+{{< rounded-img src="timothy.jpeg" alt="Square" class="border-0 rounded-circle" >}}
+
+[@TimothyHurel 🔗](https://www.linkedin.com/in/timothy-hurel-3b2689195/)
