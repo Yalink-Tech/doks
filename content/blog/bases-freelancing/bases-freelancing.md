@@ -169,5 +169,5 @@ Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d�
 |            Régime fiscal           | IR abattement forfaitaire de 34% |        IR        | IR ou IS Possibilité de déduire les charges du CA. | IR ou IS Possibilité de déduire les charges du CA. |
 |            Régime social           |                TNS               |      salarié     |                         TNS                        |                  Assimilé salarié                  |
 | Dirigeant cotise pour le chômage ? |                Non               |        Oui       |                         Non                        |                         Non                        |
-
+{.table-striped}
 {{< /bootstrap-table >}}
