@@ -26,5 +26,3 @@ fields:
 - type: list
   name: contributors
   label: contributors
-pages:
-- content/blog/Test/test.md

@@ -9,10 +9,9 @@ title = "Quelles sont les bases du freelancing?"
 weight = "100"
 
 +++
-
 ## 🌱 Pourquoi un article de blog?
 
-Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es qui souhaitent connaître la **rémunération** d’un freelance en fonction **des différents statuts** qui existent en France.
+Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
 
 _Note:_ Chacun des statuts présentés dans ce guide feront l’objet d’un guide dédié et détaillé.
 
@@ -38,7 +37,7 @@ Par définition, un freelance est un travailleur professionnel indépendant qui 
 
 Freelance est un terme anglais, couramment utilisé, notamment dans les prestations de services intellectuels.
 
-En france, freelance ne correspond pas à un statut juridique. Un entrepreneur peut se caractériser comme freelance, mais aux yeux de l’administration il s’agit soit d’un micro-entrepreneur soit d'un associé unique (EURL ou SASU).
+En France, freelance ne correspond pas à un statut juridique. Un entrepreneur peut se caractériser comme freelance, mais aux yeux de l’administration il s’agit soit d’un micro-entrepreneur soit d'un associé unique (EURL ou SASU).
 
 **Globalement, être freelance en 2021 revient à disposer de la capacité à facturer un client pour la réalisation de missions.**
 
@@ -58,9 +57,11 @@ Nous vous avons listé ci-dessous les spécificités du freelance par rapport au
 >
 > Vous fixez seul votre Taux Journalier Moyen que vous définissez en fonction de vos besoins. Vous êtes libre de négocier celui-ci avec le client.
 
-> **Choix de la rémunération**
+> **Facturation**
 >
-> En tant que freelance vous facturez vos clients. Yalink vous propose d’effectuer la facturation en votre nom pour vous concentrer sur votre métier.
+> En tant que freelance vous facturez vos clients.
+>
+> Yalink vous propose d’effectuer la facturation en votre nom pour vous concentrer sur votre métier.
 
 > **Choix du lieu de travail**
 >
@@ -86,25 +87,26 @@ En France, une personne freelance peut opter pour deux principaux statuts juridi
 
 👉 **Entreprise individuelle**
 
-Une entreprise individuelle forme une seule et unique personne avec l'entrepreneur. Le patrimoine personnel et professionnel sont confondus.
-
-Vous engagez votre responsabilité personnelle dans les prestations réalisées (voir détails dans les guides concernés).
-
-> _Exemples de régime adapté_
+> Une entreprise individuelle forme une seule et unique personne avec l'entrepreneur. Le patrimoine personnel et professionnel sont confondus.
 >
-> **🌱 Micro-entreprise**
+> Vous engagez votre responsabilité personnelle dans les prestations réalisées (voir détails dans les guides concernés).
+>
+> > _Exemples de régime adapté_
+> >
+> > **🌱 Micro-entreprise**
 
 👉 **Société unipersonnelle**
 
-La société est une personne morale distincte de son fondateur qui dispose de son propre patrimoine.  
-Lors de la création d’une société, on distingue la personne morale (la société) des personnes physiques (fondateurs / associés).  
-La personne morale dispose de son propre patrimoine.
-
-> _Exemples de statuts adaptés_
+> La société est une **personne morale** distincte de son fondateur qui dispose de son propre patrimoine.
 >
-> **🌱 Entreprise unipersonnelle à responsabilité limitée (EURL)**
+>   
+> Lors de la création d’une société, on distingue la personne morale (la société) des personnes physiques (fondateurs / associés).La personne morale dispose de son propre patrimoine.
 >
-> **🌱 Société par actions simplifiée unipersonnelle ( SASU)**
+> > _Exemples de statuts adaptés_
+> >
+> > **🌱 Entreprise unipersonnelle à responsabilité limitée (EURL)**
+> >
+> > **🌱 Société par actions simplifiée unipersonnelle ( SASU)**
 
 ### 🌱 Régime social
 
@@ -114,7 +116,7 @@ Les conditions dépendent de la forme juridique que choisit l'entrepreneur.
 
 > 👉 soit au régime général de la sécurité sociale (régime des salariés),
 >
-> 👉 soit au régime des indépendants (Travailleurs Non Salariés )
+> 👉 soit au régime des indépendants (Travailleurs Non Salariés = TNS)
 
 **En France depuis 2020, les travailleurs non salariés ont comme guichet unique:** [**L'urssaf**](https://www.urssaf.fr/portail/home/independant.html "URSSAF")
 
@@ -122,17 +124,33 @@ Pour les soins “maladie” et les prestations familiales, salariés et freelan
 
 ### 🌱 Régime fiscal
 
-Le régime fiscal définit de quelle manière l’activité sera soumise à l’impôt. En france, on distingue 2 principaux régimes fiscaux :
+Le régime fiscal définit de quelle manière l’activité sera soumise à l’impôt. En France, on distingue 2 principaux régimes fiscaux :
 
 > 👉 **L’impôt sur le revenu (IR)**
 >
 > 👉 **L’impôt sur les sociétés (IS)**
 
-## L’aventure de Jackie Mongoose
+## 🌱L’aventure de Jackie Mongoose
 
-**Jackie Mongoose 32 ans  
-Ingénieure Freelance  
-Télécommunication  
-Bordeaux**
+![](/uploads/humaaans-space.png)
 
-Oaui je fais un test
+Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Mais qui est **Jackie Mongoose** ? 
+
+> Jackie a **32** ans.  
+> C'est une ingénieure **Freelance**.  
+> Elle travaille dans les **télécommunication**.  
+> Elle vit à **Bordeaux**, la belle endormie. 
+
+👉 Jackie souhaite travailler en moyenne **18 jours** par mois, 12 mois par an. Ceci équivaut à 7 semaines de congé par an.
+
+👉 Elle a fixé un **TJM de 300€** et souhaite travailler chez le client.
+
+> > 🚧 Jackie a fixé son TJM en fonction de ses compétences et de ses besoins personnels. Celui-ci peut varier en fonction de la durée de la mission ainsi que de la complexité de celle-ci
+
+👉 Pour la simplicité des calculs nous prendrons l’hypothèse que Jackie est **célibataire et sans enfant**. Son quotient familial est de **1**. Ceci nous servira pour le calcul de l’impôt. 
+
+## 🌱Quel statut choisir ? 
+
+Pour vous permettre de choisir le **statut juridique** le plus adapté à votre **situation personnelle**, et avant de rentrer dans le détail de chacun, voici une photographie des principales différences. Nous vous conseillons de consulter un expert comptable en cas de doute.
+
+Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d’autres statuts.
