@@ -190,7 +190,7 @@ Nous prenons l’hypothèse que Jackie travaille 18 jours dans le mois. La soci�
 | Rémunération nette : | 33 491 € (avant impôt) |
 | Rémunération nette/mois : | 2 791 € (avant impôt)* |
 
-### Ce qui reste en fin de mois avant impôt 
+### Ce qui reste en fin de mois avant impôt
 
 A la fin de chaque mois il reste donc **2 791 € net** avant impôt soit un retour financier de **52%.**
 
@@ -208,10 +208,54 @@ L'administration fiscale applique automatiquement à tous les salariés un abatt
 
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un net imposable (après abattement de 10%) de 33 491 € - 10% = 30 142 €, l’impôt sur le revenu annuel s’élève à **3 048 €** soit **254€/mois.**
 
-|         Tranches        | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
-|:-----------------------:|:------------------------------------------:|:-------------------------:|
-|     Jusqu’à 10 084 €    |                     0%                     |            0 €            |
-|  De 10 085 € à 25 710 € |                     11%                    |           1719 €          |
-|  De 25 711 € à 73 516 € |                     30%                    |          1 330 €          |
-| De 73 517 € à 158 122 € |                     41%                    |            0 €            |
-|  Au delà de 158 123 €   |                     45%                    |            0 €            |
+| Tranches | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
+| :---: | :---: | :---: |
+| Jusqu’à 10 084 € | 0% | 0 € |
+| De 10 085 € à 25 710 € | 11% | 1719 € |
+| De 25 711 € à 73 516 € | 30% | 1 330 € |
+| De 73 517 € à 158 122 € | 41% | 0 € |
+| Au delà de 158 123 € | 45% | 0 € |
+
+### Où en est Jackie Mongoose ?
+
+> Palier social : Reste 33 491 € soit 2 791 €/mois
+>
+> Cotisations fiscales : 3 048 € soit 254 €/mois
+>
+> **Palier fiscal : 30 443 € soit 2 537 €/mois**
+
+## **🌱** Le net en fin de mois
+
+Vous voici arrivé à destination.
+
+On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
+
+| CA Annuel : | 64 800 € HT |
+| --- | --- |
+| Frais portage salarial | 4 536 € |
+| Cotisations sociales | 26 773 € |
+| Impôt * | 3 048 € |
+| Net annuel: | 30 443 € |
+
+_* l’impôt est calculé sur le cas de J.mongoose et varie en fonction de la situation personnelle de chacun._
+
+👍 A la fin de chaque mois il reste donc **2 537 € net__ dans la poche de Jackie**.**
+
+Ces résultats ont été obtenus en lien avec la société de portage salarial RH solutions. [Contactez les](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html) pour plus de renseignement.
+
+## **🌱** Le petit récapitulatif
+
+Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au cas où vous auriez oublié quelque chose en route !
+
+| Statut | Micro entrepreneur | Portage salarial |
+| :---: | :---: | :---: |
+| TJM | 300 | 300€ |
+| Nb de jours | 216 | 216 |
+| CA | 64 800  € | 64 800 € |
+| Net Annuel  (avant impôt) | 45 624 € | 34 113 € |
+| Net mensuel  (avant impôt) | 3 802 € | 2 791 € |
+| Net mensuel | 3 232 € | 2 537 € |
+
+Nous avons aussi calculer le TJM que Jackie Mongoose aurait dû facturer pour pouvoir obtenir le même salaire net (avant impôt). Celui-ci s’élève à **424 €**.
+
+Pour plus d’information, n’hésitez pas à [nous contacter](https://yalink.fr/nous_contacter).
