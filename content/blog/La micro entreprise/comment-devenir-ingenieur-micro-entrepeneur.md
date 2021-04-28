@@ -226,6 +226,7 @@ Votre taux d’imposition est déterminé par le montant de votre chiffre d’af
 
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un CA annuel de 64 800€ HT et un Net imposable (après abattement de 34%) de 42 768 €, l’impôt sur le revenu annuel s’élève à **6 836€** soit **570€/mois**.
 
+{{< bootstrap-table "table table-striped table-bordered" >}}
 | Tranches (barème 2020) | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
 | :---: | :---: | :---: |
 | Jusqu’à 10 084 € | 0% | 0 € |
@@ -233,6 +234,8 @@ Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un CA annuel d
 | De 25 711 € à 73 516 € | 30% | 5 117 € |
 | De 73 517 € à 158 122 € | 41% | 0 € |
 | Au delà de 158 123 € | 45% | 0 € |
+
+{{< /bootstrap-table >}}
 
 ### Où en est Jackie ?
 
@@ -272,6 +275,7 @@ Elle correspond à **0.2% du CA.**
 
 Vous voici arrivé à destination. On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
+{{< bootstrap-table "table table-striped table-bordered" >}}
 | CA Annuel : | 64 800€ HT |
 | :---: | ---: |
 | Cotisations sociales : | 14 256 € |
@@ -280,6 +284,7 @@ Vous voici arrivé à destination. On récapitule donc le “combien il reste en
 | CFE : | 1 226€ |
 | CFP : | 130 € |
 | CIMREFDM : | 38 788 € |
+{{< /bootstrap-table >}}
 
 **A la fin de chaque mois il reste donc 3 232€ net**
 
