@@ -243,12 +243,11 @@ Encore des taxes qui étaient jusqu’alors invisibles. Ces taxes sont obligatoi
 
 ### La Cotisation Foncière des Entreprises
 
-Les micro-entreprises sont soumises à la CFE. 
+Les micro-entreprises sont soumises à la CFE.
 
-  
-Cependant, bonne nouvelle, vous en êtes exempté l’année de la création de votre entreprise ! 
+Cependant, bonne nouvelle, vous en êtes exempté l’année de la création de votre entreprise !
 
-👉 Le montant à régler au titre de la CFE dépend de la commune dans laquelle est domiciliée votre entreprise, de votre chiffre d’affaires et de la superficie de vos locaux. 
+👉 Le montant à régler au titre de la CFE dépend de la commune dans laquelle est domiciliée votre entreprise, de votre chiffre d’affaires et de la superficie de vos locaux.
 
 > 🚧 Attention, si vous travaillez depuis votre domicile ou chez vos clients et ne disposez pas de local dédié à votre activité, vous devez tout de même déclarer une surface minimale (1 mètre carré) et êtes dans tous les cas redevable de la CFE.
 
@@ -256,9 +255,8 @@ Le barème de la CFE est disponible [ici](https://www.service-public.fr/professi
 
 ### Cotisation Formation Professionnelle
 
-La CFP correspond à un pourcentage du chiffre d'affaires de l'année précédente et s'ajoute donc aux cotisations sociales dues. 
+La CFP correspond à un pourcentage du chiffre d'affaires de l'année précédente et s'ajoute donc aux cotisations sociales dues.
 
-  
 Elle correspond à **0.2% du CA.**
 
 ### Où en est Jackie ?
@@ -271,11 +269,15 @@ Elle correspond à **0.2% du CA.**
 
 Vous voici arrivé à destination. On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
-|       CA Annuel :       | 64 800€ HT |
-|:-----------------------:|-----------:|
-|  Cotisations sociales : |   14 256 € |
-| Frais supplémentaires : |    3 564 € |
-|         Impôts :        |     6 836€ |
-|          CFE :          |     1 226€ |
-|          CFP :          |      130 € |
-|        CIMREFDM :       |   38 788 € |
+| CA Annuel : | 64 800€ HT |
+| :---: | ---: |
+| Cotisations sociales : | 14 256 € |
+| Frais supplémentaires : | 3 564 € |
+| Impôts : | 6 836€ |
+| CFE : | 1 226€ |
+| CFP : | 130 € |
+| CIMREFDM : | 38 788 € |
+
+**A la fin de chaque mois il reste donc 3 232€ net** 
+
+Ces résultats ont été obtenus grâce au simulateur créé par [Yalink](yalink.fr). Recevez ce simulateur en cliquant sur le lien [suivant](https://docs.google.com/spreadsheets/d/1OgExjReMh9iXPBDzNpC4KhJM3LrdW3pJLtA2xDsGRPQ/edit#gid=1383330774).
