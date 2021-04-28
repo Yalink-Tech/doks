@@ -1,11 +1,11 @@
 +++
-contributors = ["vincent\n"]
+contributors = ["Vincent\n"]
 date = 2021-04-27T22:00:00Z
 description = "Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survire en micro entreprise c'est ici que cela se passe. "
 images = []
 lastmod = 2021-04-27T22:00:00Z
 lead = "Comment devenir freelance ? \n\nLe guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survire en micro entreprise c'est ici que cela se passe"
-title = "COMMENT DEVENIR INGENIEUR MICRO ENTREPENEUR ?"
+title = "Comment devenir ingénieur micro-entrepreneur ?"
 weight = 100
 
 +++
