@@ -27,7 +27,9 @@ La **méthodologie** est la suivante : nous suivrons la fameuse Jackie Mongoose,
 
 ### Un régime simplifié
 
-La micro-entreprise permet d’exercer une activité professionnelle indépendante de façon régulière ou ponctuelle.  
+La micro-entreprise permet d’exercer une activité professionnelle indépendante de façon régulière ou ponctuelle.
+
+  
 Outre sa simplicité, le principal avantage se situe sur le fait de pouvoir cumuler un emploi salarié **et** une activité de freelance : un moyen de préparer en toute sérénité une transition vers le cap de l’indépendance.
 
 Toutes les subtilités du statut de la micro-entreprise ne sont pas traitées dans ce guide. Pour cela nous vous conseillons de lire le [guide officiel de l’auto entrepreneur.](https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/guide-officiel.html)
@@ -140,8 +142,7 @@ La sécurité sociale des indépendants est l’un des gros chantiers du gouvern
 
 ### Comment avoir une meilleure protection sociale ?
 
-\**  
-\**Pour travailler l'esprit tranquille nous conseillons à chaque freelance de souscrire à minima aux prestations suivantes pour être accompagné sur son activité !  
+Pour travailler l'esprit tranquille nous conseillons à chaque freelance de souscrire à minima aux prestations suivantes pour être accompagné sur son activité !  
 Nous avons listé ci-dessous le budget moyen qu’il faut compter pour chaque prestation.
 
 > #### Mutuelle et prévoyance
@@ -178,12 +179,14 @@ Nous avons listé ci-dessous le budget moyen qu’il faut compter pour chaque pr
 
 ## 🌱 Le palier fiscal
 
-En tant que **micro-entrepreneur·e** vous bénéficiez d’un régime fiscal simplifié. Les revenus que vous tirez de votre entreprise sont imposés au titre de votre impôt sur le revenu.  
+En tant que **micro-entrepreneur·e** vous bénéficiez d’un régime fiscal simplifié. Les revenus que vous tirez de votre entreprise sont imposés au titre de votre impôt sur le revenu.
+
+  
 Pour le paiement de votre **impôt sur le revenu**, deux possibilités s’offrent à vous:
 
-👉 **Prélèvement à la source**
-
-👉 **Versement libératoire de l'IR**
+> 👉 **Prélèvement à la source**
+>
+> 👉 **Versement libératoire de l'IR**
 
 ### Prélèvement à la source
 
@@ -209,7 +212,7 @@ Si vous avez choisi le versement libératoire, vous êtes imposé à un taux fix
 
 Pour connaître les conditions et pour plus d’information, n’hésitez pas à consulter le site des [impôts](https://www.impots.gouv.fr/portail/professionnel/le-versement-liberatoire).
 
-Ce fonctionnement est avantageux dès lors que vous êtes dans la 3ème tranche d’imposition.****
+Ce fonctionnement est avantageux dès lors que vous êtes dans la 3ème tranche d’imposition.
 
 ### Comment calculer l'impôt en micro entreprise ?
 
@@ -234,8 +237,8 @@ Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un CA annuel d
 ### Où en est Jackie ?
 
 > Palier social : Reste 46 980€ soit 3 915€/mois  
-> Cotisations fiscales : 6 836 € soit 570€/mois**  
-> Palier fiscal : 40 144 € soit 3 345€/mois**
+> Cotisations fiscales : 6 836 € soit 570€/mois  
+> **Palier fiscal : 40 144 € soit 3 345€/mois**
 
 ## 🌱 Les autres cotisations
 
@@ -262,8 +265,8 @@ Elle correspond à **0.2% du CA.**
 ### Où en est Jackie ?
 
 > Palier fiscal : 40 144 € soit 3 345€/mois  
-> Cotisations obligatoires : 1 356€ soit 113€/mois**  
-> CIMREFDM : 38 788 € soit 3 232/mois**
+> Cotisations obligatoires : 1 356€ soit 113€/mois  
+> **CIMREFDM : 38 788 € soit 3 232/mois**
 
 ## 🌱 Le net en fin de mois
 
@@ -278,6 +281,6 @@ Vous voici arrivé à destination. On récapitule donc le “combien il reste en
 | CFP : | 130 € |
 | CIMREFDM : | 38 788 € |
 
-**A la fin de chaque mois il reste donc 3 232€ net** 
+**A la fin de chaque mois il reste donc 3 232€ net**
 
 Ces résultats ont été obtenus grâce au simulateur créé par [Yalink](yalink.fr). Recevez ce simulateur en cliquant sur le lien [suivant](https://docs.google.com/spreadsheets/d/1OgExjReMh9iXPBDzNpC4KhJM3LrdW3pJLtA2xDsGRPQ/edit#gid=1383330774).
