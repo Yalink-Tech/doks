@@ -7,6 +7,7 @@ lastmod = 2021-04-27T04:00:00Z
 lead = "Voici un petit test de fonctionalites"
 title = "Fonctionalites de blog"
 weight = 100
+imageCover = "/uploads/logo-yalink-texte-jaune.png"
 
 +++
 

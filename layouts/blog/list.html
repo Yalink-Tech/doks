@@ -8,6 +8,7 @@
 				{{ range .Data.Pages -}}	
 					<div class="card">
 						<div class="card-body">
+							<img class="blog-img img-fluid lazyload blur-up" src="{{ .Params.imageCover }}" data-src="{{ .Params.imageCover }}" alt="{{ .Params.imageCover }}">
 							<h2 class="h3"><a class="stretched-link text-body" href="{{ .Permalink }}">{{ .Params.title }}</a></h2>
 							<p>{{ .Params.lead | safeHTML }}</p>
 							{{ partial "main/blog-meta.html" . -}}
