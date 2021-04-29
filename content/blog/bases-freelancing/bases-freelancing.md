@@ -2,15 +2,14 @@
 contributors = ["Vincent"]
 date = 2021-02-10T05:00:00Z
 description = "Comment devenir freelance? Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
+imageCover = "/uploads/base-freelancing.png"
 images = ["https://docs.yalink.fr//uploads/logo-yalink-texte-jaune.png"]
 lastmod = 2021-02-10T05:00:00Z
 lead = "Comment devenir freelance?\n Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
 title = "Quelles sont les bases du freelancing?"
 weight = "100"
-imageCover = "/uploads/humaaans-space.png"
 
 +++
-
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
