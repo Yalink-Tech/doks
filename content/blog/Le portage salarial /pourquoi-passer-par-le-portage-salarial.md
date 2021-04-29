@@ -92,7 +92,7 @@ Si vous n’avez pas de nouvelle mission, votre contrat de travail s’arrête e
 
 ## **🌱**L’aventure de Jackie Mongoose
 
-![](/uploads/humaaans-space.png)
+{{< blog-img src="/uploads/humaaans-space.png" alt="Jackie Mongoose profile picture">}}
 
 Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Mais qui est **Jackie Mongoose** ?
 

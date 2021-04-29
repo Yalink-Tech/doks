@@ -11,6 +11,6 @@ images: ["vincent.jpg"]
 
 COO & Co-Fondateur de Yalink
 
-{{< rounded-img src="vincent.jpg" alt="Square" class="border-0 rounded-circle" >}}
+{{< rounded-img src="vincent.jpg" alt="Vincent" class="border-0 rounded-circle" >}}
 
 [@VincentPepin 🔗](https://www.linkedin.com/in/vincentpepin/)

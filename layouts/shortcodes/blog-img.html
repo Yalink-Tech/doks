@@ -1,0 +1,2 @@
+{{ $image := .Get "src" -}}
+<img class="blog-img img-fluid lazyload blur-up" src="{{ $image }}" data-src="{{ $image }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
