@@ -181,7 +181,7 @@ L’objectif est de définir en fonction du TJM facturé par la société de por
 
 Nous prenons l’hypothèse que Jackie travaille 18 jours dans le mois. La société de portage facture donc 300€ x 18 jours x 12 mois = 64 800 € HT au client final.
 
-{{< bootstrap-table "custom-table" >}}
+{{< simple-table "custom-table" >}}
 | Facturation : | 64 800 € HT |
 | ----------------------- | --------------------- |
 | Frais de gestion ( 7 %) : | 4 536 € |
@@ -191,7 +191,7 @@ Nous prenons l’hypothèse que Jackie travaille 18 jours dans le mois. La soci�
 | Cotisation salariales : | 8 963€ |
 | Rémunération nette : | 33 491 € (avant impôt) |
 | Rémunération nette/mois : | 2 791 € (avant impôt)\* |
-{{< /bootstrap-table >}}
+{{< /simple-table >}}
 
 ### Ce qui reste en fin de mois avant impôt
 
@@ -211,7 +211,7 @@ L'administration fiscale applique automatiquement à tous les salariés un abatt
 
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un net imposable (après abattement de 10%) de 33 491 € - 10% = 30 142 €, l’impôt sur le revenu annuel s’élève à **3 048 €** soit **254€/mois.**
 
-{{< bootstrap-table "custom-table" >}}
+{{< simple-table "custom-table" >}}
 | Tranches | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
 | --------------------- | ---------------------------------------- | ----------------------- |
 | Jusqu’à 10 084 € | 0% | 0 € |
@@ -219,7 +219,7 @@ Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un net imposab
 | De 25 711 € à 73 516 € | 30% | 1 330 € |
 | De 73 517 € à 158 122 € | 41% | 0 € |
 | Au delà de 158 123 € | 45% | 0 € |
-{{< /bootstrap-table >}}
+{{< /simple-table >}}
 
 ### Où en est Jackie Mongoose ?
 
@@ -235,14 +235,14 @@ Vous voici arrivé à destination.
 
 On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
-{{< bootstrap-table "custom-table" >}}
+{{< simple-table "custom-table" >}}
 | CA Annuel : | 64 800 € HT |
 | ---------------------- | ----------- |
 | Frais portage salarial | 4 536 € |
 | Cotisations sociales | 26 773 € |
 | Impôt \* | 3 048 € |
 | Net annuel: | 30 443 € |
-{{< /bootstrap-table >}}
+{{< /simple-table >}}
 
 _\* l’impôt est calculé sur le cas de J.mongoose et varie en fonction de la situation personnelle de chacun._
 
@@ -254,7 +254,7 @@ Ces résultats ont été obtenus en lien avec la société de portage salarial R
 
 Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au cas où vous auriez oublié quelque chose en route !
 
-{{< bootstrap-table "custom-table" >}}
+{{< simple-table "custom-table" >}}
 | Statut | Micro entrepreneur | Portage salarial |
 | --- | --- | --- |
 | TJM | 300 | 300€ |
@@ -263,7 +263,7 @@ Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au c
 | Net Annuel (avant impôt) | 45 624 € | 34 113 € |
 | Net mensuel (avant impôt) | 3 802 € | 2 791 € |
 | Net mensuel | 3 232 € | 2 537 € |
-{{< /bootstrap-table >}}
+{{< /simple-table >}}
 
 Nous avons aussi calculer le TJM que Jackie Mongoose aurait dû facturer pour pouvoir obtenir le même salaire net (avant impôt). Celui-ci s’élève à **424 €**.
 

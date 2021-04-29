@@ -155,7 +155,7 @@ Pour vous permettre de choisir le **statut juridique** le plus adapté à votre 
 
 Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d’autres statuts.
 
-{{< bootstrap-table "custom-table" >}}
+{{< simple-table "custom-table" >}}
 
 | Structure juridique                | Micro entrepreneur               | Portage salarial | EURL                                               | SASU                                               |
 | ---------------------------------- | -------------------------------- | ---------------- | -------------------------------------------------- | -------------------------------------------------- |
@@ -171,4 +171,4 @@ Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d�
 | Régime social                      | TNS                              | salarié          | TNS                                                | Assimilé salarié                                   |
 | Dirigeant cotise pour le chômage ? | Non                              | Oui              | Non                                                | Non                                                |
 
-{{< /bootstrap-table >}}
+{{< /simple-table >}}

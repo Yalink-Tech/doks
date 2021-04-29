@@ -16,12 +16,12 @@ Voici un example de tableau avec texte centré
 Pour creer des tableaux, c'est par [ici](https://www.tablesgenerator.com/markdown_tables)
 D'autres examples de tables peuvent etre trouves ici https://getbootstrap.com/docs/5.0/content/tables/
 
-{{< bootstrap-table "custom-table" >}}
+{{< simple-table >}}
 | Animal | Sounds |
 |---------|--------|
 | Cat | Meow |
 | Dog | Woof |
 | Cricket | Chirp |
-{{< /bootstrap-table >}}
+{{< /simple-table >}}
 
 **Attaquons nous aux images**
