@@ -25,3 +25,5 @@ D'autres examples de tables peuvent etre trouves ici https://getbootstrap.com/do
 {{< /simple-table >}}
 
 **Attaquons nous aux images**
+
+{{< blog-img src="/uploads/logo-yalink-texte-jaune.png" alt="Jackie Mongoose profile picture">}}
