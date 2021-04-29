@@ -9,6 +9,7 @@ title = "Comment devenir ingénieur micro-entrepreneur ?"
 weight = 100
 
 +++
+
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
@@ -29,7 +30,6 @@ La **méthodologie** est la suivante : nous suivrons la fameuse Jackie Mongoose,
 
 La micro-entreprise permet d’exercer une activité professionnelle indépendante de façon régulière ou ponctuelle.
 
-  
 Outre sa simplicité, le principal avantage se situe sur le fait de pouvoir cumuler un emploi salarié **et** une activité de freelance : un moyen de préparer en toute sérénité une transition vers le cap de l’indépendance.
 
 Toutes les subtilités du statut de la micro-entreprise ne sont pas traitées dans ce guide. Pour cela nous vous conseillons de lire le [guide officiel de l’auto entrepreneur.](https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/guide-officiel.html)
@@ -99,9 +99,9 @@ L’objectif est ici de comprendre les dépenses et les cotisations dont Jackie 
 
 Les cotisations sociales sont les prélèvements (que l’on peut retrouver sur une fiche de paie quand on est salarié) qui servent à financer la retraite, la santé et les allocations familiales.
 
-Le montant de vos cotisations sociales représentent un **pourcentage fixe__ des sommes que vous encaissez.**
+Le montant de vos cotisations sociales représentent un **pourcentage fixe\_\_ des sommes que vous encaissez.**
 
-👉** Le taux qui s’applique aux micro-entrepreneurs est de **22 % du chiffre d’affaires** hors taxes.
+👉** Le taux qui s’applique aux micro-entrepreneurs est de **22 % du chiffre d’affaires\*\* hors taxes.
 
 > 💪 Si vous n’avez pas de CA, vous ne payez pas de cotisation. Il faut néanmoins le déclarer à l'administration fiscale.
 
@@ -128,9 +128,9 @@ La sécurité sociale des indépendants est l’un des gros chantiers du gouvern
 
 👉 **Maladie** : Vous bénéficiez d’une assurance maladie identique de celle des salariés. Les remboursements des frais de santé sont pris en charge de la même façon et aux mêmes conditions.
 
-👉 **Maternité** : Vos éventuels congés maternité ou paternité sont également éligibles (sous conditions) à une aide. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.) rubrique “Cotisations & contributions”.
+👉 **Maternité** : Vos éventuels congés maternité ou paternité sont également éligibles (sous conditions) à une aide. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.) rubrique “Cotisations & contributions”.
 
-👉 **Arrêt maladie** : Les freelances peuvent bénéficier (sous conditions) des indemnités journalières de sécurité sociale (IJSS) en cas d'arrêt maladie. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.), rubrique “Cotisations & contributions”.
+👉 **Arrêt maladie** : Les freelances peuvent bénéficier (sous conditions) des indemnités journalières de sécurité sociale (IJSS) en cas d'arrêt maladie. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.), rubrique “Cotisations & contributions”.
 
 👉 **Allocation familiales** : Prestation identique de celle des salariés.
 
@@ -181,7 +181,6 @@ Nous avons listé ci-dessous le budget moyen qu’il faut compter pour chaque pr
 
 En tant que **micro-entrepreneur·e** vous bénéficiez d’un régime fiscal simplifié. Les revenus que vous tirez de votre entreprise sont imposés au titre de votre impôt sur le revenu.
 
-  
 Pour le paiement de votre **impôt sur le revenu**, deux possibilités s’offrent à vous:
 
 > 👉 **Prélèvement à la source**
@@ -226,9 +225,9 @@ Votre taux d’imposition est déterminé par le montant de votre chiffre d’af
 
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un CA annuel de 64 800€ HT et un Net imposable (après abattement de 34%) de 42 768 €, l’impôt sur le revenu annuel s’élève à **6 836€** soit **570€/mois**.
 
-{{< bootstrap-table "table table-striped table-bordered" >}}
+{{< bootstrap-table "custom-table" >}}
 | Tranches (barème 2020) | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
-| :---: | :---: | :---: |
+| --- | --- | --- |
 | Jusqu’à 10 084 € | 0% | 0 € |
 | De 10 085 € à 25 710 € | 11% | 1 718 € |
 | De 25 711 € à 73 516 € | 30% | 5 117 € |
@@ -275,9 +274,9 @@ Elle correspond à **0.2% du CA.**
 
 Vous voici arrivé à destination. On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
-{{< bootstrap-table "table table-striped table-bordered" >}}
+{{< bootstrap-table "custom-table" >}}
 | CA Annuel : | 64 800€ HT |
-| :---: | ---: |
+| --- | --- |
 | Cotisations sociales : | 14 256 € |
 | Frais supplémentaires : | 3 564 € |
 | Impôts : | 6 836€ |

@@ -9,6 +9,7 @@ title = "Quelles sont les bases du freelancing?"
 weight = "100"
 
 +++
+
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
@@ -154,20 +155,20 @@ Pour vous permettre de choisir le **statut juridique** le plus adapté à votre 
 
 Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d’autres statuts.
 
-{{< bootstrap-table "table table-striped table-bordered" >}}
+{{< bootstrap-table "custom-table" >}}
 
-|         Structure juridique        |        Micro entrepreneur        | Portage salarial |                        EURL                        |                        SASU                        |
-|:----------------------------------:|:--------------------------------:|:----------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-|             Nb associé             |                 1                |        N/A       |                   1  Si > → SARL                   |                    1 Si > → SAS                    |
-|            € de création           |                0€                |        N/A       |                    300€ / 1 400€                   |                    300€ / 1 400€                   |
-|           € de fermeture           |                0€                |        N/A       |                       1 000€                       |                       1 000€                       |
-|      Démarches administratives     |              Simples             |     Modérées     |                      Complexes                     |                      Complexes                     |
-|          Rédaction statuts         |                Non               |        N/A       |                         Oui                        |                         Oui                        |
-|            Plafond de CA           |              72 600€             |        Non       |                         Non                        |                         Non                        |
-|         Collecte la  TVA ?         |       Non si CA <  34 400€       |        N/A       |                      Oui - 20%                     |                      Oui - 20%                     |
-|           Capital social           |                0€                |        N/A       |              1€ minimum 500€ conseillé             |              1€ minimum 500€ conseillé             |
-|            Régime fiscal           | IR abattement forfaitaire de 34% |        IR        | IR ou IS Possibilité de déduire les charges du CA. | IR ou IS Possibilité de déduire les charges du CA. |
-|            Régime social           |                TNS               |      salarié     |                         TNS                        |                  Assimilé salarié                  |
-| Dirigeant cotise pour le chômage ? |                Non               |        Oui       |                         Non                        |                         Non                        |
-{.table-striped}
+| Structure juridique                | Micro entrepreneur               | Portage salarial | EURL                                               | SASU                                               |
+| ---------------------------------- | -------------------------------- | ---------------- | -------------------------------------------------- | -------------------------------------------------- |
+| Nb associé                         | 1                                | N/A              | 1 Si > → SARL                                      | 1 Si > → SAS                                       |
+| € de création                      | 0€                               | N/A              | 300€ / 1 400€                                      | 300€ / 1 400€                                      |
+| € de fermeture                     | 0€                               | N/A              | 1 000€                                             | 1 000€                                             |
+| Démarches administratives          | Simples                          | Modérées         | Complexes                                          | Complexes                                          |
+| Rédaction statuts                  | Non                              | N/A              | Oui                                                | Oui                                                |
+| Plafond de CA                      | 72 600€                          | Non              | Non                                                | Non                                                |
+| Collecte la TVA ?                  | Non si CA < 34 400€              | N/A              | Oui - 20%                                          | Oui - 20%                                          |
+| Capital social                     | 0€                               | N/A              | 1€ minimum 500€ conseillé                          | 1€ minimum 500€ conseillé                          |
+| Régime fiscal                      | IR abattement forfaitaire de 34% | IR               | IR ou IS Possibilité de déduire les charges du CA. | IR ou IS Possibilité de déduire les charges du CA. |
+| Régime social                      | TNS                              | salarié          | TNS                                                | Assimilé salarié                                   |
+| Dirigeant cotise pour le chômage ? | Non                              | Oui              | Non                                                | Non                                                |
+
 {{< /bootstrap-table >}}

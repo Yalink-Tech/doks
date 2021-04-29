@@ -9,6 +9,7 @@ title = "Pourquoi passer par le portage salarial ? "
 weight = 100
 
 +++
+
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
@@ -37,7 +38,7 @@ Créé en 2003 à Toulouse, le réseau RH solutions s’est développé sur le t
 
 _“Débuter une nouvelle activité, compléter vos revenus ou votre retraite, tester un nouveau marché sans risques avec la sécurité du statut salarié ? Avec RH Solutions Bordeaux, passez à l’action ! Le portage salarial vous libère des contraintes administratives et vous êtes concentrés sur vos priorités : vos prestations et vos clients.”_
 
-[Julie Calmon  - Responsable d’Agence Bordeaux](https://www.rh-solutions.com/actualites/julie-calmon-specialiste-des-ressources-humaines-nouvelle-responsable-dagence-a-bordeaux.html)
+[Julie Calmon - Responsable d’Agence Bordeaux](https://www.rh-solutions.com/actualites/julie-calmon-specialiste-des-ressources-humaines-nouvelle-responsable-dagence-a-bordeaux.html)
 
 ## **🌱**Présentation générale
 
@@ -79,7 +80,7 @@ Un contrat (en CDD ou CDI) est établit entre la société de portage et le free
 
 **👉 Le compte de résultat**
 
-Vous bénéficiez au sein de votre société de portage (exemple :  [RH Solutions](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html)) d’un compte de résultat sur lequel est versé votre Chiffre d’Affaires (CA). Vous pouvez choisir de vous verser tout ou partie de ce CA en salaire.
+Vous bénéficiez au sein de votre société de portage (exemple : [RH Solutions](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html)) d’un compte de résultat sur lequel est versé votre Chiffre d’Affaires (CA). Vous pouvez choisir de vous verser tout ou partie de ce CA en salaire.
 
 **👉 La mission**
 
@@ -146,9 +147,9 @@ C’est **le gros avantage** du portage salarial qui vous assure un statut sécu
 
 > #### Mutuelle et prévoyance
 >
-> Mutuelle (en option) =  Pour rembourser les médicaments et soins
+> Mutuelle (en option) = Pour rembourser les médicaments et soins
 >
-> Prévoyance =  Pour compenser les jours d'arrêts maladie
+> Prévoyance = Pour compenser les jours d'arrêts maladie
 >
 > **Inclus**
 
@@ -180,21 +181,23 @@ L’objectif est de définir en fonction du TJM facturé par la société de por
 
 Nous prenons l’hypothèse que Jackie travaille 18 jours dans le mois. La société de portage facture donc 300€ x 18 jours x 12 mois = 64 800 € HT au client final.
 
+{{< bootstrap-table "custom-table" >}}
 | Facturation : | 64 800 € HT |
-| :---: | :---: |
+| ----------------------- | --------------------- |
 | Frais de gestion ( 7 %) : | 4 536 € |
 | Solde intermédiaire : | 60 264 € |
 | Cotisation patronales : | 17 810 € |
 | Salaire brut: | 42 454 € |
 | Cotisation salariales : | 8 963€ |
 | Rémunération nette : | 33 491 € (avant impôt) |
-| Rémunération nette/mois : | 2 791 € (avant impôt)* |
+| Rémunération nette/mois : | 2 791 € (avant impôt)\* |
+{{< /bootstrap-table >}}
 
 ### Ce qui reste en fin de mois avant impôt
 
 A la fin de chaque mois il reste donc **2 791 € net** avant impôt soit un retour financier de **52%.**
 
-_* La rémunération nette mensuelle comprend les congés payés ainsi que la réserve financière de 10%._
+_\* La rémunération nette mensuelle comprend les congés payés ainsi que la réserve financière de 10%._
 
 ## **🌱** Le palier fiscal
 
@@ -208,13 +211,15 @@ L'administration fiscale applique automatiquement à tous les salariés un abatt
 
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un net imposable (après abattement de 10%) de 33 491 € - 10% = 30 142 €, l’impôt sur le revenu annuel s’élève à **3 048 €** soit **254€/mois.**
 
+{{< bootstrap-table "custom-table" >}}
 | Tranches | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
-| :---: | :---: | :---: |
+| --------------------- | ---------------------------------------- | ----------------------- |
 | Jusqu’à 10 084 € | 0% | 0 € |
 | De 10 085 € à 25 710 € | 11% | 1719 € |
 | De 25 711 € à 73 516 € | 30% | 1 330 € |
 | De 73 517 € à 158 122 € | 41% | 0 € |
 | Au delà de 158 123 € | 45% | 0 € |
+{{< /bootstrap-table >}}
 
 ### Où en est Jackie Mongoose ?
 
@@ -230,16 +235,18 @@ Vous voici arrivé à destination.
 
 On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
+{{< bootstrap-table "custom-table" >}}
 | CA Annuel : | 64 800 € HT |
-| --- | --- |
+| ---------------------- | ----------- |
 | Frais portage salarial | 4 536 € |
 | Cotisations sociales | 26 773 € |
-| Impôt * | 3 048 € |
+| Impôt \* | 3 048 € |
 | Net annuel: | 30 443 € |
+{{< /bootstrap-table >}}
 
-_* l’impôt est calculé sur le cas de J.mongoose et varie en fonction de la situation personnelle de chacun._
+_\* l’impôt est calculé sur le cas de J.mongoose et varie en fonction de la situation personnelle de chacun._
 
-👍 A la fin de chaque mois il reste donc **2 537 € net__ dans la poche de Jackie**.**
+👍 A la fin de chaque mois il reste donc **2 537 € net\_\_ dans la poche de Jackie**.\*\*
 
 Ces résultats ont été obtenus en lien avec la société de portage salarial RH solutions. [Contactez les](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html) pour plus de renseignement.
 
@@ -247,14 +254,16 @@ Ces résultats ont été obtenus en lien avec la société de portage salarial R
 
 Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au cas où vous auriez oublié quelque chose en route !
 
+{{< bootstrap-table "custom-table" >}}
 | Statut | Micro entrepreneur | Portage salarial |
-| :---: | :---: | :---: |
+| --- | --- | --- |
 | TJM | 300 | 300€ |
 | Nb de jours | 216 | 216 |
-| CA | 64 800  € | 64 800 € |
-| Net Annuel  (avant impôt) | 45 624 € | 34 113 € |
-| Net mensuel  (avant impôt) | 3 802 € | 2 791 € |
+| CA | 64 800 € | 64 800 € |
+| Net Annuel (avant impôt) | 45 624 € | 34 113 € |
+| Net mensuel (avant impôt) | 3 802 € | 2 791 € |
 | Net mensuel | 3 232 € | 2 537 € |
+{{< /bootstrap-table >}}
 
 Nous avons aussi calculer le TJM que Jackie Mongoose aurait dû facturer pour pouvoir obtenir le même salaire net (avant impôt). Celui-ci s’élève à **424 €**.
 

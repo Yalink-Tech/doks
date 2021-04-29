@@ -16,7 +16,7 @@ Voici un example de tableau avec texte centré
 Pour creer des tableaux, c'est par [ici](https://www.tablesgenerator.com/markdown_tables)
 D'autres examples de tables peuvent etre trouves ici https://getbootstrap.com/docs/5.0/content/tables/
 
-{{< bootstrap-table "table table-striped table-bordered" >}}
+{{< bootstrap-table "custom-table" >}}
 | Animal | Sounds |
 |---------|--------|
 | Cat | Meow |
