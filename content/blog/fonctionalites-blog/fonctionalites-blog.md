@@ -18,7 +18,7 @@ D'autres examples de tables peuvent etre trouves ici https://getbootstrap.com/do
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 | Animal | Sounds |
-|:---------:|:--------:|
+|---------|--------|
 | Cat | Meow |
 | Dog | Woof |
 | Cricket | Chirp |
