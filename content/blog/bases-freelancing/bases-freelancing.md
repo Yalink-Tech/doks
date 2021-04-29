@@ -7,6 +7,7 @@ lastmod = 2021-02-10T05:00:00Z
 lead = "Comment devenir freelance?\n Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
 title = "Quelles sont les bases du freelancing?"
 weight = "100"
+imageCover = "/uploads/humaaans-space.png"
 
 +++
 

@@ -7,6 +7,7 @@ lastmod = 2021-04-27T22:00:00Z
 lead = "Le petit guide du portage salarial. Le portage salarial est-il le bon compromis  entre le salariat et le freelancing ? "
 title = "Pourquoi passer par le portage salarial ? "
 weight = 100
+imageCover = "/uploads/humaaans-space.png"
 
 +++
 
