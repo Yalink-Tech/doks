@@ -1,16 +1,15 @@
 +++
-contributors = ["Vincent"]
+contributors = ["Timothy"]
 date = 2021-04-27T22:00:00Z
 description = "Le petit guide du portage salarial. Le portage salarial est-il le bon compromis  entre le salariat et le freelancing ? "
+imageCover = "/uploads/portage-salarial.png"
 images = []
 lastmod = 2021-04-27T22:00:00Z
 lead = "Le petit guide du portage salarial. Le portage salarial est-il le bon compromis  entre le salariat et le freelancing ? "
 title = "Pourquoi passer par le portage salarial ? "
 weight = 100
-imageCover = "/uploads/humaaans-space.png"
 
 +++
-
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
