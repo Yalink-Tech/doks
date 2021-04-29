@@ -181,7 +181,7 @@ L’objectif est de définir en fonction du TJM facturé par la société de por
 
 Nous prenons l’hypothèse que Jackie travaille 18 jours dans le mois. La société de portage facture donc 300€ x 18 jours x 12 mois = 64 800 € HT au client final.
 
-{{< simple-table "custom-table" >}}
+{{< simple-table "yalink-table" >}}
 | Facturation : | 64 800 € HT |
 | ----------------------- | --------------------- |
 | Frais de gestion ( 7 %) : | 4 536 € |
@@ -211,7 +211,7 @@ L'administration fiscale applique automatiquement à tous les salariés un abatt
 
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un net imposable (après abattement de 10%) de 33 491 € - 10% = 30 142 €, l’impôt sur le revenu annuel s’élève à **3 048 €** soit **254€/mois.**
 
-{{< simple-table "custom-table" >}}
+{{< simple-table "yalink-table" >}}
 | Tranches | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
 | --------------------- | ---------------------------------------- | ----------------------- |
 | Jusqu’à 10 084 € | 0% | 0 € |
@@ -235,7 +235,7 @@ Vous voici arrivé à destination.
 
 On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
-{{< simple-table "custom-table" >}}
+{{< simple-table "yalink-table" >}}
 | CA Annuel : | 64 800 € HT |
 | ---------------------- | ----------- |
 | Frais portage salarial | 4 536 € |
@@ -254,7 +254,7 @@ Ces résultats ont été obtenus en lien avec la société de portage salarial R
 
 Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au cas où vous auriez oublié quelque chose en route !
 
-{{< simple-table "custom-table" >}}
+{{< simple-table "yalink-table" >}}
 | Statut | Micro entrepreneur | Portage salarial |
 | --- | --- | --- |
 | TJM | 300 | 300€ |

@@ -155,7 +155,7 @@ Pour vous permettre de choisir le **statut juridique** le plus adapté à votre 
 
 Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d’autres statuts.
 
-{{< simple-table "custom-table" >}}
+{{< simple-table "yalink-table" >}}
 
 | Structure juridique                | Micro entrepreneur               | Portage salarial | EURL                                               | SASU                                               |
 | ---------------------------------- | -------------------------------- | ---------------- | -------------------------------------------------- | -------------------------------------------------- |
