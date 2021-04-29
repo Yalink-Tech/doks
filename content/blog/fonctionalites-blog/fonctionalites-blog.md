@@ -2,15 +2,14 @@
 contributors = ["Vincent"]
 date = 2021-04-27T04:00:00Z
 description = "Coucou ceci est un test"
+imageCover = "/uploads/humaaans-space.png"
 images = ["vincent.jpg"]
 lastmod = 2021-04-27T04:00:00Z
 lead = "Voici un petit test de fonctionalites"
 title = "Fonctionalites de blog"
 weight = 100
-imageCover = "/uploads/logo-yalink-texte-jaune.png"
 
 +++
-
 ## bonjour
 
 Voici un example de tableau avec texte centré
