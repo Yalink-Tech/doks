@@ -1,0 +1,31 @@
+---
+label: Blog Post with Image
+hide_body: false
+fields:
+- type: list
+  name: contributors
+  label: contributors
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: image_gallery
+  name: images
+  label: images
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: text
+  name: lead
+  label: lead
+- type: text
+  name: title
+  label: title
+- type: number
+  name: weight
+  label: weight
+- type: file
+  name: imageCover
+  label: imageCover
