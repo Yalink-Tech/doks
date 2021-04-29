@@ -2,15 +2,14 @@
 contributors = ["Vincent\n"]
 date = 2021-04-27T22:00:00Z
 description = "Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survire en micro entreprise c'est ici que cela se passe. "
+imageCover = "/uploads/licro-entrepeneur.png"
 images = []
 lastmod = 2021-04-27T22:00:00Z
 lead = "Comment devenir freelance ? \n\nLe guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survire en micro entreprise c'est ici que cela se passe"
 title = "Comment devenir ingénieur micro-entrepreneur ?"
 weight = 100
-imageCover = "/uploads/humaaans-space.png"
 
 +++
-
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.

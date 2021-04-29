@@ -26,3 +26,5 @@ fields:
 - type: file
   name: imageCover
   label: imageCover
+pages:
+- content/blog/La micro entreprise/comment-devenir-ingenieur-micro-entrepeneur.md
