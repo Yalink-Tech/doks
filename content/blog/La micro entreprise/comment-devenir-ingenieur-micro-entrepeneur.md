@@ -68,7 +68,7 @@ Une activité en micro-entreprise implique:
 
 👉 **Une franchise en base de TVA** : vous ne facturez pas la TVA et ne la récupérez pas sur vos achats jusqu’à **34 400€ de CA**.
 
-> 🚧Au delà de 34 400€ facturés il y a facturation de la TVA dès le premier jour du mois de dépassement. Soyez donc vigilant ! Vous pouvez également faire la demande de récolter la TVA dès votre 1er jour d’activité. Envie d’en savoir plus ? Consultez l’article de [shine](https://www.shine.fr/blog/assujetti-tva-auto-entrepreneur/).
+> 🚧Au delà de 34 400€ facturés il y a facturation de la TVA dès le premier jour du mois de dépassement. Soyez donc vigilant ! Vous pouvez également faire la demande de collecter la TVA dès votre 1er jour d’activité. Envie d’en savoir plus ? Consultez l’article de [shine](https://www.shine.fr/blog/assujetti-tva-auto-entrepreneur/).
 
 ## 🌱L’aventure de Jackie Mongoose
 
@@ -99,9 +99,9 @@ L’objectif est ici de comprendre les dépenses et les cotisations dont Jackie 
 
 Les cotisations sociales sont les prélèvements (que l’on peut retrouver sur une fiche de paie quand on est salarié) qui servent à financer la retraite, la santé et les allocations familiales.
 
-Le montant de vos cotisations sociales représentent un **pourcentage fixe\_\_ des sommes que vous encaissez.**
+Le montant de vos cotisations sociales représentent un **pourcentage fixe__ des sommes que vous encaissez.**
 
-👉** Le taux qui s’applique aux micro-entrepreneurs est de **22 % du chiffre d’affaires\*\* hors taxes.
+👉** Le taux qui s’applique aux micro-entrepreneurs est de **22 % du chiffre d’affaires** hors taxes.
 
 > 💪 Si vous n’avez pas de CA, vous ne payez pas de cotisation. Il faut néanmoins le déclarer à l'administration fiscale.
 
@@ -128,13 +128,13 @@ La sécurité sociale des indépendants est l’un des gros chantiers du gouvern
 
 👉 **Maladie** : Vous bénéficiez d’une assurance maladie identique de celle des salariés. Les remboursements des frais de santé sont pris en charge de la même façon et aux mêmes conditions.
 
-👉 **Maternité** : Vos éventuels congés maternité ou paternité sont également éligibles (sous conditions) à une aide. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.) rubrique “Cotisations & contributions”.
+👉 **Maternité** : Vos éventuels congés maternité ou paternité sont également éligibles (sous conditions) à une aide. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.) rubrique “Cotisations & contributions”.
 
-👉 **Arrêt maladie** : Les freelances peuvent bénéficier (sous conditions) des indemnités journalières de sécurité sociale (IJSS) en cas d'arrêt maladie. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.), rubrique “Cotisations & contributions”.
+👉 **Arrêt maladie** : Les freelances peuvent bénéficier (sous conditions) des indemnités journalières de sécurité sociale (IJSS) en cas d'arrêt maladie. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.), rubrique “Cotisations & contributions”.
 
-👉 **Allocation familiales** : Prestation identique de celle des salariés.
+👉 **Allocation familiales** : Prestations identiques de celle des salariés.
 
-👉 **Retraite** : Les trimestres validés et le montant de votre retraite sont liés au chiffres d’affaire que vous générez.
+👉 **Retraite** : Les trimestres validés et le montant de votre retraite sont liés au chiffre d’affaires que vous générez.
 
 > 👴 Pour en savoir plus, rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F33841), rubrique “Professions libérales”.
 
@@ -215,7 +215,7 @@ Ce fonctionnement est avantageux dès lors que vous êtes dans la 3ème tranche 
 
 ### Comment calculer l'impôt en micro entreprise ?
 
-De son côté Jackie ne remplit pas les conditions pour être éligible au versement libératoire. Elle paye donc ses impôts comme la majorité des Français en étant prélevée à la source. Nous calculons les montants des cotisations fiscales en appliquant le [barème de l’impôt sur le revenu.](https://www.service-public.fr/particuliers/vosdroits/F1419)
+De son côté Jackie ne remplit pas les conditions pour être éligible au versement libératoire. Elle paye donc ses impôts comme la majorité des Français en étant prélevée à la source. Nous calculons les montants des impôts en appliquant le [barème de l’impôt sur le revenu.](https://www.service-public.fr/particuliers/vosdroits/F1419)
 
 #### Abattement
 
@@ -226,6 +226,7 @@ Votre taux d’imposition est déterminé par le montant de votre chiffre d’af
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un CA annuel de 64 800€ HT et un Net imposable (après abattement de 34%) de 42 768 €, l’impôt sur le revenu annuel s’élève à **6 836€** soit **570€/mois**.
 
 {{< simple-table "yalink-table" >}}
+
 | Tranches (barème 2020) | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
 | --- | --- | --- |
 | Jusqu’à 10 084 € | 0% | 0 € |
@@ -239,7 +240,7 @@ Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un CA annuel d
 ### Où en est Jackie ?
 
 > Palier social : Reste 46 980€ soit 3 915€/mois  
-> Cotisations fiscales : 6 836 € soit 570€/mois  
+> Impôt sur le revenu : 6 836 € soit 570€/mois  
 > **Palier fiscal : 40 144 € soit 3 345€/mois**
 
 ## 🌱 Les autres cotisations
@@ -258,7 +259,7 @@ Cependant, bonne nouvelle, vous en êtes exempté l’année de la création de 
 
 Le barème de la CFE est disponible [ici](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23547). Dans notre calcul nous prendrons comme estimation une cotisation de **1 226€** (valeur médiane du barème).
 
-### Cotisation Formation Professionnelle
+### Contribution à la Formation Professionnelle
 
 La CFP correspond à un pourcentage du chiffre d'affaires de l'année précédente et s'ajoute donc aux cotisations sociales dues.
 
@@ -275,6 +276,7 @@ Elle correspond à **0.2% du CA.**
 Vous voici arrivé à destination. On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
 {{< simple-table "yalink-table" >}}
+
 | CA Annuel : | 64 800€ HT |
 | --- | --- |
 | Cotisations sociales : | 14 256 € |
@@ -283,6 +285,7 @@ Vous voici arrivé à destination. On récapitule donc le “combien il reste en
 | CFE : | 1 226€ |
 | CFP : | 130 € |
 | CIMREFDM : | 38 788 € |
+
 {{< /simple-table >}}
 
 **A la fin de chaque mois il reste donc 3 232€ net**
