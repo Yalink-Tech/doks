@@ -5,7 +5,7 @@ description = "Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fi
 imageCover = "/uploads/licro-entrepeneur.png"
 images = []
 lastmod = 2021-04-27T22:00:00Z
-lead = "Comment devenir freelance ? \n\nLe guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survire en micro entreprise c'est ici que cela se passe"
+lead = "Comment devenir freelance ? Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survivre en micro entreprise c'est ici que cela se passe"
 title = "Comment devenir ingénieur micro-entrepreneur ?"
 weight = 100
 
