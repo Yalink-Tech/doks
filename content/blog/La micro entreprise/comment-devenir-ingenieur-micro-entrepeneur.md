@@ -16,15 +16,15 @@ Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a é
 
 ### Ce que vous apprendrez dans cet article
 
-👉 La particularité du **régime simplifié de la micro entreprise** et notamment le mode de calcul des cotisations sociales, impôts et taxes.
+👉 La particularité du **régime simplifié de la micro-entreprise** et notamment le mode de calcul des cotisations sociales, impôts et taxes.
 
-👉Le « **Combien il me reste en fin de mois** ? » (le CIMREFDM) obtenu après avoir payé cotisations sociales, impôts et taxes.
+👉Le « **Combien il me reste en fin de mois** ? » (le CIMREFDM) obtenu après avoir payé les cotisations sociales, impôts et taxes.
 
 👉 Le **Taux Journalier Moyen** (TJM) que vous pouvez facturer en tant que freelance en fonction de ce que vous souhaitez gagner.
 
 La **méthodologie** est la suivante : nous suivrons la fameuse Jackie Mongoose, et plus particulièrement la transformation de son **Chiffre d'Affaires (CA) en net par mois**, en passant au préalable par les paliers sociaux et fiscaux 👌.
 
-## 🌱 La Micro Entreprise en 2021
+## 🌱 La Micro-Entreprise en 2021
 
 ### Un régime simplifié
 
@@ -46,7 +46,7 @@ Toutes les subtilités du statut de la micro-entreprise ne sont pas traitées da
 
 👉 Vous êtes redevable de la **TVA** dès lors que vous dépassez le seuil de **34 400€** de CA (l’état accepte jusqu’à 36 500€).
 
-👉 La micro-entreprise n’a pas de **personnalité juridique** qui lui soit propre. Aux yeux de la loi **vous êtes votre entreprise, et l’entreprise est vous**.
+👉 La micro-entreprise n’a pas de **personnalité juridique** qui lui soit propre. Aux yeux de la loi, **vous êtes votre entreprise, et l’entreprise est vous**.
 
 👉 **Vous êtes responsable des dettes de votre micro-entreprise**. Dans votre cas, étant donné que vous vendez des services, il est peu probable que votre entreprise s’endette.
 
@@ -62,13 +62,13 @@ Une activité en micro-entreprise implique:
 
 👉 Un plafond de chiffre d'affaires par année civile: 72 600€ HT /an.
 
-> 🚧 Si vous dépassez ces plafonds deux années de suite, vous sortez du régime de la micro-entreprise et êtes soumis·e au régime classique de l’entreprise individuelle à partir du 1er janvier de l'année suivante.
+> 🚧 Si vous dépassez ces plafonds deux années de suite, vous sortez du régime de la micro-entreprise et êtes soumis au régime classique de l’entreprise individuelle à partir du 1er janvier de l'année suivante.
 >
-> Prenez-garde par exemple à votre première année d’activité : ce plafond est **proratisé** ! Exemple: si vous créez votre entreprise le 1er Juillet, votre plafond sera de 36 300€ (6 mois d’activité).
+> Prenez-garde, par exemple, à votre première année d’activité : ce plafond est **proratisé** ! Exemple: si vous créez votre entreprise le 1er Juillet, votre plafond sera de 36 300€ (6 mois d’activité).
 
 👉 **Une franchise en base de TVA** : vous ne facturez pas la TVA et ne la récupérez pas sur vos achats jusqu’à **34 400€ de CA**.
 
-> 🚧Au delà de 34 400€ facturés il y a facturation de la TVA dès le premier jour du mois de dépassement. Soyez donc vigilant ! Vous pouvez également faire la demande de collecter la TVA dès votre 1er jour d’activité. Envie d’en savoir plus ? Consultez l’article de [shine](https://www.shine.fr/blog/assujetti-tva-auto-entrepreneur/).
+> 🚧Au delà de 34 400€ facturés, il y a facturation de la TVA dès le premier jour du mois de dépassement. Soyez donc vigilant ! Vous pouvez également faire la demande de collecter la TVA dès votre 1er jour d’activité. Envie d’en savoir plus ? Consultez l’article de [shine](https://www.shine.fr/blog/assujetti-tva-auto-entrepreneur/).
 
 ## 🌱L’aventure de Jackie Mongoose
 
@@ -78,16 +78,16 @@ Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Ma
 
 > Jackie a **32** ans.  
 > C'est une ingénieure **Freelance**.  
-> Elle travaille dans les **télécommunication**.  
+> Elle travaille dans les **télécommunications**.  
 > Elle vit à **Bordeaux**, la belle endormie.
 
 👉 **Jackie Mongoose** vous accompagnera tout au long de ce voyage à la découverte de la micro-entreprise. .
 
-👉 Jackie souhaite gagner environ 3 200€ net et travailler en moyenne 18 jours par mois. Ceci équivaut à 7 semaines de congé par an.
+👉 Jackie souhaite gagner environ 3 200€ net et travailler en moyenne 18 jours par mois. Ceci équivaut à 7 semaines de congés par an.
 
 👉 Elle a donc fixé un TJM de **300€** grâce au simulateur disponible en fin d'article. Elle facture à son client **5 400€ HT** par mois et réalise un CA annuel de **64 800€ HT.**
 
-> 🚧 Jackie a fixé son TJM en fonction de ses besoins personnels. Celui-ci peut varier en fonction de la durée de la mission ainsi que de la complexité de celle-ci.
+> 🚧 Jackie a fixé son TJM en fonction de ses besoins personnels. Celui-ci peut varier en fonction de la durée de la mission ainsi que la complexité de celle-ci.
 
 👉 Pour la simplicité des calculs nous prendrons l’hypothèse que Jackie est **célibataire et sans enfant**. Son quotient familial est de **1**. Ceci nous servira pour le calcul de l’impôt.
 
@@ -132,7 +132,7 @@ La sécurité sociale des indépendants est l’un des gros chantiers du gouvern
 
 👉 **Arrêt maladie** : Les freelances peuvent bénéficier (sous conditions) des indemnités journalières de sécurité sociale (IJSS) en cas d'arrêt maladie. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.), rubrique “Cotisations & contributions”.
 
-👉 **Allocation familiales** : Prestations identiques de celle des salariés.
+👉 **Allocations familiales** : Prestations identiques de celle des salariés.
 
 👉 **Retraite** : Les trimestres validés et le montant de votre retraite sont liés au chiffre d’affaires que vous générez.
 
@@ -161,7 +161,7 @@ Nous avons listé ci-dessous le budget moyen qu’il faut compter pour chaque pr
 
 > #### Banque en ligne
 >
-> L'ouverture d'un compte pro est obligatoire à partir de 10k€ HT facturé deux années consécutives
+> L'ouverture d'un compte pro est obligatoire à partir de 10k€ HT facturés deux années consécutives
 >
 > **environ 8€/ mois avec notre partenaire** [**shine**](https://www.shine.fr/lp/partenaire/yalink/)
 
@@ -179,7 +179,7 @@ Nous avons listé ci-dessous le budget moyen qu’il faut compter pour chaque pr
 
 ## 🌱 Le palier fiscal
 
-En tant que **micro-entrepreneur·e** vous bénéficiez d’un régime fiscal simplifié. Les revenus que vous tirez de votre entreprise sont imposés au titre de votre impôt sur le revenu.
+En tant que **micro-entrepreneur,** vous bénéficiez d’un régime fiscal simplifié. Les revenus que vous tirez de votre entreprise sont imposés au titre de votre impôt sur le revenu.
 
 Pour le paiement de votre **impôt sur le revenu**, deux possibilités s’offrent à vous:
 
@@ -195,9 +195,9 @@ Des acomptes sont prélevés sur votre compte bancaire tous les mois ou tous les
 
 Une régularisation a lieu, si besoin, en septembre suite au dépôt de votre déclaration des revenus annuels au printemps.
 
-Vous êtes soumis·e au barème progressif de l’impôt sur le revenu.
+Vous êtes soumis au barème progressif de l’impôt sur le revenu.
 
-Votre taux d’imposition est déterminé par le montant de votre chiffre d’affaires, auquel l’administration soustrait **un abattement forfaitaire pour frais professionnels. de 34 % du CA.**
+Votre taux d’imposition est déterminé par le montant de votre chiffre d’affaires, auquel l’administration soustrait **un abattement forfaitaire pour frais professionnels de 34 % du CA.**
 
 Jackie est dans ce cas, tout est expliqué à la slide suivante.
 
@@ -207,13 +207,13 @@ Dans ce cas, votre impôt est prélevé mensuellement ou trimestriellement sur v
 
 Vous payez directement votre impôt sur le revenu à l’occasion de la déclaration de chiffre d’affaires que vous réalisez auprès de l’URSSAF.
 
-Si vous avez choisi le versement libératoire, vous êtes imposé à un taux fixe. Ce taux est de 2,2% du chiffre d’affaires hors taxes.
+Si vous avez choisi le versement libératoire, vous êtes imposé à un taux fixe. Ce taux est de 2,2% du chiffre d’affaires hors taxe.
 
-Pour connaître les conditions et pour plus d’information, n’hésitez pas à consulter le site des [impôts](https://www.impots.gouv.fr/portail/professionnel/le-versement-liberatoire).
+Pour connaître les conditions et pour plus d’informations, n’hésitez pas à consulter le site des [impôts](https://www.impots.gouv.fr/portail/professionnel/le-versement-liberatoire).
 
 Ce fonctionnement est avantageux dès lors que vous êtes dans la 3ème tranche d’imposition.
 
-### Comment calculer l'impôt en micro entreprise ?
+### Comment calculer l'impôt en micro-entreprise ?
 
 De son côté Jackie ne remplit pas les conditions pour être éligible au versement libératoire. Elle paye donc ses impôts comme la majorité des Français en étant prélevée à la source. Nous calculons les montants des impôts en appliquant le [barème de l’impôt sur le revenu.](https://www.service-public.fr/particuliers/vosdroits/F1419)
 
@@ -245,7 +245,7 @@ Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un CA annuel d
 
 ## 🌱 Les autres cotisations
 
-Encore des taxes qui étaient jusqu’alors invisibles. Ces taxes sont obligatoires et concernent toutes les entreprises. On vous le promet il s’agit des dernières cotisations 💛.
+Encore des taxes qui étaient jusqu’alors invisibles. Ces taxes sont obligatoires et concernent toutes les entreprises. On vous le promet, il s’agit des dernières cotisations 💛.
 
 ### La Cotisation Foncière des Entreprises
 
@@ -257,7 +257,7 @@ Cependant, bonne nouvelle, vous en êtes exempté l’année de la création de 
 
 > 🚧 Attention, si vous travaillez depuis votre domicile ou chez vos clients et ne disposez pas de local dédié à votre activité, vous devez tout de même déclarer une surface minimale (1 mètre carré) et êtes dans tous les cas redevable de la CFE.
 
-Le barème de la CFE est disponible [ici](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23547). Dans notre calcul nous prendrons comme estimation une cotisation de **1 226€** (valeur médiane du barème).
+Le barème de la CFE est disponible [ici](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23547). Dans notre calcul, nous prendrons comme estimation une cotisation de **1 226€** (valeur médiane du barème).
 
 ### Contribution à la Formation Professionnelle
 
