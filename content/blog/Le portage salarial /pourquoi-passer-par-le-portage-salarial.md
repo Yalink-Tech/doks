@@ -68,7 +68,7 @@ _Toutes les subtilités du statut de portage salarial ne sont pas traitées dans
 
 ### Les 5 étapes clés
 
-Le portage salarial se déroule en 5 étapes clés où le freelance est accompagnés à chaque étape. Vous pouvez choisir d'être accompagné par [**Yalink**](https://yalink.fr/) et la société de portage [**RH solutions**.](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html)
+Le portage salarial se déroule en 5 étapes clés où le freelance est accompagné à chaque étape. Vous pouvez choisir d'être accompagné par [**Yalink**](https://yalink.fr/) et la société de portage [**RH solutions**.](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html)
 
 **👉 La prospection**
 
@@ -76,15 +76,15 @@ Vous obtenez une mission par vos propres moyens ou via l’intermédiaire d’un
 
 **👉 La contractualisation**
 
-Un contrat (en CDD ou CDI) est établit entre la société de portage et le freelance . De son côté la société de portage établit un contrat de mission avec l’entreprise.
+Un contrat (en CDD ou CDI) est établit entre la société de portage et le freelance . De son côté, la société de portage établit un contrat de mission avec l’entreprise.
 
 **👉 Le compte de résultat**
 
-Vous bénéficiez au sein de votre société de portage (exemple : [RH Solutions](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html)) d’un compte de résultat sur lequel est versé votre Chiffre d’Affaires (CA). Vous pouvez choisir de vous verser tout ou partie de ce CA en salaire.
+Vous bénéficiez au sein de votre société de portage (exemple : [RH Solutions](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html)) d’un compte de résultat sur lequel est versé votre Chiffre d’Affaires (CA). Vous pouvez choisir de vous verser tout ou une partie de ce CA en salaire.
 
 **👉 La mission**
 
-Pendant la durée de la mission, le freelance informe ses partenaires de l’avancée de sa mission via son Compte Rendu d’Activité (CRA). La rémunération du freelance intervient tous les mois (le 5 du mois suivant en général) en fonction du montant de la prestation facturé à l’entreprise.
+Pendant la durée de la mission, le freelance informe ses partenaires de l’avancée de sa mission via son Compte Rendu d’Activité (CRA). La rémunération du freelance intervient tous les mois (le 5 du mois suivant en général) en fonction du montant de la prestation facturée à l’entreprise.
 
 **👉 Fin de mission**
 
@@ -182,22 +182,24 @@ L’objectif est de définir en fonction du TJM facturé par la société de por
 Nous prenons l’hypothèse que Jackie travaille 18 jours dans le mois. La société de portage facture donc 300€ x 18 jours x 12 mois = 64 800 € HT au client final.
 
 {{< simple-table "yalink-table" >}}
+
 | Facturation : | 64 800 € HT |
-| ----------------------- | --------------------- |
+| --- | --- |
 | Frais de gestion ( 7 %) : | 4 536 € |
 | Solde intermédiaire : | 60 264 € |
 | Cotisation patronales : | 17 810 € |
 | Salaire brut: | 42 454 € |
 | Cotisation salariales : | 8 963€ |
 | Rémunération nette : | 33 491 € (avant impôt) |
-| Rémunération nette/mois : | 2 791 € (avant impôt)\* |
+| Rémunération nette/mois : | 2 791 € (avant impôt)* |
+
 {{< /simple-table >}}
 
 ### Ce qui reste en fin de mois avant impôt
 
 A la fin de chaque mois il reste donc **2 791 € net** avant impôt soit un retour financier de **52%.**
 
-_\* La rémunération nette mensuelle comprend les congés payés ainsi que la réserve financière de 10%._
+_* La rémunération nette mensuelle comprend les congés payés ainsi que la réserve financière de 10%._
 
 ## **🌱** Le palier fiscal
 
@@ -212,13 +214,15 @@ L'administration fiscale applique automatiquement à tous les salariés un abatt
 Pour rappel Jackie a 32 ans et est célibataire sans enfant. Avec un net imposable (après abattement de 10%) de 33 491 € - 10% = 30 142 €, l’impôt sur le revenu annuel s’élève à **3 048 €** soit **254€/mois.**
 
 {{< simple-table "yalink-table" >}}
+
 | Tranches | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
-| --------------------- | ---------------------------------------- | ----------------------- |
+| --- | --- | --- |
 | Jusqu’à 10 084 € | 0% | 0 € |
 | De 10 085 € à 25 710 € | 11% | 1719 € |
 | De 25 711 € à 73 516 € | 30% | 1 330 € |
 | De 73 517 € à 158 122 € | 41% | 0 € |
 | Au delà de 158 123 € | 45% | 0 € |
+
 {{< /simple-table >}}
 
 ### Où en est Jackie Mongoose ?
@@ -236,17 +240,19 @@ Vous voici arrivé à destination.
 On récapitule donc le “combien il reste en fin de mois” de Jackie. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 300€.
 
 {{< simple-table "yalink-table" >}}
+
 | CA Annuel : | 64 800 € HT |
-| ---------------------- | ----------- |
+| --- | --- |
 | Frais portage salarial | 4 536 € |
 | Cotisations sociales | 26 773 € |
-| Impôt \* | 3 048 € |
+| Impôt * | 3 048 € |
 | Net annuel: | 30 443 € |
+
 {{< /simple-table >}}
 
-_\* l’impôt est calculé sur le cas de J.mongoose et varie en fonction de la situation personnelle de chacun._
+_* l’impôt est calculé sur le cas de J.mongoose et varie en fonction de la situation personnelle de chacun._
 
-👍 A la fin de chaque mois il reste donc **2 537 € net\_\_ dans la poche de Jackie**.\*\*
+👍 A la fin de chaque mois il reste donc **2 537 € net__ dans la poche de Jackie__.**
 
 Ces résultats ont été obtenus en lien avec la société de portage salarial RH solutions. [Contactez les](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html) pour plus de renseignement.
 
@@ -255,6 +261,7 @@ Ces résultats ont été obtenus en lien avec la société de portage salarial R
 Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au cas où vous auriez oublié quelque chose en route !
 
 {{< simple-table "yalink-table" >}}
+
 | Statut | Micro entrepreneur | Portage salarial |
 | --- | --- | --- |
 | TJM | 300 | 300€ |
@@ -263,8 +270,9 @@ Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au c
 | Net Annuel (avant impôt) | 45 624 € | 34 113 € |
 | Net mensuel (avant impôt) | 3 802 € | 2 791 € |
 | Net mensuel | 3 232 € | 2 537 € |
+
 {{< /simple-table >}}
 
-Nous avons aussi calculer le TJM que Jackie Mongoose aurait dû facturer pour pouvoir obtenir le même salaire net (avant impôt). Celui-ci s’élève à **424 €**.
+Nous avons aussi calculé le TJM que Jackie Mongoose aurait dû facturer pour pouvoir obtenir le même salaire net (avant impôt). Celui-ci s’élève à **424 €**.
 
-Pour plus d’information, n’hésitez pas à [nous contacter](https://yalink.fr/nous_contacter).
+Pour plus d’informations, n’hésitez pas à [nous contacter](https://yalink.fr/nous_contacter).
