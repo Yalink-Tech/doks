@@ -99,9 +99,9 @@ L’objectif est ici de comprendre les dépenses et les cotisations dont Jackie 
 
 Les cotisations sociales sont les prélèvements (que l’on peut retrouver sur une fiche de paie quand on est salarié) qui servent à financer la retraite, la santé et les allocations familiales.
 
-Le montant de vos cotisations sociales représentent un **pourcentage fixe__ des sommes que vous encaissez.**
+Le montant de vos cotisations sociales représentent un **pourcentage fixe des sommes que vous encaissez.**
 
-👉** Le taux qui s’applique aux micro-entrepreneurs est de **22 % du chiffre d’affaires** hors taxes.
+👉 Le taux qui s’applique aux micro-entrepreneurs est de **22 % du chiffre d’affaires** hors taxes.
 
 > 💪 Si vous n’avez pas de CA, vous ne payez pas de cotisation. Il faut néanmoins le déclarer à l'administration fiscale.
 
