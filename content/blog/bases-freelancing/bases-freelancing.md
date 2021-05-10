@@ -157,18 +157,18 @@ Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d�
 
 {{< simple-table "yalink-table" >}}
 
-| Structure juridique                | Micro entrepreneur               | Portage salarial | EURL                                               | SASU                                               |
-| ---------------------------------- | -------------------------------- | ---------------- | -------------------------------------------------- | -------------------------------------------------- |
-| Nb associé                         | 1                                | N/A              | 1 Si > → SARL                                      | 1 Si > → SAS                                       |
-| € de création                      | 0€                               | N/A              | 300€ / 1 400€                                      | 300€ / 1 400€                                      |
-| € de fermeture                     | 0€                               | N/A              | 1 000€                                             | 1 000€                                             |
-| Démarches administratives          | Simples                          | Modérées         | Complexes                                          | Complexes                                          |
-| Rédaction statuts                  | Non                              | N/A              | Oui                                                | Oui                                                |
-| Plafond de CA                      | 72 600€                          | Non              | Non                                                | Non                                                |
-| Collecte la TVA ?                  | Non si CA < 34 400€              | N/A              | Oui - 20%                                          | Oui - 20%                                          |
-| Capital social                     | 0€                               | N/A              | 1€ minimum 500€ conseillé                          | 1€ minimum 500€ conseillé                          |
-| Régime fiscal                      | IR abattement forfaitaire de 34% | IR               | IR ou IS Possibilité de déduire les charges du CA. | IR ou IS Possibilité de déduire les charges du CA. |
-| Régime social                      | TNS                              | salarié          | TNS                                                | Assimilé salarié                                   |
-| Dirigeant cotise pour le chômage ? | Non                              | Oui              | Non                                                | Non                                                |
+| Structure juridique | Micro entrepreneur | Portage salarial | EURL | SASU |
+| --- | --- | --- | --- | --- |
+| Nb associé | 1 | N/A | 1 Si > → SARL | 1 Si > → SAS |
+| € de création | 0€ | N/A | 300€ / 1 400€ | 300€ / 1 400€ |
+| € de fermeture | 0€ | N/A | 1 000€ | 1 000€ |
+| Démarches administratives | Simples | Modérées | Complexes | Complexes |
+| Rédaction statuts | Non | N/A | Oui | Oui |
+| Plafond de CA | 72 600€ | Non | Non | Non |
+| Collecte la TVA ? | Non si CA < 34 400€ | N/A | Oui - 20% | Oui - 20% |
+| Capital social | 0€ | N/A | 1€ minimum 500€ conseillé | 1€ minimum 500€ conseillé |
+| Régime fiscal | IR abattement forfaitaire de 34% | IR | IR ou IS Possibilité de déduire les charges du CA. | IR ou IS Possibilité de déduire les charges du CA. |
+| Régime social | TNS | salarié | TNS | Assimilé salarié |
+| Dirigeant cotise pour le chômage ? | Non | Oui | Non | Non |
 
 {{< /simple-table >}}
