@@ -1,7 +1,7 @@
 +++
 contributors = ["Vincent\n"]
 date = 2021-04-27T22:00:00Z
-description = "Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survire en micro entreprise c'est ici que cela se passe. "
+description = "Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survivre en micro entreprise c'est ici que cela se passe. "
 imageCover = "/uploads/licro-entrepeneur.png"
 images = []
 lastmod = 2021-04-27T22:00:00Z
