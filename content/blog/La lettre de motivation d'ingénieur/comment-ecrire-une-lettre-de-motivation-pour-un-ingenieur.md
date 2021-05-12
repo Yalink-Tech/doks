@@ -120,7 +120,7 @@ La taille conseillée se situe entre **10 et 12** pour une lecture fluide et fac
 
 Pour finir avec le format de votre lettre de motivation, il est obligatoire et conseillé de se restreindre à **1 page**. Votre lettre de motivation se doit d’être **synthétique et précise**, afin de combler le recruteur dans sa quête d’informations mais également dans le temps qu’il accorde à la lecture d’une lettre de motivation.
 
-> En moyenne, l'attention d'un recruteur accordé à la lecture d'une lettre de motivation est de **15 à 30 secondes.**
+> En moyenne, l'attention d'un recruteur accordée à la lecture d'une lettre de motivation est de **15 à 30 secondes.**
 
 ## 📝 Conseils pour réussir et personnaliser votre lettre de motivation
 
