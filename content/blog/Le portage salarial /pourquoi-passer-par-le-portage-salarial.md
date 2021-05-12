@@ -12,7 +12,7 @@ weight = 100
 +++
 ## 🌱 Pourquoi un article de blog?
 
-Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
+Cet article fait partie de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
 
 ### Ce que vous apprendrez dans cet article
 
