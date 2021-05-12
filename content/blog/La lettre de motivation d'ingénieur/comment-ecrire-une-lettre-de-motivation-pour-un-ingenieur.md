@@ -10,7 +10,7 @@ title = "Comment écrire une lettre de motivation pour un ingénieur ?"
 weight = nil
 
 +++
-## 🌱Pourquoi un article de blog
+## 🌱 Pourquoi un article de blog
 
 Nous connaissons les difficultés parfois rencontrées lors de la rédaction d’une lettre de motivation. Afin de vous aiguiller dans la rédaction de cette dernière, nous avons rédigé cet article regroupant la méthode à appliquer mais également des conseils pour convaincre un recruteur, afin d’aider les ingénieurs à se faire connaître et les aider dans leurs démarches de recherches d’emplois ou missions.
 
