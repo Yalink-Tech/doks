@@ -82,9 +82,9 @@ Nous vous conseillons d’appuyer votre propos par la citation d’exemples conc
 
 La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueur ou le travail d'équipe peut se révéler utile si elle est adaptée à la mission et au motif de votre lettre de motivation.
 
-> Les **_soft skills_** représentes les compétences comportementales, souvent ignorée dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent les compétences techniques.
+> Les **_soft skills_** représentent les compétences comportementales, souvent ignorées dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent les compétences techniques.
 
-🧐 Conseil :  **Un recruteur à tendance à faire la différence sur les soft skills à CV égale. Ne négligez pas ce point.**
+🧐 Conseil :  **Un recruteur à tendance à faire la différence sur les soft skills à CV égal. Ne négligez pas ce point.**
 
 ### Un paragraphe pour conclure
 
@@ -102,7 +102,7 @@ Nous vous conseillons de montrer votre disponibilité à un éventuel entretien.
 
 ## 📝 Mise en page de la lettre de motivation
 
-Il est important que la mise en page de votre lettre de motivation soit la plus **soignée** possible et **simple**. Elle doit faciliter la lecture par sa simplicité mais également donner l’envie de lire au recruteur par la façon dont elle est soignée.
+Il est important que la mise en page de votre lettre de motivation soit la plus **soignée** possible et **simple**. Elle doit faciliter la lecture mais également donner l’envie de la lire au recruteur grâce à sa présentation.
 
 ### Le format et la police
 
