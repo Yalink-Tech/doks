@@ -75,15 +75,15 @@ Ce paragraphe représente la deuxième et dernière partie du **_moi_**. Il a po
 
 Pour cela, il vous est **nécessaire d’argumenter chacun des éléments apportés.**
 
-Nous vous conseillons d’appuyer votre propos par la citation d’exemples concrets, permettant à l’entreprise de mieux cerner votre profil. Ces exemples peuvent être des expériences mentionnées dans votre CV.  
+Nous vous conseillons d’appuyer votre propos par la citation d’exemples concrets, permettant à l’entreprise de mieux cerner votre profil. Ces exemples peuvent être des expériences mentionnées dans votre CV.
 
-🧐_Conseil_ :  **Il est toujours important d’établir un lien entre le CV et sa lettre de motivation.**
+🧐 Conseil :  **Il est toujours important d’établir un lien entre le CV et sa lettre de motivation.**
 
 La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueur ou le travail d'équipe peut se révéler utile si elle est adaptée à la mission et au motif de votre lettre de motivation.
 
 > Les **_soft skills_** représentes les compétences comportementales, souvent ignorée dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent les compétences techniques.
 
-🧐_Conseil_ :  **Un recruteur à tendance à faire la différence sur les soft skills à CV égale. Ne négligez pas ce point.** 
+🧐 Conseil :  **Un recruteur à tendance à faire la différence sur les soft skills à CV égale. Ne négligez pas ce point.**
 
 ### Un paragraphe pour conclure
 
@@ -107,7 +107,7 @@ Il est important que la mise en page de votre lettre de motivation soit la plus 
 
 La lettre de motivation est obligatoirement en **format A4**. Afin de faciliter la lecture et la compréhension de votre lettre de motivation, nous vous conseillons une lettre de motivation **dactylographiée** (écrite à l'ordinateur)**.** Cela vous permettra d’avoir une version que vous partagerez par mail ou une version imprimée que vous enverrez par **voie postale.**
 
-> 🚀_Tips :_ Envoyer sa lettre par voie postale peut être un moyen de **se différencier.** Cette méthode peut sembler révolue, mais la digitalisation des candidatures et des offres ont rendu ce support presque inutilisé, et donc une opportunité à saisir ! 
+> 🚀 Tips : Envoyer sa lettre par voie postale peut être un moyen de **se différencier.** Cette méthode peut sembler révolue, mais la digitalisation des candidatures et des offres ont rendu ce support presque inutilisé, et donc une opportunité à saisir !
 
 Les paragraphes se doivent d’être visuellement distincts, avec des sauts de lignes entre chacun d’eux ainsi que des alinéas en début de chaque paragraphe. Lorsque vous considérez changer de sujet, ou mettre en évidence un élément des autres, vous avez la possibilité de revenir à la ligne afin d'aérer votre lettre et faciliter la lecture.
 
@@ -126,20 +126,10 @@ Pour finir avec le format de votre lettre de motivation, il est obligatoire et c
 Pour réaliser une lettre de motivation d'ingénieur percutante, il est important, lors de la rédaction, de garder en tête l’offre d’emploi ainsi que les informations trouvées sur l’entreprise. **Soyez objectif en ce qui concerne la pertinence et l’intérêt des éléments que vous rédigez.**
 
 * N’hésitez pas à aller droit au but, sans passer par des phrases bateau, vues des centaines de fois sur d’autres lettres de motivations. **Soyez vous même, ne vous embêtez pas à rédiger des phrases complexes pour vous donner un genre, soyez synthétique.**
-
-
 * En ce qui concerne les mots employés, utilisez un vocabulaire riche afin d’éviter de vous répéter ainsi que la répétition de mots bateau comme “motivé” par exemple.
-
-
 * L’écriture de votre lettre de motivation d'ingénieur se doit d’être au présent, en utilisant des phrases affirmatives. Utilisez tout cela afin de différencier votre lettre de motivation de votre CV. **Votre lettre doit être complémentaire à votre CV et non un copié-collé.**
-
-
 * N’oubliez pas de vous relire avant d’envoyer votre lettre. Les fautes d’orthographe sont **rédhibitoires.** Enfin, pour une lecture fluide, pensez à surveiller la ponctuation qui peut donner un réel rythme à votre lettre.
-
-
 * La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Nous vous conseillons la lecture à voix haute, avec la possibilité de vous enregistrer afin d'évaluer objectivement votre prestation orale. Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
-
-
 * Pensez à conserver le fichier de votre lettre de motivation pour l’entretien ou les prochaines fois. Vous pourrez vous en inspirer pour en rédiger de nouvelles, répondant aux critères d’autres offres.
 
 Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre lettre de motivation. **N’oubliez pas que le CV reste la chose la plus importante dans une réponse d’offre, mais la lettre de motivation peut faire la différence à profil égal.**
