@@ -18,7 +18,7 @@ Nous connaissons les difficultés parfois rencontrées lors de la rédaction d�
 
 👉La méthode de rédaction à suivre pour être convaincant
 
-👉Des astuces et conseils pour personnaliser votre lettre de motivation
+👉Des astuces et conseils pour personnaliser votre lettre de motivation d'ingénieur
 
 👉Les erreurs à ne pas reproduire
 
@@ -26,7 +26,7 @@ Nous connaissons les difficultés parfois rencontrées lors de la rédaction d�
 
 La lettre de motivation intervient après l'élaboration d’un CV. Malgré que le CV représente le principal critère de sélection, la lettre de motivation peut être **un élément différenciant voire décisif** lors de la recherche et l’obtention d’un emploi ou d’une mission.
 
-Par conséquent, il est nécessaire de prendre en considération ces données et de veiller à rédiger une lettre de motivation personnalisée et unique.
+Par conséquent, il est nécessaire de prendre en considération ces données et de veiller à rédiger une lettre de motivation d'ingénieur personnalisée et unique.
 
 ## 📝 Comment structurer sa lettre de motivation ?
 
@@ -118,13 +118,13 @@ Pour finir avec le format de votre lettre de motivation, il est obligatoire et c
 
 ## 📝 Conseils pour réussir et personnaliser votre lettre de motivation
 
-Pour réaliser une lettre de motivation percutante, il est important, lors de la rédaction, de garder en tête l’offre d’emploi ainsi que les informations trouvées sur l’entreprise.                                                                         **Soyez objectif en ce qui concerne la pertinence et l’intérêt des éléments que vous rédigez.**
+Pour réaliser une lettre de motivation d'ingénieur percutante, il est important, lors de la rédaction, de garder en tête l’offre d’emploi ainsi que les informations trouvées sur l’entreprise.                                                                         **Soyez objectif en ce qui concerne la pertinence et l’intérêt des éléments que vous rédigez.**
 
 N’hésitez pas à aller droit au but, sans passer par des phrases bateau, vues des centaines de fois sur d’autres lettres de motivations.              **Soyez vous même, ne vous embêtez pas à rédiger des phrases complexes pour vous donner un genre, soyez synthétique.**
 
 En ce qui concerne les mots employés, utilisez un vocabulaire riche afin d’éviter de vous répéter ainsi que la répétition de mots bateau comme “motivé” par exemple.
 
-L’écriture de votre lettre de motivation se doit d’être au présent, en utilisant des phrases affirmatives. Utilisez tout cela afin de différencier votre lettre de motivation de votre CV. **Votre lettre doit être complémentaire à votre CV et non un copié-collé.**
+L’écriture de votre lettre de motivation d'ingénieur se doit d’être au présent, en utilisant des phrases affirmatives. Utilisez tout cela afin de différencier votre lettre de motivation de votre CV. **Votre lettre doit être complémentaire à votre CV et non un copié-collé.**
 
 N’oubliez pas de vous relire avant d’envoyer votre lettre. Les fautes d’orthographe sont **rédhibitoires.** Enfin, pour une lecture fluide, pensez à surveiller la ponctuation qui peut donner un réel rythme à votre lettre.
 
