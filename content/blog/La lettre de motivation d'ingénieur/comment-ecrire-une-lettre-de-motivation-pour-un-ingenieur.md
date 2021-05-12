@@ -2,7 +2,6 @@
 contributors = ["Timothy"]
 date = 2021-05-11T22:00:00Z
 description = "Ingénieur, comment convaincre lors de la rédaction de sa lettre de motivation ? Les éléments dont vous avez besoin pour y parvenir se trouvent ici."
-draft = true
 imageCover = "/uploads/typing.png"
 lastmod = ""
 lead = "Ingénieur, comment convaincre lors de la rédaction de sa lettre de motivation ? Les éléments dont vous avez besoin pour y parvenir se trouvent ici."
