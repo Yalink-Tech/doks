@@ -30,13 +30,17 @@ Par conséquent, il est nécessaire de prendre en considération ces données et
 
 ## 📝 Comment structurer sa lettre de motivation ?
 
-En ce qui concerne la lettre de motivation d’ingénieur, elle peut se structurer de la façon suivante, en somme toute classique : **_vous, moi, nous_**.
+En ce qui concerne la lettre de motivation d’ingénieur, elle peut se structurer de la façon suivante, en somme toute classique : 
 
-Le **_vous_** fait directement référence à l’entreprise et par conséquent le recruteur.
+* **_vous_**
+* **_moi_**
+* **_nous_**
 
-Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée.
+> Le **_vous_** fait directement référence à l’entreprise et par conséquent le recruteur.
 
-Pour finir, le **_nous_** permet d’asseoir la possibilité ou opportunité d’un avenir commun dans le cas où vous seriez sélectionné. Cependant, il n’est pas obligatoire et nécessaire de respecter ce plan. Il est important d’**adapter ce plan au message** que vous souhaitez communiquer afin de respecter la logique de vos propos.
+> Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée.
+
+> Pour finir, le **_nous_** permet d’asseoir la possibilité ou opportunité d’un avenir commun dans le cas où vous seriez sélectionné. Cependant, il n’est pas obligatoire et nécessaire de respecter ce plan. Il est important d’**adapter ce plan au message** que vous souhaitez communiquer afin de respecter la logique de vos propos.
 
 Ces trois paragraphes représentent la base de votre lettre de motivation. Il est également important de se focaliser sur la disposition de votre lettre.
 
@@ -44,11 +48,13 @@ Ces trois paragraphes représentent la base de votre lettre de motivation. Il es
 
 L'en-tête doit être composé des informations essentielles et nécessaires à votre candidature, comme votre nom, vos coordonnées, la date et l’objet de votre lettre.
 
-**Il est vital de respecter la structure et composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un a priori négatif quant à la suite de votre lettre.
+**Il est vital de respecter la structure et composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
 
 ### Un paragraphe d’accroche
 
 Ceci est l’une des étapes les plus importantes de votre lettre de motivation. En effet, vous devez **être bref et précis** **tout en étant le plus convaincant possible.**
+
+A l'instar d'un mail, le paragraphe d'accroche représente l'objet. Si la phrase d'accroche comme l'object, ne pousse pas à la lecture du document, son utilisation est ratée.
 
 Malgré la place minime qu’elle représente dans la lettre, la phrase d’accroche n’est pas toujours la partie la plus simple à réaliser.
 
@@ -68,7 +74,7 @@ Ce paragraphe représente la deuxième et dernière partie du **_moi_**. Il a po
 
 Pour cela, il vous est **nécessaire d’argumenter chacun des éléments apportés.**
 
-Nous vous conseillons d’appuyer votre propos par la citation d’exemples concrets, permettant ainsi à l’entreprise de mieux cerner votre profil.     Ces exemples peuvent être des expériences mentionnées dans votre CV.   **Il est toujours important d’établir un lien entre le CV et sa lettre de motivation.**
+Nous vous conseillons d’appuyer votre propos par la citation d’exemples concrets, permettant à l’entreprise de mieux cerner votre profil.             Ces exemples peuvent être des expériences mentionnées dans votre CV.   **Il est toujours important d’établir un lien entre le CV et sa lettre de motivation.**
 
 La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueur ou le travail d'équipe peut se révéler utile si elle est adaptée à la mission et au motif de votre lettre de motivation.
 
