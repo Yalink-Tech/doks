@@ -10,9 +10,9 @@ title = "Comment écrire une lettre de motivation pour un ingénieur ?"
 weight = nil
 
 +++
-## 🌱 Pourquoi un article de blog
+## Pourquoi un article de blog
 
-Nous connaissons les difficultés parfois rencontrées lors de la rédaction d’une lettre de motivation. Afin de vous aiguiller dans la rédaction de cette dernière, nous avons rédigé cet article regroupant la méthode à appliquer mais également des conseils pour convaincre un recruteur, afin d’aider les ingénieurs à se faire connaître et les aider dans leurs démarches de recherches d’emplois ou missions.
+Nous connaissons les difficultés parfois rencontrées lors de la rédaction d’une lettre de motivation.                                                                        Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la rédaction de cette dernière, nous avons rédigé cet article regroupant la méthode et les conseils à appliquer pour convaincre un recruteur, afin d’aider les ingénieurs à se faire connaître et les aider dans leurs démarches de recherches d’emplois ou missions.
 
 ### Ce que vous apprendrez dans cet article
 
@@ -30,11 +30,11 @@ Par conséquent, il est nécessaire de prendre en considération ces données et
 
 ## 📝 Comment structurer sa lettre de motivation ?
 
-En ce qui concerne la lettre de motivation d’ingénieur, elle peut se structurer de la façon suivante, en somme toute classique : **_vous, moi, nous_**. 
+En ce qui concerne la lettre de motivation d’ingénieur, elle peut se structurer de la façon suivante, en somme toute classique : **_vous, moi, nous_**.
 
-Le **_vous_** fait directement référence à l’entreprise et par conséquent le recruteur. 
+Le **_vous_** fait directement référence à l’entreprise et par conséquent le recruteur.
 
-Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée. 
+Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée.
 
 Pour finir, le **_nous_** permet d’asseoir la possibilité ou opportunité d’un avenir commun dans le cas où vous seriez sélectionné. Cependant, il n’est pas obligatoire et nécessaire de respecter ce plan. Il est important d’**adapter ce plan au message** que vous souhaitez communiquer afin de respecter la logique de vos propos.
 
