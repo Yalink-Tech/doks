@@ -2,6 +2,7 @@
 contributors = ["Timothy"]
 date = 2021-05-11T22:00:00Z
 description = "Ingénieur, comment convaincre lors de la rédaction de sa lettre de motivation ? Les éléments dont vous avez besoin pour y parvenir se trouvent ici."
+draft = true
 imageCover = "/uploads/typing.png"
 lastmod = ""
 lead = "Ingénieur, comment convaincre lors de la rédaction de sa lettre de motivation ? Les éléments dont vous avez besoin pour y parvenir se trouvent ici."
@@ -13,7 +14,7 @@ weight = 100
 
 Nous connaissons les difficultés parfois rencontrées lors de la rédaction d’une lettre de motivation.
 
-Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la rédaction de  votre lettre de motivation, [Yalink ](https://yalink.fr/ "Yalink")vous a rédigé cet article regroupant la méthode et les conseils à appliquer pour convaincre un recruteur, afin d’aider les ingénieurs à se faire connaître et les aider dans leurs démarches de recherches d’emplois ou missions.
+Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la rédaction de  votre lettre de motivation, [Yalink ](https://yalink.fr/ "Yalink")a rédigé pour vous chers ingénieurs, cet article regroupant la méthode et les conseils à appliquer pour convaincre un recruteur, afin d’aider les ingénieurs à se faire connaître et les aider dans leurs démarches de recherches d’emplois ou de missions.
 
 ### Ce que vous apprendrez dans cet article
 
@@ -37,11 +38,11 @@ En ce qui concerne la lettre de motivation d’ingénieur, elle peut se structur
 * **_Moi_**
 * **_Nous_**
 
-> Le **_vous_** fait directement référence à l’entreprise et par conséquent le recruteur.
+> Le **_vous_** fait directement référence à l’entreprise et par conséquent au recruteur.
 
 > Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée.
 
-> Pour finir, le **_nous_** permet d’asseoir la possibilité ou opportunité d’un avenir commun dans le cas où vous seriez sélectionné. Cependant, il n’est pas obligatoire et nécessaire de respecter ce plan. Il est important d’**adapter ce plan au message** que vous souhaitez communiquer afin de respecter la logique de vos propos.
+> Pour finir, le **_nous_** permet d’asseoir la possibilité ou l'opportunité d’un avenir commun dans le cas où vous seriez sélectionné. Cependant, il n’est pas obligatoire et nécessaire de respecter ce plan. Il est important d’**adapter ce plan au message** que vous souhaitez communiquer afin de respecter la logique de vos propos.
 
 Ces trois paragraphes représentent la base de votre lettre de motivation. Il est également important de se focaliser sur la disposition de votre lettre.
 
@@ -49,7 +50,7 @@ Ces trois paragraphes représentent la base de votre lettre de motivation. Il es
 
 L'en-tête doit être composé des informations essentielles et nécessaires à votre candidature, comme votre **nom**, vos **coordonnées**, la **date** et **l’objet** de votre lettre.
 
-**Il est vital de respecter la structure et composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
+**Il est vital de respecter la structure et la composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
 
 ### Un paragraphe d’accroche
 
