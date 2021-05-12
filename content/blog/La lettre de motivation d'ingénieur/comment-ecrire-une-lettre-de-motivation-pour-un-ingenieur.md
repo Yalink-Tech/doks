@@ -1,5 +1,5 @@
 +++
-contributors = []
+contributors = ["Timothy"]
 date = 2021-05-11T22:00:00Z
 description = "Comment convaincre lors de la rédaction de sa lettre de motivation ? Les éléments dont vous avez besoin pour y parvenir se trouvent ici."
 draft = true
@@ -48,9 +48,11 @@ Malgré la place minime qu’elle représente dans la lettre, la phrase d’accr
 
 Afin de vous aiguiller dans la rédaction de ce paragraphe, nous vous conseillons de vous poser certaines questions :
 
-* Pourquoi ce secteur m’intéresse ?
-* Mes valeurs sont-elles en adéquation avec celles de l’entreprise ?
-* Quelle plus-value pourrais-je apporter à l’entreprise et pourquoi ?
+👉Pourquoi ce secteur m’intéresse-t-il ?
+
+👉Mes valeurs sont-elles en adéquation avec celles de l’entreprise ?
+
+👉Quelle plus-value pourrais-je apporter à l’entreprise et pourquoi ?
 
 Comme cité précédemment, il est important de se démarquer des lettres de motivations dites “classiques”. Pour cela, nous vous conseillons d’éviter les phrases “je serai heureux de mettre mes compétences au profit et services de votre entreprise, que je considère la meilleure sur ce secteur”. Ces phrases pourraient se trouver répétitives et copiées-collées de modèles ou exemples trouvés sur Internet.
 
