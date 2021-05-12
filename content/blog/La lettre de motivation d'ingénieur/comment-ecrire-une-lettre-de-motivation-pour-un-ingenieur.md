@@ -104,7 +104,7 @@ Les paragraphes se doivent d’être visuellement distincts, avec des sauts de l
 
 Afin de continuer dans cette lignée, nous vous conseillons de conserver des interlignes se situant entre **1,25 et 2**. N’oubliez pas de **justifier votre texte**, c'est-à-dire l’aligner sur la marge de gauche et de droite.
 
-En ce qui concerne la police d’écriture, nous vous conseillons de privilégier une police professionnelle, simple à lire comme Times New Roman, Calibri ou Arial par exemple.
+En ce qui concerne la police d’écriture, nous vous conseillons de privilégier une police professionnelle, simple à lire comme Arial.
 
 La taille conseillée se situe entre **10 et 12** pour une lecture fluide et facilitée. Pensez à reprendre la même typographie entre votre CV et votre lettre de motivation, afin de conserver un lien et une linéarité.
 
