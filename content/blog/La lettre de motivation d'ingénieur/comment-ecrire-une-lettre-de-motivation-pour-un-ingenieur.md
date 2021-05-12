@@ -78,13 +78,15 @@ Nous vous conseillons d’appuyer votre propos par la citation d’exemples conc
 
 La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueur ou le travail d'équipe peut se révéler utile si elle est adaptée à la mission et au motif de votre lettre de motivation.
 
+> Les **_soft skills_** représentes les compétences comportementales, souvent ignorée dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent les compétences techniques.
+
 ### Un paragraphe pour conclure
 
 Ce paragraphe peut se révéler être la _“cerise sur le gâteau”_.                    En effet, il représente le **_nous_**, le moment où vous devez montrer que vous avez compris les enjeux et les exigences de la mission, projet ou poste. Pour cela, vous avez la possibilité d’intégrer des éléments provenant de l’offre, en expliquant de façon argumentée, les points forts que vous pourrez potentiellement mettre à la disposition de l’entreprise pour réaliser ces missions.
 
 ### La formule de politesse pour clôturer
 
-La formule de politesse est en somme toute classique par son obligation d’être présente dans votre lettre de motivation. Elle est régulièrement survolée voire ignorée, mais si elle n’est pas présente, cela pourrait vous causer des torts.
+**La formule de politesse est obligatoire.** Vous n'avez pas le choix, elle doit être dans votre lettre de motivation. Elle est régulièrement survolée voire ignorée, mais si elle n’est pas présente, cela pourrait vous causer des torts.
 
 Nous vous conseillons de montrer votre disponibilité à un éventuel entretien. Pour cela, vous retrouverez ci-dessous des exemples afin de vous inspirer dans votre rédaction :
 
@@ -98,17 +100,21 @@ Il est important que la mise en page de votre lettre de motivation soit la plus 
 
 ### Le format et la police
 
-La lettre de motivation est obligatoirement en **format A4**. Afin de faciliter la lecture et la compréhension de votre lettre de motivation, nous vous conseillons une lettre de motivation dactylographiée. Cela vous permettra d’avoir une version que vous partagerez par mail ou une version imprimée que vous enverrez par voie postale.
+La lettre de motivation est obligatoirement en **format A4**. Afin de faciliter la lecture et la compréhension de votre lettre de motivation, nous vous conseillons une lettre de motivation **dactylographiée.** Cela vous permettra d’avoir une version que vous partagerez par mail ou une version imprimée que vous enverrez par **voie postale.** 
+
+> Envoyer sa lettre par voie postale peut être un moyen de **se différencier.** Cette méthode peut sembler révolue, mais la digitalisation des candidatures et des offres ont rendu ce support presque inutilisé.
 
 Les paragraphes se doivent d’être visuellement distincts, avec des sauts de lignes entre chacun d’eux ainsi que des alinéas en début de chaque paragraphe. Lorsque vous considérez changer de sujet, ou mettre en évidence un élément des autres, vous avez la possibilité de revenir à la ligne afin d'aérer votre lettre et faciliter la lecture.
 
 Afin de continuer dans cette lignée, nous vous conseillons de conserver des interlignes se situant entre **1,25 et 2**. N’oubliez pas de **justifier votre texte**, c'est-à-dire l’aligner sur la marge de gauche et de droite.
 
-En ce qui concerne la police d’écriture, nous vous conseillons de privilégier une police professionnelle, simple à lire comme Arial.
+En ce qui concerne la police d’écriture, nous vous conseillons de privilégier une police professionnelle, simple à lire comme **Arial**.
 
 La taille conseillée se situe entre **10 et 12** pour une lecture fluide et facilitée. Pensez à reprendre la même typographie entre votre CV et votre lettre de motivation, afin de conserver un lien et une linéarité.
 
 Pour finir avec le format de votre lettre de motivation, il est obligatoire et conseillé de se restreindre à **1 page**. Votre lettre de motivation se doit d’être **synthétique et précise**, afin de combler le recruteur dans sa quête d’informations mais également dans le temps qu’il accorde à la lecture d’une lettre de motivation.
+
+> En moyenne, la lecture d'une lettre de motivation par un recruteur est de **30 secondes à 1 minute.** 
 
 ## 📝 Conseils pour réussir et personnaliser votre lettre de motivation
 
@@ -120,9 +126,9 @@ En ce qui concerne les mots employés, utilisez un vocabulaire riche afin d’é
 
 L’écriture de votre lettre de motivation se doit d’être au présent, en utilisant des phrases affirmatives. Utilisez tout cela afin de différencier votre lettre de motivation de votre CV. **Votre lettre doit être complémentaire à votre CV et non un copié-collé.**
 
-N’oubliez pas de vous relire avant d’envoyer votre lettre. Les fautes d’orthographe peuvent être rédhibitoires. Enfin, pour une lecture fluide, pensez à surveiller la ponctuation qui peut donner un réel rythme à votre lettre.
+N’oubliez pas de vous relire avant d’envoyer votre lettre. Les fautes d’orthographe sont **rédhibitoires.** Enfin, pour une lecture fluide, pensez à surveiller la ponctuation qui peut donner un réel rythme à votre lettre.
 
-La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
+La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Nous vous conseillons la lecture à voix haute, avec la possibilité de vous enregistrer afin d'évaluer objectivement votre prestation orale.                  Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
 
 Pensez à conserver le fichier de votre lettre de motivation pour l’entretien ou les prochaines fois. Vous pourrez vous en inspirer pour en rédiger de nouvelles, répondant aux critères d’autres offres.
 
