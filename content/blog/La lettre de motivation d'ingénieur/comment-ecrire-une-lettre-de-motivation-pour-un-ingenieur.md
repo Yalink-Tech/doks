@@ -133,3 +133,5 @@ La relecture est le moyen de se rendre compte des potentielles erreurs, mais ég
 Pensez à conserver le fichier de votre lettre de motivation pour l’entretien ou les prochaines fois. Vous pourrez vous en inspirer pour en rédiger de nouvelles, répondant aux critères d’autres offres.
 
 Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre lettre de motivation. **N’oubliez pas que le CV reste la chose la plus importante dans une réponse d’offre, mais la lettre de motivation peut faire la différence à profil égal.**
+
+> Si vous ne souhaitez pas, rédiger une lettre de motivation, vous avez la possibilité de vous inscrire sur notre plateforme [Yalink](https://app.yalink.fr/ "Yalink"). Nous ne demandons pas de lettre de motivation, uniquement des références qui sont des gages de confiances concrets.
