@@ -10,7 +10,7 @@ title = "Comment écrire une lettre de motivation pour un ingénieur ?"
 weight = nil
 
 +++
-## La lettre de motivation d'ingénieur, est-vraiment compliqué ?
+## La lettre de motivation d'ingénieur, est-ce-vraiment compliqué ?
 
 Nous connaissons les difficultés parfois rencontrées lors de la rédaction d’une lettre de motivation.                                                                        Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la rédaction de cette dernière, nous avons rédigé cet article regroupant la méthode et les conseils à appliquer pour convaincre un recruteur, afin d’aider les ingénieurs à se faire connaître et les aider dans leurs démarches de recherches d’emplois ou missions.
 
@@ -54,7 +54,7 @@ L'en-tête doit être composé des informations essentielles et nécessaires à 
 
 Ceci est l’une des étapes les plus importantes de votre lettre de motivation. En effet, vous devez **être bref et précis** **tout en étant le plus convaincant possible.**
 
-A l'instar d'un mail, le paragraphe d'accroche représente l'objet. Si la phrase d'accroche comme l'object, ne pousse pas à la lecture du document, son utilisation est ratée.
+A l'instar d'un mail, le paragraphe d'accroche représente l'objet. Si la phrase d'accroche comme l'objet, ne pousse pas à la lecture du document, son utilisation est ratée.
 
 Malgré la place minime qu’elle représente dans la lettre, la phrase d’accroche n’est pas toujours la partie la plus simple à réaliser.
 
@@ -134,4 +134,6 @@ Pensez à conserver le fichier de votre lettre de motivation pour l’entretien 
 
 Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre lettre de motivation. **N’oubliez pas que le CV reste la chose la plus importante dans une réponse d’offre, mais la lettre de motivation peut faire la différence à profil égal.**
 
-> Si vous ne souhaitez pas, rédiger une lettre de motivation, vous avez la possibilité de vous inscrire sur notre plateforme [Yalink](https://app.yalink.fr/ "Yalink"). Nous ne demandons pas de lettre de motivation, uniquement des références qui sont des gages de confiances concrets.
+> Si vous ne souhaitez pas rédiger une lettre de motivation, vous avez la possibilité de vous inscrire sur notre plateforme [Yalink](https://app.yalink.fr/ "Yalink"). 
+>
+> Nous ne demandons pas de lettre de motivation, uniquement des références qui sont des gages de confiances concrets.
