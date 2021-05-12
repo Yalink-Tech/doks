@@ -68,7 +68,7 @@ Afin de vous aiguiller dans la rédaction de ce paragraphe, nous vous conseillon
 
 👉Quelle plus-value pourrais-je apporter à l’entreprise et pourquoi ?
 
-Comme cité précédemment, il est important de se démarquer des lettres de motivations dites “classiques”. Pour cela, nous vous conseillons d’éviter les phrases _“je serai heureux de mettre mes compétences au profit et au service de votre entreprise, que je considère la meilleure sur ce secteur”_. Ces phrases pourraient se trouver répétitives et copiées-collées de modèles ou exemples trouvés sur Internet.
+Comme cité précédemment, il est important de se démarquer des lettres de motivations dites “classiques”. Pour cela, nous vous conseillons d’éviter les phrases _“je serai heureux de mettre mes compétences au profit et au service de votre entreprise, que je considère la meilleure sur ce secteur”_. Ces phrases pourraient se trouver répétitives et copiées-collées de modèles ou d'exemples trouvés sur Internet.
 
 ### L’importance de parler de soi
 
