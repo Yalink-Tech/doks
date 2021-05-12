@@ -10,7 +10,7 @@ title = "Comment écrire une lettre de motivation pour un ingénieur ?"
 weight = nil
 
 +++
-## La lettre de motivation d'ingénieur, est-ce-vraiment compliqué ?
+## 🤔 La lettre de motivation d'ingénieur, est-ce-vraiment compliqué ?
 
 Nous connaissons les difficultés parfois rencontrées lors de la rédaction d’une lettre de motivation.                                                                        Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la rédaction de cette dernière, nous avons rédigé cet article regroupant la méthode et les conseils à appliquer pour convaincre un recruteur, afin d’aider les ingénieurs à se faire connaître et les aider dans leurs démarches de recherches d’emplois ou missions.
 
