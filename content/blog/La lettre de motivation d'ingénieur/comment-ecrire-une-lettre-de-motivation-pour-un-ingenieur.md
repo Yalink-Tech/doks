@@ -101,7 +101,7 @@ Nous vous conseillons de montrer votre disponibilité à un éventuel entretien.
 
 ## 📝 Mise en page de la lettre de motivation
 
-Il est important que la mise en page de votre lettre de motivation soit la plus **soignée** possible et **simple**. Elle doit faciliter la lecture mais également donner l’envie de la lire au recruteur grâce à sa présentation.
+Il est important que la mise en page de votre lettre de motivation soit la plus **simple** et **soignée** possible. Elle doit faciliter la lecture mais également donner l’envie de la lire au recruteur grâce à sa présentation.
 
 ### Le format et la police
 
@@ -129,7 +129,7 @@ Pour réaliser une lettre de motivation d'ingénieur percutante, il est importan
 * En ce qui concerne les mots employés, utilisez un vocabulaire riche afin d’éviter de vous répéter ainsi que la répétition de mots bateau comme “motivé” par exemple.
 * L’écriture de votre lettre de motivation d'ingénieur se doit d’être au présent, en utilisant des phrases affirmatives. Utilisez tout cela afin de différencier votre lettre de motivation de votre CV. **Votre lettre doit être complémentaire à votre CV et non un copié-collé.**
 * N’oubliez pas de vous relire avant d’envoyer votre lettre. Les fautes d’orthographe sont **rédhibitoires.** Enfin, pour une lecture fluide, pensez à surveiller la ponctuation qui peut donner un réel rythme à votre lettre.
-* La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Nous vous conseillons la lecture à voix haute, avec la possibilité de vous enregistrer afin d'évaluer objectivement votre prestation orale. Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
+* La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Nous vous conseillons la lecture à voix haute, avec la possibilité de vous enregistrer afin d'évaluer objectivement votre prestation orale. Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous-même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
 * Pensez à conserver le fichier de votre lettre de motivation pour l’entretien ou les prochaines fois. Vous pourrez vous en inspirer pour en rédiger de nouvelles, répondant aux critères d’autres offres.
 
 Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre lettre de motivation. **N’oubliez pas que le CV reste la chose la plus importante dans une réponse d’offre, mais la lettre de motivation peut faire la différence à profil égal.**
