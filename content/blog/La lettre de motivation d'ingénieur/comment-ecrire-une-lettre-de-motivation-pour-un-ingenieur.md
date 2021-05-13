@@ -49,7 +49,7 @@ Ces trois paragraphes représentent la base de votre lettre de motivation. Il es
 
 L'en-tête doit être composé des informations essentielles et nécessaires à votre candidature, comme votre **nom**, vos **coordonnées**, la **date** et **l’objet** de votre lettre.
 
-**Il est crucial de respecter la structure et la composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
+**Il est crucial de respecter la structure et la composition de l’en-tête.**    Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
 
 ### Un paragraphe d’accroche
 
