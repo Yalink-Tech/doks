@@ -39,7 +39,7 @@ En ce qui concerne la lettre de motivation d’ingénieur, elle peut se structur
 
 > Le **_vous_** fait directement référence à l’entreprise et par conséquent au recruteur.
 
-> Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée.
+> Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée. 
 
 > Pour finir, le **_nous_** permet d’asseoir la possibilité ou l'opportunité d’un avenir commun dans le cas où vous seriez sélectionné. Cependant, il n’est pas obligatoire et nécessaire de respecter ce plan. Il est important d’**adapter ce plan au message** que vous souhaitez communiquer afin de respecter la logique de vos propos.
 
