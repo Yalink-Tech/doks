@@ -49,7 +49,7 @@ Ces trois paragraphes représentent la base de votre lettre de motivation. Il es
 
 L'en-tête doit être composé des informations essentielles et nécessaires à votre candidature, comme votre **nom**, vos **coordonnées**, la **date** et **l’objet** de votre lettre.
 
-**Il est vital de respecter la structure et la composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
+**Il est crucial de respecter la structure et la composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
 
 ### Un paragraphe d’accroche
 
@@ -83,7 +83,7 @@ La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueu
 
 > Les **_soft skills_** représentent les compétences comportementales, souvent ignorées dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent les compétences techniques.
 
-🧐 Conseil :  **Un recruteur à tendance à faire la différence sur les soft skills à CV égal. Ne négligez pas ce point.**
+🧐 Conseil :  **Un recruteur a tendance à faire la différence sur les soft skills à CV égal. Ne négligez pas ce point.**
 
 ### Un paragraphe pour conclure
 
