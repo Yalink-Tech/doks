@@ -81,7 +81,7 @@ Nous vous conseillons d’appuyer votre propos par la citation d’exemples conc
 
 La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueur ou le travail d'équipe peut se révéler utile si elle est adaptée à la mission et au motif de votre lettre de motivation.
 
-> Les **_soft skills_** représentent les compétences comportementales, souvent ignorées dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent les compétences techniques.
+> Les **_soft skills_** représentent les compétences comportementales, souvent ignorées dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent, eux, les compétences techniques.
 
 🧐 Conseil :  **Un recruteur a tendance à faire la différence sur les soft skills à CV égal. Ne négligez pas ce point.**
 
