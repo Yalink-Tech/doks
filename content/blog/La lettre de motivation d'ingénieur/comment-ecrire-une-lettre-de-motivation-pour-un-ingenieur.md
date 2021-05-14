@@ -25,7 +25,7 @@ Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la
 
 ## 📝 La lettre de motivation, _has been_ en 2021 ?
 
-La lettre de motivation intervient généralement après l'élaboration d’un CV. Malgré que le CV représente le principal critère de sélection, la lettre de motivation peut être **un élément différenciant voire décisif** lors de la recherche et l’obtention d’un emploi ou d’une mission.
+La lettre de motivation intervient généralement après l'élaboration d’un CV. Bien que le CV représente le principal critère de sélection, la lettre de motivation peut être **un élément différenciant voire décisif** lors de la recherche et l’obtention d’un emploi ou d’une mission.
 
 Par conséquent, il est nécessaire de prendre en considération ces données et de veiller à rédiger une lettre de motivation d'ingénieur **personnalisée** et **unique**.
 
@@ -39,7 +39,7 @@ En ce qui concerne la lettre de motivation d’ingénieur, elle peut se structur
 
 > Le **_vous_** fait directement référence à l’entreprise et par conséquent au recruteur.
 
-> Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée. 
+> Le **_moi_** quant à lui, est le moyen pour vous de mettre en avant votre expérience et expertise professionnelles en lien avec l’emploi ou la mission visée.
 
 > Pour finir, le **_nous_** permet d’asseoir la possibilité ou l'opportunité d’un avenir commun dans le cas où vous seriez sélectionné. Cependant, il n’est pas obligatoire et nécessaire de respecter ce plan. Il est important d’**adapter ce plan au message** que vous souhaitez communiquer afin de respecter la logique de vos propos.
 
