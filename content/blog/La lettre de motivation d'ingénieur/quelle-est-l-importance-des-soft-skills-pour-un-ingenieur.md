@@ -10,7 +10,7 @@ title = "Quelle-est l'importance des soft skills pour un ingénieur ?"
 weight = 100
 
 +++
-## Les soft skills, le moyen de faire la différence
+## ⚙️ Les soft skills, le moyen de faire la différence
 
 Aujourd’hui, les _hard skills_ ou compétences ne sont plus suffisants pour déterminer la qualité d’un candidat pour l’obtention d’un poste ou d’une mission.
 
@@ -51,3 +51,15 @@ De nos jours, nous constatons que les CV sont une succession de diplômes, forma
 C’est pour cela qu’il est **important de se démarquer.** En effet, nous savons que pour la plupart des postes ou missions, les candidats ont quasiment tous le même parcours et seulement l’expérience professionnelle peut différer. Les **_hard skills_** ont une durée limitée, notamment dû à l’évolution des métiers et des technologies. De ce fait, les **_soft skills_** sont des compétences **utiles** et **intemporelles** permettant à la personne de rester **compétitive** en s’adaptant à l’environnement changeant.
 
 **L’alliance de _soft skills_ et _hard skills_ sera toujours plus performante et intéressante que la mise en avant unique de compétences techniques.**
+
+## Comment développer ses soft skills ?
+
+Développer ses soft skills passe par les capacités à apprendre et à réfléchir. Il n’y a pas de technique miracle pour développer ses soft skills. Avant toutes choses, il est nécessaire de bien distinguer les traits de caractères et personnalités qui vous définissent et ceux, modifiables, que vous pourrez changer afin d’améliorer la personne que vous êtes.
+
+Il est inutile de développer des soft skills qui diffèrent de vos traits de personnalité.
+
+Si vous n’appréciez pas le travail d’équipe, inutile de vouloir un poste ou une mission où le travail d’équipe est nécessaire. Vous devez vous focaliser uniquement sur des emplois ou des missions en accord avec vos soft skills. Cela sera mieux pour vous mais également pour l’entreprise qui pourra avoir une vision sur le long terme.
+
+> Si vous remarquez qu’il est dans votre intérêt d’évoluer car certains de vos traits de personnalités vous portent préjudice dans l’obtention d’emplois ou de missions, alors faites le ! Cela vous sera bénéfique d’un point de vue professionnel mais également personnel. 
+
+**Devenir une meilleure personne, en voulant gommer ses défauts et améliorer ses qualités ne peut qu’être bénéfique !**
