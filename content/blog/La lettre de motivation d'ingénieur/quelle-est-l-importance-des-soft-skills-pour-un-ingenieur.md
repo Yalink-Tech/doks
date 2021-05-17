@@ -50,7 +50,7 @@ De nos jours, nous constatons que les CV sont une succession de diplômes, forma
 
 C’est pour cela qu’il est **important de se démarquer.** En effet, nous savons que pour la plupart des postes ou missions, les candidats ont quasiment tous le même parcours et seulement l’expérience professionnelle peut différer.
 
-> Pensez à mettre en avant vos soft skills dans votre CV, votre [lettre de motivation](https://ressources.yalink.fr/blog/comment-%C3%A9crire-une-lettre-de-motivation-pour-un-ing%C3%A9nieur/ "Comment écrire une lettre de motivation pour un ingénieur ?") et de les illustrer lors de votre entretien.
+> Pensez à **mettre en avant vos _soft skills_** dans **votre CV**, votre [**Lettre de motivation**](https://ressources.yalink.fr/blog/comment-%C3%A9crire-une-lettre-de-motivation-pour-un-ing%C3%A9nieur/ "Comment écrire une lettre de motivation pour un ingénieur ?") et de **les illustrer lors de votre entretien.**
 
 Les **_hard skills_** ont une durée limitée, notamment dû à l’évolution des métiers et des technologies. De ce fait, les **_soft skills_** sont des compétences **utiles** et **intemporelles** permettant à la personne de rester **compétitive** en s’adaptant à l’environnement changeant.
 
