@@ -26,15 +26,15 @@ Nous connaissons l’importance que représente un entretien. Afin de vous aider
 
 ## 🤝 L’entretien, l’ultime étape
 
-L’entretien représente la dernière étape avant la réponse définitive d’un recruteur. Malgré le fait que l’obtention d’un entretien montre l’intérêt émis par l’entreprise ou le recruteur à votre profil, cela ne signifie pas que vous obtiendrez le poste ou la mission que vous ambitionnez.
+L’entretien représente **la dernière étape** avant la réponse définitive d’un recruteur. Malgré le fait que l’obtention d’un entretien montre l’intérêt émis par l’entreprise ou le recruteur à votre profil, cela ne signifie pas que vous obtiendrez le poste ou la mission que vous ambitionnez.
 
-De ce fait, le recruteur n’attend pas uniquement vos compétences techniques pour vous choisir. Il est également important de mettre en avant votre personnalité ainsi que vos _soft skills_, important dans le milieu d’une entreprise et parfois décisif pour différencier des candidats aux compétences similaires.
+De ce fait, le recruteur n’attend pas uniquement **vos compétences** techniques pour vous choisir. Il est également important de mettre en avant **votre personnalité** ainsi que vos _soft skills_, important dans le milieu d’une entreprise et parfois décisif pour différencier des candidats aux compétences similaires.
 
 ### Les recherches, gage d’un entretien réussi et ciblé
 
 Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera obligatoirement sensible à l’intérêt que vous portez à son entreprise.
 
-À ce sujet, afin de répondre aux attentes du recruteur, nous vous conseillons de vous inspirer des recherches faites au préalables lors de la rédaction de votre lettre de motivation.
+À ce sujet, afin de répondre aux attentes du recruteur, nous vous conseillons de vous inspirer des recherches faites au préalables lors de la rédaction de [votre lettre de motivation]().
 
 Si vous ne l’avez pas fait, ou que vous souhaitez approfondir vos recherches, nous vous conseillons de vous intéresser aux informations suivantes :
 
@@ -94,6 +94,6 @@ Nous vous conseillons également d’appuyer votre argumentation avec des gestes
 
 Les recruteurs voient des dizaines voir des centaines de candidats. L’un des moyens de vous différencier est de **montrer votre intérêt pour le poste et l’entreprise.** Cela passe notamment par des questions que vous poserez au recruteur.
 
-N’hésitez pas à **poser des questions**, c’est le moment pour vous d’obtenir des réponses mais également de bien être vu par le recruteur. En plus de montrer votre intérêt, cela permet de discuter réellement avec le recruteur, ce qui peut jouer en votre faveur grâce au contact humain que vous allez créer.
+N’hésitez pas à **poser des questions**, c’est le moment pour vous d’obtenir des réponses mais également d'être bien vu par le recruteur. En plus de montrer votre intérêt, cela permet de discuter réellement avec le recruteur, ce qui peut jouer en votre faveur grâce au **contact humain** que vous allez créer.
 
 > 🚀 Tips : Posez des questions sur les matériels et technologies utilisés, la vie dans l’entreprise par exemple.
