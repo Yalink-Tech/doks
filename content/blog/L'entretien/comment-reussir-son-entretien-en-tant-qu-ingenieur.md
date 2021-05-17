@@ -1,11 +1,11 @@
 +++
 contributors = ["Timothy"]
 date = ""
-description = ""
+description = "Ingénieurs, vous souhaitez réussir votre entretien ? Les éléments dont vous avez besoin pour y parvenir, se trouvent ici."
 draft = true
-imageCover = ""
+imageCover = "/uploads/cytonn-photography-n95vmlxqm2i-unsplash.jpeg"
 lastmod = ""
-lead = ""
+lead = "Ingénieurs, vous souhaitez réussir votre entretien ? Les éléments dont vous avez besoin pour y parvenir, se trouvent ici."
 title = "Comment réussir son entretien en tant qu'ingénieur ?"
 weight = 100
 
@@ -76,7 +76,7 @@ Un grand nombre de recruteurs laisse un temps aux candidats pour se présenter l
 
 Comme expliqué dans l’article (nom de l’article soft skills + lien) , la mise en avant des _soft skills_ permet de faire la différence. En effet, nous constatons que les _soft skills_ sont ignorés dans l’argumentaire des candidats au détriment des _hard skills_, mis en avant depuis leur formation.
 
-Le diplôme n’est plus la clé pour décrocher un contrat, mais comme l’exprime Julien Weyrich **_« près de la moitié des candidats sont écartés en entretien par les entreprises pour des problématiques de savoir-être »._**
+> Le diplôme n’est plus la clé pour décrocher un contrat, mais comme l’exprime Julien Weyrich **_« près de la moitié des candidats sont écartés en entretien par les entreprises pour des problématiques de savoir-être »._**
 
 Cependant, vos _soft skills_ doivent être utilisés à bon escient. Chacun doit être argumenté avec des exemples concrets à l'appui.
 
