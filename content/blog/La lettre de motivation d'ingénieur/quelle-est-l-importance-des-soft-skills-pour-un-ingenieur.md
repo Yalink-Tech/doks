@@ -18,21 +18,21 @@ En effet, nous avons pu récemment constater que le terme **_soft skill_** est d
 
 ### Ce que vous apprendrez dans cet article
 
-👉La définition des softs skills
+👉La définition des _soft skills._
 
-👉Une liste exhaustive de soft skills
+👉Une liste exhaustive de _soft skills._
 
-👉L’importance des soft skills
+👉L’importance des _soft skills._
 
-👉Les conseils pour améliorer et développer ses soft skills
+👉Les conseils pour améliorer et développer ses _soft skills._
 
 ## Un soft skill, c’est quoi ?
 
-Pour commencer, il est important de rappeler qu’il n’y a pas de définition unique des soft skills. Chacun possède sa propre définition. Dans la majorité des cas, les soft skills sont définis comme des compétences relationnelles, qualités humaines ou compétences comportementales. Malgré le fait qu’il n’existe pas une définition unique pour ce terme, il est important de poser des mots pour essayer de le définir. Premièrement, la traduction est trompeuse. “Compétences douces” ne permet pas de donner un réel sens à ce terme. En revanche, définir les softs skills comme des compétences utilisables dans différents domaines est un bon début. En effet, au détriment des hard skills, les softs skills s’appliquent à tous les métiers.
+Pour commencer, il est important de rappeler qu’il n’y a pas de définition unique des _soft skills_. Chacun possède sa propre définition. Dans la majorité des cas, les _soft skills_ sont définis comme des **compétences relationnelles, qualités humaines** ou **compétences comportementales.** Malgré le fait qu’il n’existe pas une définition unique pour ce terme, il est important de poser des mots pour essayer de le définir. Premièrement, la traduction est trompeuse. “Compétences douces” ne permet pas de donner un réel sens à ce terme. En revanche, définir les _softs skills_ comme des compétences utilisables dans différents domaines est un bon début. En effet, au détriment des _hard skills_, les _softs skills_ s’appliquent à tous les métiers.
 
-Malgré le fait qu’ils diffèrent des hards skills, les soft skills ne sont pas des compétences faciles à acquérir. En effet, ils se basent sur des techniques et méthodes apprises, facilitées ou non par des traits de personnalités et caractères.
+Malgré le fait qu’ils diffèrent des _hards skills_, les _soft skills_ ne sont pas des compétences faciles à acquérir. En effet, ils se basent sur des techniques et méthodes apprises, facilitées ou non par des traits de personnalités et caractères.
 
-Ces traits de personnalité permettent d’établir une base aux soft skills qui se développent et trouvent une utilité au-sein de l’entreprise en fonction des missions demandées.
+Ces traits de personnalité permettent d’établir une base aux _soft skills_ qui se développent et trouvent une utilité au-sein de l’entreprise en fonction des missions demandées.
 
 ### Une liste de soft skills :
 
@@ -48,7 +48,11 @@ Ces traits de personnalité permettent d’établir une base aux soft skills qui
 
 De nos jours, nous constatons que les CV sont une succession de diplômes, formations ou expériences professionnelles. De nombreux recruteurs continuent de se baser uniquement sur ces critères.
 
-C’est pour cela qu’il est **important de se démarquer.** En effet, nous savons que pour la plupart des postes ou missions, les candidats ont quasiment tous le même parcours et seulement l’expérience professionnelle peut différer. Les **_hard skills_** ont une durée limitée, notamment dû à l’évolution des métiers et des technologies. De ce fait, les **_soft skills_** sont des compétences **utiles** et **intemporelles** permettant à la personne de rester **compétitive** en s’adaptant à l’environnement changeant.
+C’est pour cela qu’il est **important de se démarquer.** En effet, nous savons que pour la plupart des postes ou missions, les candidats ont quasiment tous le même parcours et seulement l’expérience professionnelle peut différer.
+
+> Pensez à mettre en avant vos soft skills dans votre CV, votre [lettre de motivation](https://ressources.yalink.fr/blog/comment-%C3%A9crire-une-lettre-de-motivation-pour-un-ing%C3%A9nieur/ "Comment écrire une lettre de motivation pour un ingénieur ?") et de les illustrer lors de votre entretien.
+
+Les **_hard skills_** ont une durée limitée, notamment dû à l’évolution des métiers et des technologies. De ce fait, les **_soft skills_** sont des compétences **utiles** et **intemporelles** permettant à la personne de rester **compétitive** en s’adaptant à l’environnement changeant.
 
 **L’alliance de _soft skills_ et _hard skills_ sera toujours plus performante et intéressante que la mise en avant unique de compétences techniques.**
 
@@ -60,6 +64,6 @@ Il est inutile de développer des soft skills qui diffèrent de vos traits de pe
 
 Si vous n’appréciez pas le travail d’équipe, inutile de vouloir un poste ou une mission où le travail d’équipe est nécessaire. Vous devez vous focaliser uniquement sur des emplois ou des missions en accord avec vos soft skills. Cela sera mieux pour vous mais également pour l’entreprise qui pourra avoir une vision sur le long terme.
 
-> Si vous remarquez qu’il est dans votre intérêt d’évoluer car certains de vos traits de personnalités vous portent préjudice dans l’obtention d’emplois ou de missions, alors faites le ! Cela vous sera bénéfique d’un point de vue professionnel mais également personnel. 
+> Si vous remarquez qu’il est dans votre intérêt d’évoluer car certains de vos traits de personnalités vous portent préjudice dans l’obtention d’emplois ou de missions, alors faites le ! Cela vous sera bénéfique d’un point de vue professionnel mais également personnel.
 
 **Devenir une meilleure personne, en voulant gommer ses défauts et améliorer ses qualités ne peut qu’être bénéfique !**
