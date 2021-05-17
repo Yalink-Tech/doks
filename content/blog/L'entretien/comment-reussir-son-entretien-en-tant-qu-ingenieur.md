@@ -68,7 +68,7 @@ Le premier contact est le moment où le recruteur peut c**erner votre personnali
 
 Nous ne vous conseillons pas un costume ou une robe de soirée, cependant il est important d’éviter le fameux jean, t-shirt et baskets.
 
-Votre dress code en dit long sur votre implication et considération pour cet entretien. Si vous décidez de porter une chemise ou un haut, n’oubliez pas l’étape repassage.
+**Votre dress code** en dit long sur votre implication et considération pour cet entretien. Si vous décidez de porter une chemise ou un haut, n’oubliez pas l’étape repassage.
 
 ### Savoir se présenter
 
@@ -86,9 +86,9 @@ Dans le cas des ingénieurs, les _soft skills_ les plus recherchés par les recr
 
 Il est important que le recruteur comprenne votre envie d’obtenir cet emploi ou la mission que vous convoitez. Afin de montrer votre dynamisme, pensez à modifier votre intonation en **accentuant les termes importants**, que vous souhaitez mettre en relief. Soyez également **naturel**, ne récitez pas un texte appris par cœur. Votre communication verbale doit être **fluide mais humaine.** Si ce n’est pas le cas, le recruteur s’en rendra compte et vous serez pénalisé.
 
-Le dynamisme se communique également avec votre gestuelle. Tenez vous droit, sans croiser les bras car ce comportement peut être interprété comme une fermeture au dialogue.
+Le dynamisme se communique également avec **votre gestuelle**. Tenez vous droit, sans croiser les bras car ce comportement peut être interprété comme une fermeture au dialogue.
 
-Nous vous conseillons également d’appuyer votre argumentation avec des gestes. Cette technique est très efficace si elle est utilisée avec modération.
+Nous vous conseillons également d’**appuyer votre argumentation** avec des gestes. Cette technique est très efficace si elle est utilisée avec modération.
 
 ### Posez des questions
 
