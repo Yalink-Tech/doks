@@ -58,7 +58,7 @@ Les **_hard skills_** ont une durée limitée, notamment dû à l’évolution d
 
 ## Comment développer ses soft skills ?
 
-Développer ses _soft skills_ passe par les capacités à apprendre et à réfléchir. Il n’y a pas de technique miracle pour développer ses _soft skills_. Avant toutes choses, il est nécessaire de bien distinguer les traits de caractères et personnalités qui vous définissent et ceux, modifiables, que vous pourrez changer afin d’améliorer la personne que vous êtes.
+Développer ses _soft skills_ passe par les capacités à apprendre et à réfléchir. Il n’y a pas de technique miracle pour développer ses _soft skills_. Avant toute chose, il est nécessaire de bien distinguer les traits de caractères et personnalités qui vous définissent et ceux, modifiables, que vous pourrez changer afin d’améliorer la personne que vous êtes.
 
 Il est inutile de développer des _soft skills_ qui diffèrent de vos traits de personnalité.
 
