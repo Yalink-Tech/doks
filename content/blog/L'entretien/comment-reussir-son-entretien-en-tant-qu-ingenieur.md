@@ -80,9 +80,9 @@ Comme expliqué dans l’article (nom de l’article soft skills + lien) , la mi
 
 > Le diplôme n’est plus la clé pour décrocher un contrat, mais comme l’exprime Julien Weyrich **_« près de la moitié des candidats sont écartés en entretien par les entreprises pour des problématiques de savoir-être »._**
 
-Cependant, vos _soft skills_ doivent être utilisés à bon escient. Chacun doit être argumenté avec des exemples concrets à l'appui.
+Cependant, vos _soft skills_ doivent être utilisés à bon escient. Chacun d'eux doit être argumenté avec des exemples concrets à l'appui.
 
-Dans le cas des ingénieurs, les _soft skills_ les plus recherchés par les recruteurs sont la capacité à être organisé, la curiosité, l’adaptation aux nouvelles technologies et la capacité à trouver des solutions.
+Dans le cas des ingénieurs, les _soft skills_ les plus recherchés par les recruteurs sont la capacité à être organisé, la curiosité, l’adaptation aux nouvelles technologies et la faculté à trouver des solutions.
 
 ### Manifester sa motivation et son dynamisme
 
