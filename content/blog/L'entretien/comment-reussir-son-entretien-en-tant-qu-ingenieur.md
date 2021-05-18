@@ -32,7 +32,7 @@ De ce fait, le recruteur n’attend pas uniquement **vos compétences** techniqu
 
 ### Les recherches, gage d’un entretien réussi et ciblé
 
-Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera obligatoirement sensible à l’intérêt que vous portez à son entreprise.
+Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera particulièrement sensible à l’intérêt que vous portez à son entreprise.
 
 À ce sujet, afin de répondre aux attentes du recruteur, nous vous conseillons de vous inspirer des recherches faites au préalables lors de la rédaction de [votre lettre de motivation]().
 
