@@ -38,7 +38,7 @@ Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera p
 
 Si vous ne l’avez pas fait, ou si vous souhaitez approfondir vos recherches, nous vous conseillons de vous intéresser aux informations suivantes :
 
-👉Les informations basiques de l'entreprise, comme la date de création et son secteur d’activité.
+👉Les informations classiques de l'entreprise, comme la date de création et son secteur d’activité.
 
 👉Le coeur de métier de l’entreprise ainsi que les différents métiers qui la    composent
 
