@@ -79,3 +79,27 @@ Afin de vous aiguiller dans la rédaction de ce paragraphe, nous vous conseillon
 👉Quelle plus-value pourrais-je apporter à l’entreprise et pourquoi ?
 
 Afin d’être original dans la rédaction de votre lettre, nous vous déconseillons l’utilisation de phrases présentes dans la majorité des templates sur internet telles que _“je serai heureux de mettre mes compétences au profit et au service de votre entreprise, que je considère la meilleure sur ce secteur”_.
+
+### Parler de soi
+
+Ceci est la deuxième et dernière partie du moi. Elle est le moyen pour vous, de développer vos compétences techniques mais également aborder vos qualités comportementales (_soft skills_).
+
+Lorsque vous citerez ces éléments, il sera nécessaire de les justifier avec des exemples concrets. Cela permettra au recruteur d’avoir une vision précise de vos compétences et qualités.
+
+### Une conclusion
+
+La conclusion représente le dernier paragraphe argumenté de votre lettre de motivation.
+
+En effet, elle représente le nous. Il est le moyen de montrer l’éventualité d’un avenir commun avec l’entreprise. Vous pouvez utiliser cette partie pour décrire et expliquer, au recruteur, ce que vous pourrez apporter à l’entreprise dans la réalisation de l’emploi ou de la mission. Pour vous aider, appuyez- vous sur les éléments cités dans l’offre d’emploi afin d’oublier aucun élément et être le plus précis possible dans votre rédaction.
+
+### Une mise en page soignée
+
+La mise en page, avec l’orthographe, est l’un des éléments les plus importants pour faciliter la lecture au recruteur.
+
+La lettre de motivation doit être obligatoirement au format A4. Afin de faciliter la lecture et la compréhension de votre lettre de motivation, nous vous conseillons une lettre de motivation **dactylographiée** (écrite à l'ordinateur)**.** Cela vous permettra d’avoir une version que vous partagerez par mail ou une version imprimée que vous enverrez par **voie postale.**
+
+Les paragraphes se doivent d’être visuellement distincts, avec des sauts de lignes entre chacun d’eux ainsi que des alinéas en début de chaque paragraphe.
+
+Pour poursuivre, nous vous conseillons de conserver des interlignes se situant entre **1,25 et 2**. N’oubliez pas de **justifier votre texte.**
+
+De plus, favorisez une police classique comme Arial. Cela permet de faciliter la lecture pour le recruteur. La taille de police doit se situer en 10 et 12, afin que ce soit lisible mais également que votre lettre de motivation tienne obligatoirement une page.
