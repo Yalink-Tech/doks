@@ -38,27 +38,29 @@ Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera p
 
 Si vous ne l’avez pas fait, ou si vous souhaitez approfondir vos recherches, nous vous conseillons de vous intéresser aux informations suivantes :
 
-👉Les informations classiques de l'entreprise, comme la date de création et son secteur d’activité.
+👉Les informations classiques de l'entreprise, comme son secteur d'activité, la date de sa création, son organigramme...
 
 👉Le coeur de métier de l’entreprise ainsi que les différents métiers qui la    composent
 
-👉Les concurrents de l’entreprise afin de connaître et comprendre les différences
+👉Les concurrents de l’entreprise afin de connaître et de mieux cerner ses atouts et ses différences
 
 👉Les chiffres clés de l’entreprise, comme son chiffre d’affaire et son taux de croissance
 
-> 🚀 Tips : Vous pourrez trouver ces informations sur le site Web de l’entreprise, mais certaines de ces informations se trouvent sur l’offre d’emploi. Il est donc utile de la relire lors de la préparation de cet entretien.
+> 🚀 Tips : Vous pourrez trouver ces informations sur le site Web de l’entreprise, mais certaines d'entre elles se trouvent déjà sur l’offre d’emploi. Il est donc utile de la relire lors de la préparation de cet entretien.
 
 ### L'entraînement, le moyen de mettre en place les idées
 
-La préparation pour un entretien passe obligatoirement par la pratique et l'entraînement. Par conséquent, vous avez la possibilité de faire cet entraînement seul ou avec des proches. Cela vous permet de connaître votre niveau d'élocution, vos points faibles afin de les travailler pour être prêt le Jour J.
+La préparation pour un entretien passe obligatoirement par la pratique et l'entraînement. 
+
+Par conséquent, vous avez la possibilité de faire cet entraînement seul ou avec des proches. Cela vous permet ainsi d'apprécier et de corriger votre niveau d'élocution, votre posture et vos gestes afin de les travailler pour être prêt le Jour J.
 
 **Il n’y a pas d’exception, un entretien réussi est un entretien préparé !**
 
 ### Le Jour J
 
-Le premier signe de respect et considération de l’entretien est de ne pas arriver en retard. Prévoyez toujours **10 à 15 minutes d'avance** afin d’éviter tout imprévu pouvant vous retarder.
+Le premier signe de respect et considération de l’entretien est de ne pas arriver en retard. Prévoyez toujours **10 à 15 minutes d'avance** afin de pallier à  tout imprévu pouvant vous retarder.
 
-Dans la majorité des cas, le recruteur adapte son planning pour l’entretien en vous réservant un créneau horaire. **Arriver en avance ou en retard pourrait déranger le recruteur dans son organisation.**
+Dans la majorité des cas, le recruteur adapte son planning pour l’entretien en vous réservant un créneau horaire. **Arriver trop en avance ou en retard pourrait déranger le recruteur dans son organisation.**
 
 🧐Conseil : **Si malgré toutes vos précautions, vous êtes en retard, prévenez le recruteur. Il pourra potentiellement adapter son planning pour vous trouver un nouveau créneau horaire.**
 
