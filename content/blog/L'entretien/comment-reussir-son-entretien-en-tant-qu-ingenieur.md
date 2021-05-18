@@ -14,7 +14,7 @@ weight = 100
 
 Le recruteur vient de répondre à votre candidature. Il souhaite organiser un entretien avec vous pour éventuellement vous recruter.
 
-Nous connaissons l’importance que représente un entretien. Afin de vous aider au mieux à la préparation et réalisation de votre entretien, nous vous avons rédigé un article regroupant les conseils et astuces importants pour réussir son entretien.
+Nous connaissons l’importance que représente un entretien. Afin de vous aider au mieux à la préparation et réalisation de votre entretien, nous avons rédigé pour vous un article regroupant les conseils et astuces importants pour réussir cet entretien.
 
 ### Ce que vous apprendrez dans cet article
 
@@ -22,11 +22,11 @@ Nous connaissons l’importance que représente un entretien. Afin de vous aider
 
 👉L'entraînement conseillé avant l’entretien
 
-👉Les choses à respecter le Jour J pour mettre toutes les chances de son côté
+👉Les choses à respecter le Jour J pour mettre toutes les chances de votre côté
 
 ## 🤝 L’entretien, l’ultime étape
 
-L’entretien représente **la dernière étape** avant la réponse définitive d’un recruteur. Malgré le fait que l’obtention d’un entretien montre l’intérêt émis par l’entreprise ou le recruteur à votre profil, cela ne signifie pas que vous obtiendrez le poste ou la mission que vous ambitionnez.
+L’entretien représente **la dernière étape** avant la réponse définitive d’un recruteur. Malgré le fait que l’obtention d’un entretien montre l’intérêt émis par l’entreprise ou le recruteur pour votre profil, cela ne signifie pas que vous obtiendrez le poste ou la mission que vous ambitionnez.
 
 De ce fait, le recruteur n’attend pas uniquement **vos compétences** techniques pour vous choisir. Il est également important de mettre en avant **votre personnalité** ainsi que vos _soft skills_, important dans le milieu d’une entreprise et parfois décisif pour différencier des candidats aux compétences similaires.
 
@@ -52,7 +52,7 @@ Si vous ne l’avez pas fait, ou que vous souhaitez approfondir vos recherches, 
 
 La préparation pour un entretien passe obligatoirement par la pratique et l'entraînement. Par conséquent, vous avez la possibilité de faire cet entraînement seul ou avec des proches. Cela vous permet de connaître votre niveau d'élocution, vos points faibles afin de les travailler pour être prêt le Jour J.
 
-**Il n’y a pas d’exception, un entretien réussi est un entretien préparé !** 
+**Il n’y a pas d’exception, un entretien réussi est un entretien préparé !**
 
 ### Le Jour J
 
