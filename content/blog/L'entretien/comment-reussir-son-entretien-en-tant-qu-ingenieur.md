@@ -46,7 +46,9 @@ Pour commencer, il faut vous renseigner sur le logiciel utilisé pour cet entret
 
 Réglez également votre microphone en termes de qualité sonore et de volume. Faites de même avec votre webcam en faisant attention à l'arrière-plan ainsi qu'à la qualité. Pour le jour J assurez vous également d’avoir la connexion suffisante pour un entretien de bonne qualité.      Faites également attention à ne pas être dans un environnement bruyant. Cela pourrait vous déconcentrer mais également empêcher le recruteur de vous entendre précisément.
 
-👉**L’entretien téléphonique** : c’est l’un des types d’entretien le plus répandu. Le travail de préparation et le déroulement sont semblables aux types d’entretien cités précédemment.                                                  Même si le recruteur ne vous voit pas, il est malgré tout important pour vous de sourire. Cela sera audible lors de votre élocution.                        De plus, cela contribuera à conserver l’attention du recruteur.
+👉**L’entretien téléphonique** : c’est l’un des types d’entretien le plus répandu. Le travail de préparation et le déroulement sont semblables aux types d’entretien cités précédemment.                                                  
+
+Même si le recruteur ne vous voit pas, il est malgré tout important pour vous de sourire. Cela sera audible lors de votre élocution.                        De plus, cela contribuera à conserver l’attention du recruteur.
 
 👉**L’entretien collectif** : Souvent mis en place par les entreprises en quête de temps, il est l’entretien où le niveau de stress est le plus grand. 
 
