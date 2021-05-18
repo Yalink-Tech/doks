@@ -86,15 +86,15 @@ Dans le cas des ingénieurs, les _soft skills_ les plus recherchés par les recr
 
 ### Manifester sa motivation et son dynamisme
 
-Il est important que le recruteur comprenne votre envie d’obtenir cet emploi ou la mission que vous convoitez. Afin de montrer votre dynamisme, pensez à modifier votre intonation en **accentuant les termes importants**, que vous souhaitez mettre en relief. Soyez également **naturel**, ne récitez pas un texte appris par cœur. Votre communication verbale doit être **fluide mais humaine.** Si ce n’est pas le cas, le recruteur s’en rendra compte et vous serez pénalisé.
+Il est important que le recruteur comprenne votre envie d’obtenir cet emploi ou la mission que vous convoitez. Afin de montrer votre dynamisme, pensez à moduler votre intonation en **accentuant les termes importants**, que vous souhaitez mettre en relief. Soyez également **naturel**, ne récitez pas un texte appris par cœur. Votre communication verbale doit être **fluide mais humaine.** Si ce n’est pas le cas, le recruteur s’en rendra compte et vous serez pénalisé.
 
-Le dynamisme se communique également avec **votre gestuelle**. Tenez vous droit, sans croiser les bras car ce comportement peut être interprété comme une fermeture au dialogue.
+Le dynamisme se communique également par **votre gestuelle**. Tenez vous droit, sans croiser les bras car ce comportement peut être interprété comme une fermeture au dialogue.
 
 Nous vous conseillons également d’**appuyer votre argumentation** avec des gestes. Cette technique est très efficace si elle est utilisée avec modération.
 
 ### Posez des questions
 
-Les recruteurs voient des dizaines voir des centaines de candidats. L’un des moyens de vous différencier est de **montrer votre intérêt pour le poste et l’entreprise.** Cela passe notamment par des questions que vous poserez au recruteur.
+Les recruteurs voient des dizaines voire des centaines de candidats. L’un des moyens de vous différencier est de **montrer votre intérêt pour le poste et l’entreprise.** Cela passe notamment par des questions que vous poserez au recruteur.
 
 N’hésitez pas à **poser des questions**, c’est le moment pour vous d’obtenir des réponses mais également d'être bien vu par le recruteur. En plus de montrer votre intérêt, cela permet de discuter réellement avec le recruteur, ce qui peut jouer en votre faveur grâce au **contact humain** que vous allez créer.
 
