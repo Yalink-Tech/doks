@@ -62,7 +62,7 @@ Le premier signe de respect et considération de l’entretien est de ne pas arr
 
 Dans la majorité des cas, le recruteur adapte son planning pour l’entretien en vous réservant un créneau horaire. **Arriver trop en avance ou en retard pourrait déranger le recruteur dans son organisation.**
 
-🧐Conseil : **Si malgré toutes vos précautions, vous êtes en retard, prévenez le recruteur. Il pourra potentiellement adapter son planning pour vous trouver un nouveau créneau horaire.**
+🧐Conseil : **Si malgré toutes ces précautions, vous êtes en retard, prévenez le recruteur. Il pourra potentiellement adapter son planning pour vous trouver un nouveau créneau horaire.**
 
 Le premier contact est le moment où le recruteur peut c**erner votre personnalité.** Cependant, n’ayez pas une fausse assurance, cela pourrait être détecté par le recruteur et jouer en votre défaveur.
 
