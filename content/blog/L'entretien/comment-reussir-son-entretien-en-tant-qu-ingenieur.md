@@ -70,7 +70,7 @@ Le premier contact est le moment où le recruteur peut c**erner votre personnali
 
 Nous ne vous conseillons pas un costume ou une robe de soirée, cependant il est important d’éviter le fameux jean, t-shirt et baskets.
 
-**Votre dress code** en dit long sur votre implication et considération pour cet entretien. Si vous décidez de porter une chemise ou un haut, n’oubliez pas l’étape repassage.
+**Votre dress code** en dit long sur votre implication et considération pour cet entretien. Si vous décidez de porter une chemise ou un chemisier, n’oubliez pas l’étape repassage.
 
 ### Savoir se présenter
 
