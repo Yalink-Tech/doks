@@ -28,7 +28,7 @@ Nous connaissons l’importance que représente un entretien. Afin de vous aider
 
 L’entretien représente **la dernière étape** avant la réponse définitive d’un recruteur. Malgré le fait que l’obtention d’un entretien montre l’intérêt émis par l’entreprise ou le recruteur pour votre profil, cela ne signifie pas que vous obtiendrez, pour autant, le poste ou la mission.
 
-De ce fait, le recruteur n’attend pas uniquement **vos compétences** techniques pour vous choisir. Il est également important de mettre en avant **votre personnalité** ainsi que vos _soft skills_, important dans le milieu d’une entreprise et parfois décisif pour différencier des candidats aux compétences similaires.
+De ce fait, le recruteur n’attend pas uniquement **vos compétences** techniques pour vous choisir. Il est également important de mettre en avant **votre personnalité** ainsi que vos _soft skills_, importants dans le milieu d’une entreprise et parfois décisifs pour différencier des candidats aux compétences similaires.
 
 ### Les recherches, gage d’un entretien réussi et ciblé
 
