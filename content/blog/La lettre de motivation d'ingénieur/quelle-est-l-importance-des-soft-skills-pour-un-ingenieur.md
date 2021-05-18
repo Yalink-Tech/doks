@@ -58,12 +58,12 @@ Les **_hard skills_** ont une durée limitée, notamment dû à l’évolution d
 
 ## Comment développer ses soft skills ?
 
-Développer ses _soft skills_ passe par les capacités à apprendre et à réfléchir. Il n’y a pas de technique miracle pour développer ses _soft skills_. Avant toute chose, il est nécessaire de bien distinguer les traits de caractères et personnalités qui vous définissent et ceux, modifiables, que vous pourrez changer afin d’améliorer la personne que vous êtes.
+Développer ses _soft skills_ passe par les capacités à apprendre et à réfléchir. Il n’y a pas de technique miracle pour développer ses _soft skills_. Avant toute chose, il est nécessaire de bien distinguer les traits de caractère et personnalité qui vous définissent mais aussi ceux qui sont  modifiables, que vous pourrez changer afin d’améliorer la personne que vous êtes.
 
-Il est inutile de développer des _soft skills_ qui diffèrent de vos traits de personnalité.
+Il est inutile de tenter de développer des _soft skills_ qui diffèrent de vos traits de personnalité.
 
-Si vous n’appréciez pas le travail d’équipe, inutile de vouloir un poste ou une mission où le travail d’équipe est nécessaire. Vous devez vous focaliser uniquement sur des emplois ou des missions en accord avec vos _soft skills_. Cela sera mieux pour vous mais également pour l’entreprise qui pourra avoir une vision sur le long terme.
+Si vous n’appréciez pas le travail d’équipe, inutile de vouloir un poste ou une mission où le travail d’équipe est nécessaire. Vous devez vous focaliser uniquement sur des emplois ou des missions en accord avec vos _soft skills_. Cela sera mieux pour vous mais également pour l’entreprise.
 
-> Si vous remarquez qu’il est dans votre intérêt d’évoluer car certains de vos traits de personnalités vous portent préjudice dans l’obtention d’emplois ou de missions, alors faites le ! Cela vous sera bénéfique d’un point de vue professionnel mais également personnel.
+> Si vous remarquez qu’il est dans votre intérêt d’évoluer car certains de vos traits de personnalité vous portent préjudice dans l’obtention d’emplois ou de missions, alors faites le ! Cela vous sera bénéfique d’un point de vue professionnel mais également personnel.
 
 **Devenir une meilleure personne, en voulant gommer ses défauts et améliorer ses qualités ne peut qu’être bénéfique !**
