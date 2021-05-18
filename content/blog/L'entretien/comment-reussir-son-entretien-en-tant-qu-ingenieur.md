@@ -30,27 +30,27 @@ L’entretien représente généralement **la dernière étape** avant la répon
 
 De ce fait, le recruteur n’attend pas uniquement **vos compétences techniques** pour vous choisir. Il est également important de mettre en avant **votre personnalité** ainsi que vos **_soft skills_** _(ajouter lien vers article soft skills)_, important dans le milieu d’une entreprise et parfois décisif pour différencier des candidats aux compétences similaires.
 
-Les _soft skills_ sont définis comme des **compétences relationnelles, qualités humaines** ou **compétences comportementales.** Plus précisément, les _soft skills_ sont des compétences utilisables dans différents domaines. En effet, au détriment des _hard skills_, les _soft skills_ s’appliquent à tous les métiers. Ils se basent sur les traits de personnalité et se développent à partir d’expériences vécues au sein d’une entreprise ou dans la vie quotidienne.
+> Les _soft skills_ sont définis comme des **compétences relationnelles, qualités humaines** ou **compétences comportementales.** Plus précisément, les _soft skills_ sont des compétences utilisables dans différents domaines. En effet, au détriment des _hard skills_, les _soft skills_ s’appliquent à tous les métiers. Ils se basent sur les traits de personnalité et se développent à partir d’expériences vécues au sein d’une entreprise ou dans la vie quotidienne.
 
-Si vous souhaitez en savoir plus sur les **_soft skills_**, vous pourrez retrouver l’article que nous avons rédigé à ce sujet, ici.
+> Si vous souhaitez en savoir plus sur les **_soft skills_**, vous pourrez retrouver l’article que nous avons rédigé à ce sujet, ici.
 
 ### Les différents types d’entretiens
 
 Avant toute chose, il est important que vous ayez connaissance des différents types d’entretien :
 
-👉**L’entretien physique** : un des principaux types d’entretien, il est de moins en moins mis en pratique à cause de la situation sanitaire actuelle.
+👉 **L’entretien physique** : un des principaux types d’entretien, il est de moins en moins mis en pratique à cause de la situation sanitaire actuelle.
 
-👉**L’entretien en visioconférence** : la situation sanitaire actuelle a démocratisé ce type d’entretien. Il est donc nécessaire de s’y préparer. La méthode pour réussir son entretien en visioconférence n’est pas différente de celle de l’entretien physique. En revanche, il est important de prêter attention à certains détails spécifiques à ce type d’entretien. 
+👉 **L’entretien en visioconférence** : la situation sanitaire actuelle a démocratisé ce type d’entretien. Il est donc nécessaire de s’y préparer. La méthode pour réussir son entretien en visioconférence n’est pas différente de celle de l’entretien physique. En revanche, il est important de prêter attention à certains détails spécifiques à ce type d’entretien. 
 
 Pour commencer, il faut vous renseigner sur le logiciel utilisé pour cet entretien. Pensez à le télécharger mais également à le prendre en main pour être à l’aise le Jour J. 
 
 Réglez également votre microphone en termes de qualité sonore et de volume. Faites de même avec votre webcam en faisant attention à l'arrière-plan ainsi qu'à la qualité. Pour le jour J assurez vous également d’avoir la connexion suffisante pour un entretien de bonne qualité.      Faites également attention à ne pas être dans un environnement bruyant. Cela pourrait vous déconcentrer mais également empêcher le recruteur de vous entendre précisément.
 
-👉**L’entretien téléphonique** : c’est l’un des types d’entretien le plus répandu. Le travail de préparation et le déroulement sont semblables aux types d’entretien cités précédemment.                                                  
+👉 **L’entretien téléphonique** : c’est l’un des types d’entretien le plus répandu. Le travail de préparation et le déroulement sont semblables aux types d’entretien cités précédemment.                                                  
 
 Même si le recruteur ne vous voit pas, il est malgré tout important pour vous de sourire. Cela sera audible lors de votre élocution.                        De plus, cela contribuera à conserver l’attention du recruteur.
 
-👉**L’entretien collectif** : Souvent mis en place par les entreprises en quête de temps, il est l’entretien où le niveau de stress est le plus grand. 
+👉 **L’entretien collectif** : Souvent mis en place par les entreprises en quête de temps, il est l’entretien où le niveau de stress est le plus grand. 
 
 En effet, vous ne serez pas seul à vous vendre lors de ce type d’entretien. Les entreprises utilisent ce type d’entretien pour que les candidats puissent réellement mettre en évidence leurs _soft skills_.           
 
@@ -64,13 +64,13 @@ Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera p
 
 Si vous ne l’avez pas fait, ou si vous souhaitez approfondir vos recherches, nous vous conseillons de vous intéresser aux informations suivantes :
 
-👉**Les informations classiques** de l'entreprise, comme son secteur d’activité, la date de sa création, son organigramme et son fonctionnement...
+👉 **Les informations classiques** de l'entreprise, comme son secteur d’activité, la date de sa création, son organigramme et son fonctionnement...
 
-👉**Le coeur de métier de l’entreprise** ainsi que les différents métiers qui la composent
+👉 **Le coeur de métier de l’entreprise** ainsi que les différents métiers qui la composent
 
-👉**Les concurrents de l’entreprise** pour mieux cerner ses atouts et ses différences
+👉 **Les concurrents de l’entreprise** pour mieux cerner ses atouts et ses différences
 
-👉**Les chiffres clés de l’entreprise**, comme son chiffre d'affaires et son taux de croissance. Le nombre de salariés et les filiales sont aussi des éléments clés qui peuvent vous servir pour votre entretien d'ingénieur.
+👉 **Les chiffres clés de l’entreprise**, comme son chiffre d'affaires et son taux de croissance. Le nombre de salariés et les filiales sont aussi des éléments clés qui peuvent vous servir pour votre entretien d'ingénieur.
 
 **🚀 Tips** : Vous pourrez trouver ces informations sur le site Web de l’entreprise, mais certaines de ces informations se trouvent sur l’offre d’emploi. Il est donc utile de la relire lors de la préparation de cet entretien.
 
@@ -84,9 +84,11 @@ La communication non verbale englobe tous les éléments d’une communication o
 
 En effet, si l’on s’appuie sur l’étude du professeur Albert Mehrabian publiée en 1967, **93% d’une communication passe par le non-verbal.**   Ce résultat se base sur **la règle des 3V** émise par le professeur :
 
-* **38% de la communication est vocale** regroupant l’intonation et le son de la voix.
-* **55% de la communication est visuelle**, regroupant les expressions du visage et le langage corporel.
-* **7% de la communication est verbale**, faisant référence au sens des mots.
+👉 **38% de la communication est vocale** regroupant l’intonation et le son de la voix.
+
+👉 **55% de la communication est visuelle**, regroupant les expressions du visage et le langage corporel.
+
+👉**7% de la communication est verbale**, faisant référence au sens des mots.
 
 De ce fait, la communication non verbale fait partie des éléments principaux lors d’une embauche. Il est nécessaire pour vous de prêter attention à cela lors de votre entretien d’ingénieur. Cela passe obligatoirement par l’entraînement afin de vous permettre de prendre en considération tous ces paramètres.
 
@@ -96,13 +98,13 @@ Il est également important d’être en accord avec vous-même. Si, lors de vot
 
 Voici une liste des éléments à respecter afin d’optimiser votre communication non verbale :
 
-👉Évacuez votre stress avant l’entretien. Libre à vous de trouver la technique qui vous détend. N’oubliez pas, le stress peut être rapidement perçu par le recruteur et influé sur le sens de vos mots !
+👉 Évacuez votre stress avant l’entretien. Libre à vous de trouver la technique qui vous détend. N’oubliez pas, le stress peut être rapidement perçu par le recruteur et influé sur le sens de vos mots !
 
-👉Pensez aux Power Postures. Elles représentent toutes les techniques pour paraître confiant lors d’un entretien comme se tenir droit, les pieds à plat et les mains sur la table par exemple. Vous paraîtrez confiant, que ce soit aux yeux du recruteur mais également pour vous.
+👉 Pensez aux Power Postures. Elles représentent toutes les techniques pour paraître confiant lors d’un entretien comme se tenir droit, les pieds à plat et les mains sur la table par exemple. Vous paraîtrez confiant, que ce soit aux yeux du recruteur mais également pour vous.
 
-👉Restez authentique. Si, lorsque vous vous exprimez, votre message est en adéquation avec vos principes et vos valeurs, il est quasiment impossible que votre communication non verbale vous trahisse et fasse perdre du sens à vos mots.
+👉 Restez authentique. Si, lorsque vous vous exprimez, votre message est en adéquation avec vos principes et vos valeurs, il est quasiment impossible que votre communication non verbale vous trahisse et fasse perdre du sens à vos mots.
 
-👉Conservez un contact visuel avec le recruteur. Ne regardez pas fixement le recruteur, mais vous devez le regarder de façon fréquente !
+👉 Conservez un contact visuel avec le recruteur. Ne regardez pas fixement le recruteur, mais vous devez le regarder de façon fréquente !
 
 ### **Le Jour J**
 
