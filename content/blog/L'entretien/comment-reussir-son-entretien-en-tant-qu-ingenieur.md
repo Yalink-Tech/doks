@@ -36,7 +36,7 @@ Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera p
 
 À ce sujet, afin de répondre aux attentes du recruteur, nous vous conseillons de vous inspirer des recherches faites au préalable pour la rédaction de [votre lettre de motivation]().
 
-Si vous ne l’avez pas fait, ou que vous souhaitez approfondir vos recherches, nous vous conseillons de vous intéresser aux informations suivantes :
+Si vous ne l’avez pas fait, ou si vous souhaitez approfondir vos recherches, nous vous conseillons de vous intéresser aux informations suivantes :
 
 👉Les informations basiques de l'entreprise, comme la date de création et son secteur d’activité.
 
