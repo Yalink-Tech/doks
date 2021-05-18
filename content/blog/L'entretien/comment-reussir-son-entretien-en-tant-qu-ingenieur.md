@@ -96,6 +96,6 @@ Nous vous conseillons également d’**appuyer votre argumentation** avec des ge
 
 Les recruteurs voient des dizaines voire des centaines de candidats. L’un des moyens de vous différencier est de **montrer votre intérêt pour le poste et l’entreprise.** Cela passe notamment par la pertinence des questions que vous poserez au recruteur.
 
-N’hésitez pas à **poser des questions**, c’est le moment pour vous d’obtenir des réponses mais également d'être bien vu par le recruteur. En plus de montrer votre intérêt, cela permet de discuter réellement avec le recruteur, ce qui peut jouer en votre faveur grâce au **contact humain** que vous allez créer.
+N’hésitez pas à **poser des questions**, c’est le moment pour vous d’obtenir des réponses mais également d'être bien vu par le recruteur. En plus de montrer votre intérêt, cela permet de discuter et de réellement échanger avec lui, ce qui peut jouer en votre faveur grâce au **contact humain** que vous allez créer.
 
 > 🚀 Tips : Posez des questions sur les matériels et technologies utilisés, la vie dans l’entreprise par exemple.
