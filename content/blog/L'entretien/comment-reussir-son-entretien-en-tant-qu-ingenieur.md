@@ -64,17 +64,17 @@ Un entretien ne peut être réussi sans un travail en amont. Un recruteur sera p
 
 Si vous ne l’avez pas fait, ou si vous souhaitez approfondir vos recherches, nous vous conseillons de vous intéresser aux informations suivantes :
 
-👉Les informations classiques de l'entreprise, comme son secteur d’activité, la date de sa création, son organigramme et son fonctionnement...
+👉**Les informations classiques** de l'entreprise, comme son secteur d’activité, la date de sa création, son organigramme et son fonctionnement...
 
-👉Le coeur de métier de l’entreprise ainsi que les différents métiers qui la composent
+👉**Le coeur de métier de l’entreprise** ainsi que les différents métiers qui la composent
 
-👉Les concurrents de l’entreprise pour mieux cerner ses atouts et ses différences
+👉**Les concurrents de l’entreprise** pour mieux cerner ses atouts et ses différences
 
-👉Les chiffres clés de l’entreprise, comme son chiffre d'affaires et son taux de croissance. Le nombre de salariés et les filiales sont aussi des éléments clés qui peuvent vous servir pour votre entretien d'ingénieur.
+👉**Les chiffres clés de l’entreprise**, comme son chiffre d'affaires et son taux de croissance. Le nombre de salariés et les filiales sont aussi des éléments clés qui peuvent vous servir pour votre entretien d'ingénieur.
 
-🚀 Tips : Vous pourrez trouver ces informations sur le site Web de l’entreprise, mais certaines de ces informations se trouvent sur l’offre d’emploi. Il est donc utile de la relire lors de la préparation de cet entretien.
+**🚀 Tips** : Vous pourrez trouver ces informations sur le site Web de l’entreprise, mais certaines de ces informations se trouvent sur l’offre d’emploi. Il est donc utile de la relire lors de la préparation de cet entretien.
 
-👉Les informations concernant le recruteur que vous aurez le Jour J. Cherchez à obtenir le nom et prénom de votre recruteur afin de faire des recherches sur LinkedIn. Vous pourrez potentiellement trouver des points communs et faire directement des liens en citant des éléments précis pouvant l'interpeller lors de l’entretien. Ceci peut être des formations, des expériences professionnelles ou des compétences communes.
+👉**Les informations concernant le recruteur** que vous aurez le Jour J. Cherchez à obtenir le nom et prénom de votre recruteur afin de faire des recherches sur LinkedIn. Vous pourrez potentiellement trouver des points communs et faire directement des liens en citant des éléments précis pouvant l'interpeller lors de l’entretien. Ceci peut être des formations, des expériences professionnelles ou des compétences communes.
 
 ### **L'entraînement, le moyen de mettre en place les idées**
 
@@ -82,11 +82,11 @@ La préparation pour un entretien passe obligatoirement par la pratique et l'ent
 
 La communication non verbale englobe tous les éléments d’une communication ou d’un échange n’ayant pas un lien direct avec la parole. C’est un des principaux facteurs pour la transmission et la compréhension d’un message par l’interlocuteur.
 
-En effet, si l’on s’appuie sur l’étude du professeur Albert Mehrabian publiée en 1967, 93% d’une communication passe par le non-verbal. Ce résultat se base sur la règle des 3V émise par le professeur :
+En effet, si l’on s’appuie sur l’étude du professeur Albert Mehrabian publiée en 1967, **93% d’une communication passe par le non-verbal.**   Ce résultat se base sur **la règle des 3V** émise par le professeur :
 
-* 38% de la communication est vocale regroupant l’intonation et le son de la voix.
-* 55% de la communication est visuelle, regroupant les expressions du visage et le langage corporel.
-* 7% de la communication est verbale, faisant référence au sens des mots.
+* **38% de la communication est vocale** regroupant l’intonation et le son de la voix.
+* **55% de la communication est visuelle**, regroupant les expressions du visage et le langage corporel.
+* **7% de la communication est verbale**, faisant référence au sens des mots.
 
 De ce fait, la communication non verbale fait partie des éléments principaux lors d’une embauche. Il est nécessaire pour vous de prêter attention à cela lors de votre entretien d’ingénieur. Cela passe obligatoirement par l’entraînement afin de vous permettre de prendre en considération tous ces paramètres.
 
@@ -138,7 +138,7 @@ Cependant, vos _soft skills_ doivent être utilisés à bon escient. Chacun d’
 
 Dans le cas des ingénieurs, les _soft skills_ les plus recherchés par les recruteurs sont la capacité à être organisé, la curiosité, l’adaptation aux nouvelles technologies et la faculté à trouver des solutions.
 
-Tips : Il est important de savoir se présenter sans réciter un texte ou votre CV tel quel. Vous êtes face à un humain. Vous devez réussir à transmettre les bonnes émotions. C’est tout l’art de l’entretien. Vous devez trouver un juste milieu entre connaître son discours et le réciter.
+**🚀 Tips** : Il est important de savoir se présenter sans réciter un texte ou votre CV tel quel. Vous êtes face à un humain. Vous devez réussir à transmettre les bonnes émotions. C’est tout l’art de l’entretien. Vous devez trouver un juste milieu entre connaître son discours et le réciter.
 
 ### **Manifester sa motivation et son dynamisme**
 
@@ -160,7 +160,7 @@ N’hésitez pas à **poser des questions**, c’est le moment pour vous d’obt
 
 ### Les 10 astuces à retenir :
 
-Afin d’être sûr que vous ayez compris tous les conseils que nous vous avons proposés dans cet article, nous vous avons récapitulé les 10 astuces à retenir pour réussir son entretien en tant qu’ingénieur :
+Afin d’être sûr que vous ayez compris tous les conseils que nous vous avons proposés dans cet article, nous vous avons récapitulé **les 10 astuces à retenir pour réussir son entretien en tant qu’ingénieur** :
 
 1️⃣Préparez votre entretien
 
