@@ -1,5 +1,5 @@
 +++
-contributors = []
+contributors = ["Timothy"]
 date = 2021-05-19T20:53:00Z
 description = "Ceci est la descriptionCeci est la descriptionCeci est la description"
 imageCover = "/uploads/typing.png"
