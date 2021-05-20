@@ -40,19 +40,19 @@ Avant toute chose, il est important que vous ayez connaissance des différents t
 
 👉 **L’entretien physique** : un des principaux types d’entretien, il est de moins en moins mis en pratique à cause de la situation sanitaire actuelle.
 
-👉 **L’entretien en visioconférence** : la situation sanitaire actuelle a démocratisé ce type d’entretien. Il est donc nécessaire de s’y préparer. La méthode pour réussir son entretien en visioconférence n’est pas différente de celle de l’entretien physique. En revanche, il est important de prêter attention à certains détails spécifiques à ce type d’entretien. 
+👉 **L’entretien en visioconférence** : la situation sanitaire actuelle a démocratisé ce type d’entretien. Il est donc nécessaire de s’y préparer. La méthode pour réussir son entretien en visioconférence n’est pas différente de celle de l’entretien physique. En revanche, il est important de prêter attention à certains détails spécifiques à ce type d’entretien.
 
-Pour commencer, il faut vous renseigner sur le logiciel utilisé pour cet entretien. Pensez à le télécharger mais également à le prendre en main pour être à l’aise le Jour J. 
+Pour commencer, il faut vous renseigner sur le logiciel utilisé pour cet entretien. Pensez à le télécharger mais également à le prendre en main pour être à l’aise le Jour J.
 
-Réglez également votre microphone en termes de qualité sonore et de volume. Faites de même avec votre webcam en faisant attention à l'arrière-plan ainsi qu'à la qualité. Pour le jour J assurez vous également d’avoir la connexion suffisante pour un entretien de bonne qualité.      Faites également attention à ne pas être dans un environnement bruyant. Cela pourrait vous déconcentrer mais également empêcher le recruteur de vous entendre précisément.
+Réglez également votre microphone en termes de qualité sonore et de volume. Faites de même avec votre webcam en faisant attention à l'arrière-plan ainsi qu'à la qualité. Pour le jour J assurez vous également d’avoir la connexion suffisante pour un entretien de bonne qualité. Faites également attention à ne pas être dans un environnement bruyant. Cela pourrait vous déconcentrer mais également empêcher le recruteur de vous entendre précisément.
 
-👉 **L’entretien téléphonique** : c’est l’un des types d’entretien le plus répandu. Le travail de préparation et le déroulement sont semblables aux types d’entretien cités précédemment.                                                  
+👉 **L’entretien téléphonique** : c’est l’un des types d’entretien le plus répandu. Le travail de préparation et le déroulement sont semblables aux types d’entretien cités précédemment.
 
-Même si le recruteur ne vous voit pas, il est malgré tout important pour vous de sourire. Cela sera audible lors de votre élocution.                        De plus, cela contribuera à conserver l’attention du recruteur.
+Même si le recruteur ne vous voit pas, il est malgré tout important pour vous de sourire. Cela sera audible lors de votre élocution. De plus, cela contribuera à conserver l’attention du recruteur.
 
-👉 **L’entretien collectif** : Souvent mis en place par les entreprises en quête de temps, il est l’entretien où le niveau de stress est le plus grand. 
+👉 **L’entretien collectif** : Souvent mis en place par les entreprises en quête de temps, il est l’entretien où le niveau de stress est le plus grand.
 
-En effet, vous ne serez pas seul à vous vendre lors de ce type d’entretien. Les entreprises utilisent ce type d’entretien pour que les candidats puissent réellement mettre en évidence leurs _soft skills_.           
+En effet, vous ne serez pas seul à vous vendre lors de ce type d’entretien. Les entreprises utilisent ce type d’entretien pour que les candidats puissent réellement mettre en évidence leurs _soft skills_.
 
 Si vous avez du leadership, un esprit d’écoute et de synthèse tout en étant imperméable au stress, ce type d’entretien ne devrait pas vous poser de soucis.
 
