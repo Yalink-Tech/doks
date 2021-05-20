@@ -1,10 +1,10 @@
 +++
 contributors = ["Timothy"]
-date = ""
+date = 2021-05-19T22:00:00Z
 description = "Ingénieur, vous vous demandez si la lettre de motivation est réellement utile ? Vous trouverez la réponse dans cet article."
 draft = true
 imageCover = "/uploads/magnet-me-jupaxbh-fgc-unsplash.jpeg"
-lastmod = ""
+lastmod = 2021-05-19T22:00:00Z
 lead = "Ingénieur, vous vous demandez si la lettre de motivation est réellement utile ? Vous trouverez la réponse dans cet article."
 title = "Faut-il écrire une lettre de motivation pour un ingénieur ?"
 weight = 100
@@ -35,13 +35,13 @@ Il est également possible, pour vous ingénieurs Freelance ou ingénieurs en qu
 
 Mais aussi de passer par des plateformes de mise en relation comme **LinkedIn**, **Malt** ou **Yalink**. Ces plateformes vous permettront de trouver des missions d'ingénierie sans avoir à passer par la case lettre de motivation.
 
-L’inscription sur Yalink ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour nous permettre d’établir un premier contact avec vous et pour mieux vous connaître.
+L’inscription sur **Yalink** ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour nous permettre d’établir un premier contact avec vous et pour mieux vous connaître.
 
-En effet, une lettre de motivation n’est pas lue dans **3 cas sur 4**. Cela est dû essentiellement au fait que les candidats envoient des lettres de motivation bien trop souvent copiées/collées. Nous savons également que le temps de lecture et d’intérêt qu'apporte un recruteur aux candidatures est inférieur à 60 secondes.
+En effet, une lettre de motivation n’est pas lue dans **3 cas sur 4**. Cela est dû essentiellement au fait que les candidats envoient des lettres de motivation bien trop souvent copiées/collées. Nous savons également que le temps de lecture et d’intérêt qu'apporte un recruteur aux candidatures est **inférieur à 60 secondes.**
 
 Par conséquent, il est logique que les recruteurs préfèrent se concentrer sur les CV, plus rapides à lire et beaucoup plus représentatifs des demandes techniques de l’emploi ou de la mission.
 
-Écrire une lettre de motivation dépend également du poste visé et de la concurrence. Si la concurrence est forte, une lettre de motivation bien construite et bien rédigée peut faire la différence, alors que pour un secteur en manque de candidats, elle n’est pas forcément nécessaire.
+[Écrire une lettre de motivation]() dépend également du poste visé et de la concurrence. Si la concurrence est forte, une lettre de motivation bien construite et bien rédigée peut faire la différence, alors que pour un secteur en manque de candidats, elle n’est pas forcément nécessaire.
 
 Cependant, nous retrouvons un nombre irréductible de recruteurs portant encore un intérêt important à la lecture des lettres de motivation. En effet, cela leur permet d’avoir un aperçu de la qualité rédactionnelle du candidat mais également de constater la façon dont le candidat se vend. N’oubliez pas qu’il y a le savoir-faire, et le faire savoir ! Une lettre originale, précise et détaillée peut faire la différence face des candidats qui n’en font pas ou copient sur internet.
 
@@ -51,9 +51,9 @@ Ainsi, il est difficile de conclure sur la réelle importance d’une lettre de 
 
 La lettre de motivation est parfois le dernier recours pour départager deux candidats. En effet, la lettre de motivation est le moyen de mettre en avant vos compétences techniques (hard skills) par la citation d’exemples, mais également d’exprimer vos compétences comportementales en les définissant (**soft skills**). C’est également un moyen pour vous de montrer votre implication mais également l’intérêt que vous portez à l’entreprise.
 
-Vous retrouverez sur notre site **Yalink**, notre article sur **l’importance des soft skills.**
+Vous retrouverez sur notre site [**Yalink**](https://yalink.fr/), notre article sur [**l’importance des soft skills**]()**.**
 
-> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site Yalink mais également sur notre page **LinkedIN**.
+> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site [Yalink](https://yalink.fr/) mais également sur notre page [**LinkedIn**](https://www.linkedin.com/company/yalinkommunity/).
 
 ## Comment rédiger sa lettre de motivation ?
 
@@ -137,4 +137,4 @@ Vous avez le choix d’écrire ou non une lettre de motivation. Vous ne connaiss
 
 Dans notre cas, **Yalink** ne demande pas de lettre de motivation à l’inscription. Cependant, si vous souhaitez malgré tout en rédiger une, nous vous conseillons de la rédiger en vous basant sur des expériences et des recommandations afin d’apporter davantage de détails sur vos compétences et la personne que vous êtes.
 
-> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site Yalink mais également sur notre page **LinkedIN**.
+> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site [**Yalink **](https://yalink.fr/)mais également sur notre page [**LinkedIn**](https://www.linkedin.com/company/yalinkommunity/).
