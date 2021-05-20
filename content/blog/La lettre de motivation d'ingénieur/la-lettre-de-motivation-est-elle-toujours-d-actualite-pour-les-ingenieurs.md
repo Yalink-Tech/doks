@@ -33,7 +33,7 @@ De nos jours, la lettre de motivation a perdu un peu de sens, notamment avec l�
 
 Il est également possible, pour vous ingénieurs Freelance ou ingénieurs en quête d’un CDI, l’envoi de CV sous format vidéo.
 
-Mais aussi de passer par des plateformes de mise en relation comme **LinkedIn**, **Malt** ou **Yalink**. Ces plateformes vous permettront de trouver des missions d'ingénierie sans avoir à passer par la case lettre de motivation.
+Mais aussi de passer par des plateformes de mise en relation comme [**LinkedIn**](https://www.linkedin.com/), [**Malt**](https://www.malt.fr/) ou [**Yalink**](https://yalink.fr/). Ces plateformes vous permettront de trouver des missions d'ingénierie sans avoir à passer par la case lettre de motivation.
 
 L’inscription sur **Yalink** ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour nous permettre d’établir un premier contact avec vous et pour mieux vous connaître.
 
