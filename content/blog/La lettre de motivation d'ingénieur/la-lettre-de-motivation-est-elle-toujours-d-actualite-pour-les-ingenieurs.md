@@ -53,7 +53,7 @@ La lettre de motivation est parfois le dernier recours pour départager deux can
 
 Vous retrouverez sur notre site [**Yalink**](https://yalink.fr/), notre article sur [**l’importance des soft skills**]()**.**
 
-> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site [**Yalink **](https://yalink.fr/)mais également sur notre page [**LinkedIn**](https://www.linkedin.com/company/yalinkommunity/).
+> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site [**Yalink**](https://yalink.fr/) mais également sur notre page [**LinkedIn**](https://www.linkedin.com/company/yalinkommunity/).
 
 ## Comment rédiger sa lettre de motivation ?
 

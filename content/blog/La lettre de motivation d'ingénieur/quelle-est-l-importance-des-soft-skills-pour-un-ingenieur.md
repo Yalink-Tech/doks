@@ -72,7 +72,7 @@ De nos jours, nous constatons que les CV sont une succession de diplômes, forma
 
 C’est pour cela qu’il est **important de se démarquer.** En effet, nous savons que pour la plupart des postes ou des missions en tant qu’ingénieurs Freelance, les candidats ont quasiment tous le même parcours et seule l’expérience professionnelle peut différer.
 
-Tips : Pensez à **mettre en avant vos soft skills** dans votre CV, votre **Lettre de Motivation** et à **les illustrer lors de votre entretien. Vous retrouverez nos astuces et conseils pour rédiger une lettre de motivation ainsi que pour préparer son entretien.**
+> 🚀 **Tips :** Pensez à **mettre en avant vos soft skills** dans votre CV, votre **Lettre de Motivation** et à **les illustrer lors de votre entretien. Vous retrouverez nos astuces et conseils pour rédiger une lettre de motivation ainsi que pour préparer son entretien.**
 
 Les **_hard skills_** ont une durée limitée, notamment due à l’évolution des métiers et des technologies. De ce fait, les **_soft skills_** sont des compétences **utiles** et **intemporelles** permettant à la personne de rester **compétitive** en s’adaptant à l’environnement changeant.
 
