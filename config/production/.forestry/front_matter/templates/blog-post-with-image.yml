@@ -20,18 +20,24 @@ fields:
 - type: text
   name: title
   label: title
-- type: number
-  name: weight
-  label: weight
-- type: file
-  name: imageCover
-  label: imageCover
+- name: seotitle
+  type: text
+  config:
+    required: false
+  label: Titre seo
+  description: Le titre SEO qui apparait dans la section head HTML
 - name: url
   type: text
   config:
     required: false
   label: URL
   description: Defines a specific URL (for SEO refined use)
+- type: file
+  name: imageCover
+  label: imageCover
+- type: number
+  name: weight
+  label: weight
 pages:
 - content/blog/L'entretien/comment-reussir-son-entretien-en-tant-qu-ingenieur.md
 - content/blog/La lettre de motivation d'ingénieur/comment-ecrire-une-lettre-de-motivation-pour-un-ingenieur.md
