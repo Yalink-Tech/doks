@@ -5,8 +5,9 @@ description = "Ingénieur, comment convaincre lors de la rédaction de sa lettre
 imageCover = "/uploads/typing.png"
 lastmod = 2021-05-12T22:00:00Z
 lead = "Ingénieur, comment convaincre lors de la rédaction de sa lettre de motivation ? Les éléments dont vous avez besoin pour y parvenir se trouvent ici."
+seotitle = "La lettre de motivation et l'ingénieur, une histoire d'amour"
 title = "Comment écrire une lettre de motivation pour un ingénieur ?"
-url = "/blog/la-lettre-de-motivation"
+url = "/blog/lettre-motivation-freelance-ingenieur"
 weight = 100
 
 +++
