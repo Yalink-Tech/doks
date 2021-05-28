@@ -12,7 +12,7 @@ url = "/blog/comment-rediger-lettre-motivation-freelance-ingenieur"
 weight = 100
 
 +++
-## Comment rédiger sa lettre de motivation ?  
+## Comment rédiger sa lettre de motivation ?
 
 Nous connaissons les difficultés parfois rencontrées lors de la rédaction d’une lettre de motivation.
 
@@ -66,17 +66,15 @@ Malgré la place minime qu’elle représente dans la lettre, la phrase d’accr
 
 Afin de vous aiguiller dans la rédaction de ce paragraphe, nous vous conseillons de vous poser certaines questions :
 
-  
 👉Pourquoi ce secteur m’intéresse-t-il ?
 
 👉Mes valeurs sont-elles en adéquation avec celles de l’entreprise ?
 
 👉Quelle plus-value pourrais-je apporter à l’entreprise et pourquoi ?
 
-  
-Comme cité précédemment, il est important de se démarquer des lettres de motivations dites “classiques”. Pour cela, nous vous conseillons d’éviter les phrases 
+Comme cité précédemment, il est important de se démarquer des lettres de motivations dites “classiques”. Pour cela, nous vous conseillons d’éviter les phrases
 
-> _“je serai heureux de mettre mes compétences au profit et au service de votre entreprise, que je considère la meilleure sur ce secteur”_. 
+> _“je serai heureux de mettre mes compétences au profit et au service de votre entreprise, que je considère la meilleure sur ce secteur”_.
 
 Ces phrases pourraient se trouver répétitives et copiées-collées de modèles ou d'exemples trouvés sur Internet.
 
@@ -92,7 +90,6 @@ Nous vous conseillons d’appuyer votre propos par la citation d’exemples conc
 
 > 🧐 Conseil : **Il est toujours important d’établir un lien entre le CV et sa lettre de motivation.**
 
-  
 La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueur ou le travail d'équipe peut se révéler utile si elle est adaptée à la mission et au motif de votre lettre de motivation.
 
 > > Les **_soft skills_** représentent les compétences comportementales, souvent ignorées dans le cursus scolaire classique, au détriment des **_hard skills_** qui représentent, eux, les compétences techniques.
@@ -101,9 +98,9 @@ La mention de certains de vos **_soft skills_** comme la ponctualité, la rigueu
 
 ### Un paragraphe pour conclure
 
-Ce paragraphe peut se révéler être la _“cerise sur le gâteau”_. 
+Ce paragraphe peut se révéler être la _“cerise sur le gâteau”_.
 
-En effet, il représente le **_nous_**, le moment où vous devez montrer que vous avez compris les enjeux et les exigences de la mission, projet ou poste. 
+En effet, il représente le **_nous_**, le moment où vous devez montrer que vous avez compris les enjeux et les exigences de la mission, projet ou poste.
 
 Pour cela, vous avez la possibilité d’intégrer des éléments provenant de l’offre, en expliquant de façon argumentée, les points forts que vous pourrez potentiellement mettre à la disposition de l’entreprise pour réaliser ces missions.
 
@@ -117,7 +114,7 @@ Nous vous conseillons de montrer votre disponibilité à un éventuel entretien.
 >
 > 👉“La réalisation d’un entretien, si vous en considérez l’utilité, me permettra de vous apporter les informations complémentaires que vous nécessitez. Je vous prie d’agréer, Madame / Monsieur, mes sincères salutations.”
 
-![Logo Yalink](/uploads/logo-yalink-texte-jaune.png "Logo et texte Yalink")
+> > > > > > > ![](/uploads/logo-test.png)
 
 ## Yalink, le futur du travail pour les ingénieurs
 
@@ -154,15 +151,10 @@ Pour finir avec le format de votre lettre de motivation, il est obligatoire et c
 Pour réaliser une lettre de motivation d'ingénieur percutante, il est important, lors de la rédaction, de garder en tête l’offre d’emploi ainsi que les informations trouvées sur l’entreprise. **Soyez objectif en ce qui concerne la pertinence et l’intérêt des éléments que vous rédigez.**
 
 * N’hésitez pas à aller droit au but, sans passer par des phrases bateau, vues des centaines de fois sur d’autres lettres de motivations. **Soyez vous même, ne vous embêtez pas à rédiger des phrases complexes pour vous donner un genre, soyez synthétique.**
-
 * En ce qui concerne les mots employés, utilisez un vocabulaire riche afin d’éviter de vous répéter ainsi que la répétition de mots bateau comme “motivé” par exemple.
-
 * L’écriture de votre lettre de motivation d'ingénieur se doit d’être au présent, en utilisant des phrases affirmatives. Utilisez tout cela afin de différencier votre lettre de motivation de votre CV. **Votre lettre doit être complémentaire à votre CV et non un copié-collé.**
-
 * N’oubliez pas de vous relire avant d’envoyer votre lettre. Les fautes d’orthographe sont **rédhibitoires.** Enfin, pour une lecture fluide, pensez à surveiller la ponctuation qui peut donner un réel rythme à votre lettre.
-
 * La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Nous vous conseillons la lecture à voix haute, avec la possibilité de vous enregistrer afin d'évaluer objectivement votre prestation orale. Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous-même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
-
 * Pensez à conserver le fichier de votre lettre de motivation pour l’entretien ou les prochaines fois. Vous pourrez vous en inspirer pour en rédiger de nouvelles, répondant aux critères d’autres offres.
 
 ![Deux hommes se sert la main](/uploads/sebastian-herrmann-nbtidofkgo8-unsplash.jpeg "Contractualisation")
