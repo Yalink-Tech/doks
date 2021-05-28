@@ -1,13 +1,13 @@
 +++
-contributors = []
+contributors = ["Timothy"]
 date = 2021-05-27T22:00:00Z
-description = "Ingénieur, vous vous demandez les erreurs commises dans une lettre de motivation ? Vous trouverez les erreurs ici"
+description = "Ingénieur, vous trouverez les erreurs ici les erreurs les plus fréquentes qui sont commises dans une lettre de motivation ? "
 imageCover = "/uploads/will-porada-zagcu6bxjec-unsplash.jpeg"
 lastmod = 2021-05-27T22:00:00Z
-lead = "Ingénieur, vous vous demandez les erreurs commises dans une lettre de motivation ? Vous trouverez les erreurs ici"
+lead = "Ingénieur, vous trouverez les erreurs ici les erreurs les plus fréquentes qui sont commises dans une lettre de motivation ?"
 seotitle = "Les 16 erreurs à ne pas commettre dans sa lettre de motivation pour un ingénieur"
 title = "Les fautes les plus fréquentes à éviter à tout prix dans sa lettre de motivation"
-url = "16-erreurs-lettre-de-motivation-ingénieur"
+url = "/blog/16-erreurs-lettre-de-motivation-ingénieur"
 weight = 100
 
 +++
