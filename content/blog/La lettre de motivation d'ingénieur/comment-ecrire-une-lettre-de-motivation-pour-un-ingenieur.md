@@ -176,3 +176,13 @@ Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre 
 [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
 Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
+
+## Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser
+
+* [Les astuces d'une lettre de motivation réussie pour un ingénieur]()
+* [Ingénieur : Quels outils utiliser pour sa lettre de motivation ?]()
+* [Ingénieur : Faut-il écrire une lettre de motivation ?]()
+* [Ingénieur : Faut-il postuler avec une lettre de motivation ?]()
+* [Les 16 erreurs à ne pas commettre dans sa lettre de motivation.]()
+* [Quels Modèle et exemples de lettre de motivation utiliser pour candidater ?]()
+* [Pourquoi mentionner les soft skills dans sa lettre de motivation ?]()
