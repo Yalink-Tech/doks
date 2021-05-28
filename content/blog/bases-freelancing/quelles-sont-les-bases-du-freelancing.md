@@ -2,7 +2,6 @@
 contributors = ["Vincent"]
 date = 2021-05-27T22:00:00Z
 description = "Comment se lancer en tant qu'indépendant ?  Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
-draft = true
 imageCover = "/uploads/les-bases-du-freelancing.jpg"
 lastmod = 2021-05-27T22:00:00Z
 lead = "Comment se lancer en tant qu'indépendant ?  Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
@@ -12,7 +11,7 @@ url = "/blog/guide-base-freelancing-ingenieur"
 weight = 100
 
 +++
-## 🌱 Pourquoi choisir de s'orienter vers le freelancing ? 
+## 🌱 Pourquoi choisir de s'orienter vers le freelancing ?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
 
@@ -60,6 +59,8 @@ Ainsi, un freelance a une relation commerciale avec des clients, à la différen
 
 Être freelance impose un changement de position. Comme expliqué, la relation entre un freelance et son client est une relation commerciale, à la différence d'un lien de subordination avec un employeur.
 
+![Homme qui tend sa main](/uploads/pexels-pixabay-327540-1.jpg "Contractualisation")
+
 Nous vous avons listé ci-dessous les spécificités du freelance par rapport au salarié.
 
 > **Choix du rythme**
@@ -90,6 +91,14 @@ Nous vous avons listé ci-dessous les spécificités du freelance par rapport au
 >
 > Vous pouvez parfois utiliser ceux de l’entreprise pour des raisons de sécurité ou de confidentialité.
 
+![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+
+## Yalink, le futur du travail pour les ingénieurs
+
+[Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+
+Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
+
 ## 🌱 Les différents statuts et régimes
 
 ### 🌱 Statut juridique
@@ -108,6 +117,8 @@ En France, une personne freelance peut opter pour deux principaux statuts juridi
 > >
 > > **🌱 Micro-entreprise**
 
+[Pour en savoir plus sur la micro entreprise consultez le guide complet. ]()
+
 👉 **Société unipersonnelle**
 
 > La société est une **personne morale** distincte de son fondateur qui dispose de son propre patrimoine.
@@ -119,6 +130,8 @@ En France, une personne freelance peut opter pour deux principaux statuts juridi
 > > **🌱 Entreprise unipersonnelle à responsabilité limitée (EURL)**
 > >
 > > **🌱 Société par actions simplifiée unipersonnelle ( SASU)**
+
+[Pour en savoir plus sur l'EURL, consultez le guide complet.]() 
 
 ### 🌱 Régime social
 
@@ -144,7 +157,7 @@ Le régime fiscal définit de quelle manière l’activité sera soumise à l’
 
 ## 🌱L’aventure de Jackie Mongoose
 
-{{< blog-img src="/uploads/humaaans-space.png" alt="Jackie Mongoose profile picture">}}
+![Image d'un personnage](/uploads/humaaans-space.png "Jackie Mongoose")
 
 Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Mais qui est **Jackie Mongoose** ?
 
@@ -184,3 +197,11 @@ Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d�
 | Dirigeant cotise pour le chômage ? | Non | Oui | Non | Non |
 
 {{< /simple-table >}}
+
+![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+
+## Yalink, le futur du travail pour les ingénieurs
+
+[Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+
+Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
