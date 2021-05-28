@@ -104,7 +104,6 @@ Pour connaître les **régimes fiscaux** et **régime sociaux** applicables, il 
 
 ![Homme se prenant la tête avec ses mains](/uploads/jason-strull-kq0c6wteglo-unsplash-1.jpg "Homme sur sa chaise")
 
-  
 Il y a **2** types de **régimes sociaux** et **2** types de **régimes fiscaux :**
 
 > **🌱 Régimes sociaux :**
@@ -157,7 +156,6 @@ Ici l’associé est une personne morale (une autre société en quelque sorte).
 
 ## **🌱** Choix du régime Fiscal
 
-  
 Le choix du **régime fiscal** détermine beaucoup de choses dans l’EURL. C’est le choix qui intervient directement après avoir choisi le gérant et l’associé unique.
 
 Par défaut le régime fiscale de l’EURL est **l’IR** (impôt sur le revenu).
@@ -190,7 +188,6 @@ Le bénéfice imposable de la société et les revenus de l’associé unique so
 
 ### Imposition sur les sociétés
 
-  
 L'impôt sur les sociétés (**IS**) est prélevé sur les **bénéfices imposables** réalisés au cours d'un exercice annuel par les entreprises. L'entreprise doit faire une déclaration et payer l'IS à dates fixes.
 
 Le taux d’imposition à l’IS dépend du bénéfice imposable de la société.
@@ -216,3 +213,102 @@ Les dividendes ne sont pas considérés comme une rémunération, mais comme **d
 Ils peuvent être soumis à cotisations sociales quand la part distribuée aux associés excède **10 % du capital social**, des primes d'émission et des sommes versées en compte courant d'associé.
 
 Pour en savoir plus vous pouvez consulter [le site officiel](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32963) du gouvernement ou contacter un cabinet d’expertise comptable.
+
+## 🌱L’aventure de Jackie Mongoose
+
+![](/uploads/humaaans-space.png)
+
+**Jackie Mongoose** a pris du galon depuis qu’elle s’est lancée en [micro-entreprise](). Cela fait 3 ans qu’elle est à son compte et souhaite connaître les spécificités de l’EURL. Elle vous accompagnera à la découverte de ce statut.
+
+> Jackie a **35** ans.  
+> C'est une ingénieure **Freelance**.  
+> Elle travaille dans les **télécommunications**.  
+> Elle vit à **Bordeaux**, la belle endormie.
+
+👉 Jackie souhaite travailler en moyenne **18 jours** par mois. Ceci équivaut à 7 semaines de congés par an.
+
+👉 Jackie avait fixé sont TJM à 300€ en micro entreprise. Grâce à l'expérience qu’elle a acquise elle fixe désormais son TJM à **450€/jour.**
+
+> Elle facture à son client **8 100€ HT** par mois et réalise un CA annuel de **97 200€ HT**.
+
+👉Sa situation
+
+Jackie est la **gérante associée unique** de son EURL. Elle a donc le régime social des travailleurs indépendants (TNS).
+
+Jackie a choisi de soumettre son EURL à l’**IS**.
+
+Elle facture la TVA et facture donc en réalité **9 720€ TTC /mois** soit **116 640 € TTC/an** à son client.
+
+Pour la simplicité des calculs nous prendrons l’hypothèse que Jackie est célibataire et sans enfant. Son quotient familial est de **1**. Ceci nous servira pour la calcul de l’impôt
+
+## 🌱La rémunération de Jackie
+
+### Salaire de Jackie et cotisations sociales
+
+Avant de commencer les calculs, il est important de déterminer le niveau de rémunération de Jackie.
+
+**Le revenu que génère la société appartient à la société** ! Pour pouvoir récolter le fruit de son dur labeur, Jackie doit se verser un salaire..
+
+Quand on parle de **salaire**, on parle bien évidemment de **cotisations sociales**. Il faut donc bien que Jackie ait en tête que les 8100€ HT de chiffre d’affaire que réalise l’EURL peuvent être découpés en :
+
+> 👉 Rémunération brute avant impôt
+>
+> 👉 Cotisations sociales
+>
+> 👉 Frais pour faire fonctionner l’entreprise
+>
+> 👉 Impôt sur les sociétés
+>
+> 👉 Dividendes
+
+Il faut donc anticiper les frais et charges de l’entreprise ainsi que le coût des cotisations sociales pour pouvoir en déduire une rémunération brute.
+
+### Les frais
+
+👉 L’EURL a provisionné 4 800€ de frais généraux annuel soit **400€ / mois.**
+
+Ce chiffre est une estimation arbitraire des frais annuels supportés par un ingénieur freelance. Il convient d’estimer ses frais avec l’aide d’un expert comptable en fonction de son activité.
+
+## 🌱 Le palier social
+
+### Les cotisations sociales
+
+Les cotisations sociales sont les prélèvements (que l’on peut retrouver sur une fiche de paie quand on est salarié). Elles servent à financer la retraite, la santé et les allocations familiales.
+
+Pour la simplicité, nous avons défini un taux global de cotisation sociales **correspondant à 45%.**
+
+Ce taux correspond à la sommes des cotisations dont vous pouvez consulter l’intégralité sur le site officiel du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.) rubrique “Cotisations & contributions”.
+
+> 🚧 Ce taux varie en fonction du montant de la rémunération !
+
+Concrètement cela veut dire que dès que Jackie souhaitera se verser un salaire de 1 000€, l’EURL paiera 450€ supplémentaire de cotisations sociales.
+
+👉 Jackie Mongoose souhaite se verser un salaire (avant impôt) de **4 500€**. L’EURL dépense donc au total **6 525€/mois (78 300€ par an),** soit **2 025€ de cotisations sociales (24 300 € par an).**
+
+### ACRE
+
+L’aide à la création ou à la reprise d’entreprise (**ACRE**) est un dispositif qui permet aux jeunes freelances qui lancent leur activité d’être **exonéré** de tout ou partie de certaines cotisations sociales **la première année**.
+
+Il n’y a pas de condition d'éligibilité mais une condition de ressources pour pouvoir y bénéficier. Pour en savoir plus, consulter[ le site du gouvernement.](https://www.service-public.fr/particuliers/vosdroits/F11677)
+
+👉 L’exonération totale est accordée en dessous de 30 852 € de revenus (chiffre d’affaires - frais déductibles).
+
+👉 Pour un revenu entre 30 852 € et 41 136 €, l’exonération est partielle et dégressive. Le montant de l’exonération est alors calculé par les impôts selon la formule : :
+
+**(Cotisations dues pour 30 852 € / 10 284 €) x (41 136 € - revenu ou rémunération).**
+
+👉Au-delà de 41 136€ de revenus (plafond annuel de la Sécurité Sociale), l’exonération est supprimée.
+
+👉 Malheureusement Jackie ne remplit pas les conditions pour en bénéficier.
+
+### Où en est Jackie ?
+
+> **Chiffre d’Affaire : 97 200€**
+>
+> Frais généraux : 4 800€
+>
+> Rémunération potentielle (charge sociales comprises) : 92 400 €
+>
+> Rémunération choisie : 78 300€ dont 24 300€ de charges sociales
+>
+> **Reste dans les caisses de l’EURL 14 100€**
