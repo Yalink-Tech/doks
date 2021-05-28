@@ -12,11 +12,19 @@ url = "/blog/guide-base-freelancing-ingenieur"
 weight = 100
 
 +++
-## 🌱 Pourquoi un article de blog?
+## 🌱 Pourquoi choisir de s'orienter vers le freelancing ? 
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
 
-_Note:_ Chacun des statuts présentés dans ce guide feront l’objet d’un guide dédié et détaillé.
+![Livre sur ce qu'il faut connaître du freelancing](/uploads/les-bases-du-freelancing.jpg "Les bases du freelancing")
+
+> _Note:_ **Retrouvez les articles complets des statuts présentés ci-dessous**
+>
+> [La micro-entreprise]()
+>
+> [Le portage salarial]()
+>
+> [L'entreprise unipersonnelle]()
 
 ### Ce que vous apprendrez dans cet article
 
@@ -43,6 +51,8 @@ Freelance est un terme anglais, couramment utilisé, notamment dans les prestati
 En France, freelance ne correspond pas à un statut juridique. Un entrepreneur peut se caractériser comme freelance, mais aux yeux de l’administration il s’agit soit d’un micro-entrepreneur soit d'un associé unique (EURL ou SASU).
 
 **Globalement, être freelance en 2021 revient à disposer de la capacité à facturer un client pour la réalisation de missions.**
+
+![De l'argent sous cloche](/uploads/pexels-monstera-5849554-1.jpg "Facturation")
 
 Ainsi, un freelance a une relation commerciale avec des clients, à la différence d’un salarié qui a un lien de subordination avec un employeur.
 
