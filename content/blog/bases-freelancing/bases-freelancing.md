@@ -2,6 +2,7 @@
 contributors = ["Vincent"]
 date = 2021-02-10T05:00:00Z
 description = "Comment devenir freelance? Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
+draft = true
 imageCover = "/uploads/base-freelancing.png"
 images = ["https://docs.yalink.fr//uploads/logo-yalink-texte-jaune.png"]
 lastmod = 2021-02-10T05:00:00Z
