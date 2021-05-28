@@ -51,15 +51,11 @@ En France, freelance ne correspond pas à un statut juridique. Un entrepreneur p
 
 **Globalement, être freelance en 2021 revient à disposer de la capacité à facturer un client pour la réalisation de missions.**
 
-![De l'argent sous cloche](/uploads/pexels-monstera-5849554-1.jpg "Facturation")
-
 Ainsi, un freelance a une relation commerciale avec des clients, à la différence d’un salarié qui a un lien de subordination avec un employeur.
 
 ## 🌱 Quelles sont les principales différences entre un freelance et un salarié ?
 
 Être freelance impose un changement de position. Comme expliqué, la relation entre un freelance et son client est une relation commerciale, à la différence d'un lien de subordination avec un employeur.
-
-![Homme qui tend sa main](/uploads/pexels-pixabay-327540-1.jpg "Contractualisation")
 
 Nous vous avons listé ci-dessous les spécificités du freelance par rapport au salarié.
 
@@ -131,7 +127,7 @@ En France, une personne freelance peut opter pour deux principaux statuts juridi
 > >
 > > **🌱 Société par actions simplifiée unipersonnelle ( SASU)**
 
-[Pour en savoir plus sur l'EURL, consultez le guide complet.]() 
+[Pour en savoir plus sur l'EURL, consultez le guide complet.]()
 
 ### 🌱 Régime social
 
