@@ -2,9 +2,8 @@
 contributors = ["Timothy"]
 date = 2021-05-11T22:00:00Z
 description = "Ingénieur, les éléments dont vous avez besoin pour convaincre pour votre lettre de motivation se trouvent ici."
-draft = true
 imageCover = "/uploads/typing.png"
-lastmod = 2021-05-12T22:00:00Z
+lastmod = 2021-05-27T22:00:00Z
 lead = "Ingénieur, les éléments dont vous avez besoin pour convaincre pour votre lettre de motivation se trouvent ici."
 seotitle = "Comment écrire une lettre de motivation pour un ingénieur ?"
 title = "🤔 La lettre de motivation en tant qu’ingénieur, est-ce-vraiment compliqué ?"
@@ -26,7 +25,7 @@ Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la
 
 👉Les erreurs à ne pas reproduire
 
-![Un homme réfléchir devant son ordinateur](/uploads/typing.png "Des mains tapotent sur un clavier")
+![un homme réfléchit sur son ordinateur](/uploads/jose-aljovin-jmy82fzuay4-unsplash.jpeg "Homme qui réfléchit")
 
 ## 📝 La lettre de motivation, _has been_ en 2021 ?
 
@@ -78,7 +77,7 @@ Comme cité précédemment, il est important de se démarquer des lettres de mot
 
 Ces phrases pourraient se trouver répétitives et copiées-collées de modèles ou d'exemples trouvés sur Internet.
 
-![Femme réfléchit devant un mac](/uploads/magnet-me-jupaxbh-fgc-unsplash.jpeg "Humaine en train de penser sur un bureau ")
+![Une équipe sur un chantier](/uploads/rossella-porta-vpbxg4cpu4y-unsplash.jpeg "Chantier")
 
 ### L’importance de parler de soi
 
@@ -116,17 +115,17 @@ Nous vous conseillons de montrer votre disponibilité à un éventuel entretien.
 
 > > > > > > > ![](/uploads/logo-test.png)
 
-## Yalink, le futur du travail pour les ingénieurs
-
-[Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
-
-Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
 
 ## 📝 Mise en page de la lettre de motivation
 
 Il est important que la mise en page de votre lettre de motivation soit la plus **simple** et **soignée** possible. Elle doit faciliter la lecture mais également donner l’envie de la lire au recruteur grâce à sa présentation.
 
-![alternative image 3](/uploads/annie-spratt-hcb3lib8l8e-unsplash.jpeg "Titre image 3")
+![Une personne tape sur son ordinateur](/uploads/glenn-carstens-peters-npxxwgq33zq-unsplash.jpeg "Ecriture ordinateur")
 
 ### Le format et la police
 
@@ -157,7 +156,7 @@ Pour réaliser une lettre de motivation d'ingénieur percutante, il est importan
 * La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Nous vous conseillons la lecture à voix haute, avec la possibilité de vous enregistrer afin d'évaluer objectivement votre prestation orale. Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous-même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
 * Pensez à conserver le fichier de votre lettre de motivation pour l’entretien ou les prochaines fois. Vous pourrez vous en inspirer pour en rédiger de nouvelles, répondant aux critères d’autres offres.
 
-![Deux hommes se sert la main](/uploads/sebastian-herrmann-nbtidofkgo8-unsplash.jpeg "Contractualisation")
+![Deux personnes se serrant la main](/uploads/chris-liverani-9cd8qogeniy-unsplash.jpeg "Deal")
 
 Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre lettre de motivation. **N’oubliez pas que le CV reste la chose la plus importante dans une réponse d’offre, mais la lettre de motivation peut faire la différence à profil égal.**
 
