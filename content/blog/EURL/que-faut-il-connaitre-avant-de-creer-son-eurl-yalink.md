@@ -312,3 +312,39 @@ Il n’y a pas de condition d'éligibilité mais une condition de ressources pou
 > Rémunération choisie : 78 300€ dont 24 300€ de charges sociales
 >
 > **Reste dans les caisses de l’EURL 14 100€**
+
+### La protection sociale
+
+Depuis Février 2020 l’intégralité des travailleurs non salariés (TNS) rejoignent le régime général de la sécurité sociale. Vous pourrez entendre parler de la **SSI** (sécurité sociale des indépendants) qui fait le lien entre l’ancien régime des indépendants vers le régime général.
+
+> 👉 **Maladie :** Vous bénéficiez d’une assurance maladie identique de celle des salariés. Les remboursements des frais de santé sont pris en charge de la même façon et aux mêmes conditions.
+
+> 👉 **Congés maternité :** Vos éventuels congés maternité ou paternité sont également éligibles (sous conditions) à une aide. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.) rubrique “Cotisations & contributions”.
+
+> 👉 **Arrêt maladie :** Les freelances peuvent bénéficier (sous conditions) des [indemnités journalières de sécurité sociale](https://www.service-public.fr/professionnels-entreprises/glossaire/R51445) (IJSS) en cas d'arrêt maladie. Pour plus d’informations rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23890#:\~:text=Vous%20devez%20%C3%AAtre%20affili%C3%A9e%20depuis,jours%20pour%20une%20grossesse%20multiple.), rubrique “Cotisations & contributions”.
+
+> 👉 **Allocation familiales :** En France, toute personne majeure en situation régulière peut toucher des allocations familiales. Vous pouvez utiliser [ce simulateur ](http://www.caf.fr/allocataires/actualites/2017/le-simulateur-des-allocations-familiales)de la CAF pour connaître le montant des allocations auxquelles vous avez droit.
+
+> 👉 **Retraite :** Il s’agit d’un gros champ de réformes en cours au niveau du gouvernement. Les trimestres et le montant de votre retraite sont liés au chiffres d’affaire que vous générez.
+>
+> 👴 Pour en savoir plus, rendez vous sur le site du [service public](https://www.service-public.fr/professionnels-entreprises/vosdroits/F33841), rubrique “Professions libérales”.
+
+> 👉 **Chômage:** pas de cotisations donc pas de chômage.
+
+### La loi Madelin
+
+La loi Madelin a pour objectif de permettre aux travailleurs non salariés (TNS) de constituer une protection sociale complémentaire, afin d’être mieux protégés.
+
+![Balance avec écrit la loi madelin](/uploads/loi-madelin-1.png "Loi madelin")
+
+Ce dispositif n'est pas obligatoire, il s'agit bien de **cotisations volontaires**.
+
+Les travailleurs indépendants qui souscrivent à des contrats de complémentaire santé, prévoyance, retraite, compatibles avec les critères de la loi « Madelin », peuvent **déduire les cotisations versées au titre de ces contrats de leur revenu imposable.**
+
+Les entrepreneurs individuels pouvant bénéficier de la loi Madelin sont ceux qui déclarent les revenus de leur entreprise sur leur propre revenu au titre des BIC (bénéfices industriels et commerciaux) ou des BNC (bénéfices non commerciaux).
+
+Jackie peut en bénéficier. En revanche, pour la simplicité des calculs, nous prenons le parti de ne pas l’intégrer dans son cas de figure.
+
+Pour en savoir plus sur la loi madelin vous pouvez consulter [le site officiel](https://www.impots.gouv.fr/portail/particulier/questions/je-cotise-un-contrat-madelin-quel-est-mon-avantage-fiscal).
+
+Si cette option vous intéresse (ce que je peux comprendre vu les avantages), nous vous conseillons de vous rapprocher d’un cabinet d’expertise comptable.
