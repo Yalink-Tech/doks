@@ -25,7 +25,7 @@ Qui n'a pas eu le syndrome de _la page blanche_ ? Afin de vous aiguiller dans la
 
 👉Les erreurs à ne pas reproduire
 
-![un homme réfléchit sur son ordinateur](/uploads/jose-aljovin-jmy82fzuay4-unsplash.jpeg "Homme qui réfléchit")
+![Un homme réfléchit devant son ordinateur](/uploads/homme-pensif-ordinateur.jpeg "Homme pensif")
 
 ## 📝 La lettre de motivation, _has been_ en 2021 ?
 
@@ -77,7 +77,7 @@ Comme cité précédemment, il est important de se démarquer des lettres de mot
 
 Ces phrases pourraient se trouver répétitives et copiées-collées de modèles ou d'exemples trouvés sur Internet.
 
-![Une équipe sur un chantier](/uploads/rossella-porta-vpbxg4cpu4y-unsplash.jpeg "Chantier")
+![Une équipe sur un chantier](/uploads/chantier-personnes.jpeg "equipe")
 
 ### L’importance de parler de soi
 
@@ -125,7 +125,7 @@ Nous vous conseillons de montrer votre disponibilité à un éventuel entretien.
 
 Il est important que la mise en page de votre lettre de motivation soit la plus **simple** et **soignée** possible. Elle doit faciliter la lecture mais également donner l’envie de la lire au recruteur grâce à sa présentation.
 
-![Une personne tape sur son ordinateur](/uploads/glenn-carstens-peters-npxxwgq33zq-unsplash.jpeg "Ecriture ordinateur")
+![Une personne tape sur le clavier de son ordinateur](/uploads/homme-tapant-ordinateur.jpeg "Ecriture sur ordinateur")
 
 ### Le format et la police
 
@@ -156,7 +156,7 @@ Pour réaliser une lettre de motivation d'ingénieur percutante, il est importan
 * La relecture est le moyen de se rendre compte des potentielles erreurs, mais également un moyen d’améliorer la formulation de certaines phrases. Nous vous conseillons la lecture à voix haute, avec la possibilité de vous enregistrer afin d'évaluer objectivement votre prestation orale. Si vous n’êtes pas confiant sur vos capacités à être objectif envers vous-même, vous pouvez demander à un proche de vous relire. **Un avis extérieur et objectif est toujours bon à prendre.**
 * Pensez à conserver le fichier de votre lettre de motivation pour l’entretien ou les prochaines fois. Vous pourrez vous en inspirer pour en rédiger de nouvelles, répondant aux critères d’autres offres.
 
-![Deux personnes se serrant la main](/uploads/chris-liverani-9cd8qogeniy-unsplash.jpeg "Deal")
+![Deux personnes se sert la main](/uploads/se-serrer-la-main.jpeg "Contractualisation")
 
 Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre lettre de motivation. **N’oubliez pas que le CV reste la chose la plus importante dans une réponse d’offre, mais la lettre de motivation peut faire la différence à profil égal.**
 
