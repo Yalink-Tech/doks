@@ -491,7 +491,7 @@ Vous voici arrivé à destination.
 
 On récapitule donc le “**combien il reste en fin de mois**” de Jackie et de son EURL. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 450€.
 
-![](/uploads/chiffre-d-affaires.jpg)
+![Main mettant des sous dans une tirelire](/uploads/chiffre-d-affaires.jpg "CA")
 
 ### Pour l'EURL
 
@@ -534,7 +534,6 @@ Vous pouvez aussi contacter le réseau d’expertise [Numbr ](https://numbr.co/)
 
 Jackie Mongoose vous a préparé un petit récapitulatif au cas où vous auriez oublié quelque chose en route ! Thank you Jackie.
 
-  
 {{< simple-table "yalink-table" >}}
 
 | Statut | EURL |
