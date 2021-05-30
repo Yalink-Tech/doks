@@ -30,7 +30,7 @@ Vous voici prêt à passer à la vitesse supérieure à la recherche du trésor 
 
 🚨 Choisir **l’EURL implique d’être bien accompagné**. Dans ce guide, nous vulgarisons l’ensemble des notions pour vous les rendre plus accessible.
 
-Vous pouvez vous faire accompagner par un expert comptable comme le cabinet [**Condillac expertise **](https://www.condillac-expertise.com/)membre du réseau [**Numbr**](https://numbr.co/) avec lequel nous sommes partenaire.
+Vous pouvez vous faire accompagner par un expert comptable comme le cabinet [Condillac expertise](https://www.condillac-expertise.com/) membre du réseau [**Numbr**](https://numbr.co/) avec lequel nous sommes partenaire.
 
 Nous verrons durant cette aventure les paliers **sociaux**, les paliers **fiscaux**, ainsi que les différents **frais obligatoires.**
 
@@ -58,7 +58,7 @@ _Toutes les subtilités du statut de l’EURL ne sont pas traitées dans ce guid
 
 > 👉 Un **capital** d’un montant minimum de 1€ est à déposer. Nous vous conseillons d’apporter au minimum 1 000€
 
-![Homme dessinant sur un plan](/uploads/pexels-andrea-piacquadio-3760532-1.jpg "A savoir")
+![Homme dessinant sur un plan](/uploads/homme-faisant-un-plan.jpg "A savoir")
 
 ## **🌱**Une histoire d’associé et de gérant
 
@@ -100,9 +100,9 @@ Nous verrons que les régimes fiscaux et sociaux dépendent de la nature de l’
 
 ### Quels sont les types de régimes fiscaux et sociaux?
 
-Pour connaître les **régimes fiscaux** et **régime sociaux** applicables, il convient de connaître qui est **associé** et/ou **gérant** de la société..
+Pour connaître les **régimes fiscaux** et **régime sociaux** applicables, il convient de connaître qui est **associé** et/ou **gérant** de la société.
 
-![Homme se prenant la tête avec ses mains](/uploads/jason-strull-kq0c6wteglo-unsplash-1.jpg "Homme sur sa chaise")
+![Homme se prenant la tête avec ses mains](/uploads/homme-pensif.jpg "Homme pensif")
 
 Il y a **2** types de **régimes sociaux** et **2** types de **régimes fiscaux :**
 
@@ -184,7 +184,7 @@ Le bénéfice imposable de la société et les revenus de l’associé unique so
 
 ## 🌱  La Fiscalité de l’EURL à l’IS
 
-![feuilles d'impôts disposées sur une table](/uploads/kelly-sikkema-tqq4bwn_ufs-unsplash-1.jpg "Imposition")
+![feuilles d'impôts disposées sur une table](/uploads/papiers.jpg "Imposition")
 
 ### Imposition sur les sociétés
 
@@ -216,7 +216,7 @@ Pour en savoir plus vous pouvez consulter [le site officiel](https://www.service
 
 ## 🌱L’aventure de Jackie Mongoose
 
-![](/uploads/humaaans-space.png)
+![Portrait de Jackie Mongoose](/uploads/humaaans-space.png "Jackie Mongoose")
 
 **Jackie Mongoose** a pris du galon depuis qu’elle s’est lancée en [micro-entreprise](). Cela fait 3 ans qu’elle est à son compte et souhaite connaître les spécificités de l’EURL. Elle vous accompagnera à la découverte de ce statut.
 
@@ -316,6 +316,8 @@ Il n’y a pas de condition d'éligibilité mais une condition de ressources pou
 ### La protection sociale
 
 Depuis Février 2020 l’intégralité des travailleurs non salariés (TNS) rejoignent le régime général de la sécurité sociale. Vous pourrez entendre parler de la **SSI** (sécurité sociale des indépendants) qui fait le lien entre l’ancien régime des indépendants vers le régime général.
+
+![Homme avec un stetoscope](/uploads/maladie.jpg "Protection sociale")
 
 > 👉 **Maladie :** Vous bénéficiez d’une assurance maladie identique de celle des salariés. Les remboursements des frais de santé sont pris en charge de la même façon et aux mêmes conditions.
 
