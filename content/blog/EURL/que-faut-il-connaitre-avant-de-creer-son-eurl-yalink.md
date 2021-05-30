@@ -1,11 +1,11 @@
 +++
 contributors = ["Vincent"]
 date = 2021-05-27T22:00:00Z
-description = "Le guide pour se lancer en tout sérénité en eurl réservé aux ingénieurs"
+description = "Le guide pour se lancer en tout sérénité en EURL réservé aux ingénieurs"
 draft = true
 imageCover = "/uploads/l_eurl.jpg"
 lastmod = ""
-lead = "Le guide pour se lancer en tout sérénité en eurl réservé aux ingénieurs"
+lead = "Le guide pour se lancer en tout sérénité en EURL réservé aux ingénieurs"
 seotitle = "Le petit guide de l'EURL pour l'ingénieur Freelance"
 title = "Que faut-il connaître avant de créer son EURL ? Yalink"
 url = "/blog/guide-eurl-ingenieur-freelance"
@@ -531,6 +531,11 @@ Vous pouvez simuler ces résultats dans le cadre de votre activité en utilisant
 
 Vous pouvez aussi contacter le réseau d’expertise [Numbr ](https://numbr.co/)pour vous faire accompagner.
 
+## 🌱 Le petit récapitulatif
+
+Jackie Mongoose vous a préparé un petit récapitulatif au cas où vous auriez oublié quelque chose en route ! Thank you Jackie.
+
+  
 {{< simple-table "yalink-table" >}}
 
 | Statut | EURL |
@@ -554,3 +559,11 @@ Vous pouvez aussi contacter le réseau d’expertise [Numbr ](https://numbr.co/)
 | Loi Madelin | Oui |
 
 {{< /simple-table >}}
+
+![Logo Yalink Jaune](/uploads/logo-yalink-texte-jaune.png "Logo Yalink")
+
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
