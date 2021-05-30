@@ -350,3 +350,57 @@ Jackie peut en bénéficier. En revanche, pour la simplicité des calculs, nous 
 Pour en savoir plus sur la loi madelin vous pouvez consulter [le site officiel](https://www.impots.gouv.fr/portail/particulier/questions/je-cotise-un-contrat-madelin-quel-est-mon-avantage-fiscal).
 
 Si cette option vous intéresse (ce que je peux comprendre vu les avantages), nous vous conseillons de vous rapprocher d’un cabinet d’expertise comptable.
+
+## 🌱 Les frais
+
+### Avoir une meilleur protection
+
+Nous avons parlé des frais tout à l’heure. Mais si souvenez vous ! Jackie a provisionné **400€ de frais par mois** soit 4 800€ de frais liés à son activité.
+
+Pour travailler l'esprit tranquille nous conseillons à chaque freelance de souscrire à minima aux prestations suivantes pour être accompagné sur son activité ! Voici à titre d’exemple une liste non exhaustive des frais de Jackie
+
+* **Responsabilité Civile Pro**
+
+> Couvre les possibles dommages causés lors des prestations.
+>
+> **entre 50€ et 400€ / mois en fonction de son activité.**
+
+* **Mutuelle & Prévoyance (hors loi madelin)**
+
+> 80€ / mois de mutuelle &  60€ / mois de prévoyance
+>
+> **Il faut compter au total 140€ / mois**
+
+* **Banque en ligne**
+
+> obligatoire à partir de **8€ / mois**
+
+* **Comptabilité**
+
+> Vous pouvez la faire vous même ou vous faire aider par un professionnel **150€ / mois lissé sur une année.** 
+
+Pour découvrir la liste de nos nombreux partenaires, rendez vous sur [yalink.fr](yalink.fr "Yalink")
+
+## 🌱 Les autres cotisations
+
+Encore des taxes qui étaient jusqu’alors invisibles. Ces taxes sont obligatoires et concernent toutes les entreprises 💛.
+
+### La Cotisation Foncière des Entreprises
+
+L’EURL est soumise à la **CFE**.
+
+👉 Le **montant** à régler au titre de la CFE **dépend** de la **commune** dans laquelle est domiciliée votre entreprise, de votre **chiffre d’affaires** et de la **superficie** de vos locaux.
+
+🚧 Attention, si vous travaillez depuis votre domicile ou chez vos clients et ne disposez pas de local dédié à votre activité, vous devez tout de même déclarer une surface minimale (1 mètre carré) et êtes dans tous les cas redevable de la CFE.
+
+Le barème de la CFE est disponible [ici](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23547). Dans notre calcul nous prendrons comme estimation une cotisation de **1 226€** (valeur médiane du barème).
+
+La CFE est déduite du montant des bénéfices imposables.
+
+### Cotisation Formation Professionnelle
+
+La CFP correspond à un pourcentage du chiffre d'affaires de l'année précédente et s'ajoute donc aux cotisations sociales dues.
+
+Elle correspond à **0.2%** du CA soit **194 €.**
+
+Au même titre que la CFE, la CFP est déduite du montant des bénéfices imposables.
