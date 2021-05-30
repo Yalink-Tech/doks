@@ -377,7 +377,7 @@ Pour travailler l'esprit tranquille nous conseillons à chaque freelance de sous
 
 * **Comptabilité**
 
-> Vous pouvez la faire vous même ou vous faire aider par un professionnel **150€ / mois lissé sur une année.** 
+> Vous pouvez la faire vous même ou vous faire aider par un professionnel **150€ / mois lissé sur une année.**
 
 Pour découvrir la liste de nos nombreux partenaires, rendez vous sur [yalink.fr](yalink.fr "Yalink")
 
@@ -404,3 +404,153 @@ La CFP correspond à un pourcentage du chiffre d'affaires de l'année précéden
 Elle correspond à **0.2%** du CA soit **194 €.**
 
 Au même titre que la CFE, la CFP est déduite du montant des bénéfices imposables.
+
+### Où en est Jackie ?
+
+> Reste dans les caisses : 14 100€
+>
+> Cotisations obligatoires : 1 420€ soit 119€/mois
+>
+> **Reste dans les caisses : 12 680€**
+
+## 🌱 Calcul du palier fiscal
+
+Jackie touche presque au but ! Il ne manque plus qu'à calculer les impôts 😁.
+
+> 👉 Son impôt sur le revenu
+>
+> 👉 L’impôt sur les sociétés de son EURL
+>
+> 👉 Choisir si elle se verse des dividendes ou non.
+
+![Feuilles d'impôts](/uploads/imposition.jpg "Imposition")
+
+### Impôt sur le revenu
+
+Nous avons vu que le bénéfice imposable de la société et les revenus de l’associé unique sont imposés séparément. Le taux d’imposition est donc déterminé par le montant de vos revenus, auquel l’administration soustrait un abattement forfaitaire pour frais professionnels de **10%.** Nous calculons les montants des cotisations fiscales en appliquant le [barème de l’impôt sur le revenu](https://www.service-public.fr/particuliers/vosdroits/F1419).
+
+### Barème et calcul de l’impôt sur le revenu
+
+Pour rappel Jackie a 35 ans et est célibataire sans enfant. Avec un salaire brut annuel de 54 000€ HT et un Net imposable (après abattement de 10%) de 48 600 €, l’impôt sur le revenu annuel s’élève à **8 585€** soit **715€/mois.**
+
+{{< simple-table "yalink-table" >}}
+
+| Tranches | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
+| :---: | :---: | :---: |
+| Jusqu’à 10 084 € | 0% | 0 € |
+| De 10 085 € à 25 710 € | 11% | 1 717 € |
+| De 25 711 € à 73 516 € | 30% | 6 866 € |
+| De 73 517 € à 158 122 € | 41% | 0 € |
+| Au delà de 158 123 € | 45% | 0 € |
+
+{{< /simple-table >}}
+
+### Où en est Jackie ?
+
+> Rémunération brute : 54 000€ soit 4 500€ /mois
+>
+> Cotisations fiscales : 8 585 € soit 715€/mois
+>
+> **Net en fin de mois : 45 415 € soit 3 785€ / mois.**
+
+### Impôt sur les sociétés
+
+Le **bénéfice imposable** correspond à la **différence** entre le **chiffre d’affaire** perçus par l’entreprise et les **charges** qu’elle supporte.
+
+Les charges sont de divers types (frais généraux, salaire, amortissement, provisions, etc…). Le bénéfice imposable est déterminé à partir du résultat comptable, lui même édité par votre expert comptable.
+
+### Barème et calcul de l’IS
+
+Dans notre cas de figure le bénéfice imposable de l’EURL de Jackie Mongoose est de 12 680€. L’impôt sur les sociétés s’élève donc à **1 902€** prélevé à date fixe.
+
+{{< simple-table "yalink-table" >}}
+
+| Tranches | Taux d’imposition à appliquer à la tranche | Montant d’impôt de Jackie |
+| :---: | :---: | :---: |
+| Jusqu’à 38 120 € | 15 % | 1 902 € |
+| Au delà de 38 121 € | 26,5% | 0 € |
+
+{{< /simple-table >}}
+
+### Dividendes
+
+**Jackie choisit de ne pas se verser de dividendes**.
+
+Ce qui reste dans les caisses de l’entreprise lui permet d’assurer la pérennité de son EURL et de pouvoir palier soit à des manques de revenus soit à des frais non prévus (rachat d’un PC, etc…).
+
+### Où en est Jackie ?
+
+> Bénéfice imposable : 12 680 €
+>
+> Impôt sur les sociétés : 1 902€
+>
+> **Reste dans les caisses de l’entreprise : 10 778 €**
+
+## 🌱 Répartition du Chiffre d'Affaires
+
+Vous voici arrivé à destination.
+
+On récapitule donc le “**combien il reste en fin de mois**” de Jackie et de son EURL. Pour rappel, Jackie travaille 18 jours par mois pour un TJM de 450€.
+
+![](/uploads/chiffre-d-affaires.jpg)
+
+### Pour l'EURL
+
+{{< simple-table "yalink-table" >}}
+
+| CA Annuel | 97 200€ |
+| --- | ---: |
+| Charges |  |
+| Salaires | 78 300 € |
+| Frais généraux | 4 800 € |
+| CFE + CFP | 1 420 € |
+| IS | 1 902 € |
+| Reste | 10 778 € |
+
+{{< /simple-table >}}
+
+### Pour Jackie
+
+{{< simple-table "yalink-table" >}}
+
+| Salaire versé par l’EURL | 78 300 € |
+| --- | ---: |
+| Cotisations sociales | 24 300 € |
+| Salaire brut | 54 00 € |
+| IR | 8 585 € |
+| Salaire net /an | 45 415 € |
+| Salaire net /mois | 3 785 € |
+
+{{< /simple-table >}}
+
+### Ce qui reste à Jackie en fin de mois après impôt
+
+> A la fin de chaque mois il reste donc **3 785€ net** dans la poche de Jackie. et **10 778€** dans les caisses de l’EURL à la fin de l'année.
+
+Vous pouvez simuler ces résultats dans le cadre de votre activité en utilisant le simulateur en ligne.
+
+Vous pouvez aussi contacter le réseau d’expertise [Numbr ](https://numbr.co/)pour vous faire accompagner.
+
+{{< simple-table "yalink-table" >}}
+
+| Statut | EURL |
+| :---: | :---: |
+| Nb associé | 1  Si > → SARL |
+| € de création | 700 € / 1 500€ |
+| € de fermeture | 1 000€ |
+| Démarches administratives | Complexes |
+| Rédaction statuts | Oui |
+| Plafond de CA | Non |
+| Collecte la  TVA ? | Oui - 20% |
+| Capital social | 1€ minimum 1000€ conseillé |
+| Régime fiscal | IR ou IS Possibilité de déduire les charges du CA. |
+| Régime social | TNS |
+| Maladie | Oui |
+| Retraite | Oui en fonction du CA |
+| Congés maternité | Oui sous conditions |
+| IJSS | Oui sous conditions |
+| Contribution formation pro | Oui |
+| Chômage | Non |
+| Loi Madelin | Oui |
+
+{{< /simple-table >}}
