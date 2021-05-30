@@ -2,7 +2,6 @@
 contributors = ["Vincent"]
 date = 2021-05-27T22:00:00Z
 description = "Le guide pour se lancer en tout sérénité en EURL réservé aux ingénieurs"
-draft = true
 imageCover = "/uploads/l_eurl.jpg"
 lastmod = ""
 lead = "Le guide pour se lancer en tout sérénité en EURL réservé aux ingénieurs"
