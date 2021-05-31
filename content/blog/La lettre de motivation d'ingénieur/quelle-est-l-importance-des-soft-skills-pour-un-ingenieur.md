@@ -1,12 +1,14 @@
 +++
 contributors = ["Timothy"]
-date = ""
-description = "Ingénieur, si vous ne connaissez pas encore le terme soft skills, ni comment les définir, vous trouverez les éléments nécessaires dans cet article."
+date = 2021-05-30T22:00:00Z
+description = "Ingénieur, vous vous demandez quels sont les soft skills que les entreprises s’arrachent ? La réponse se trouve ici."
 draft = true
 imageCover = "/uploads/annie-spratt-hcb3lib8l8e-unsplash.jpeg"
 lastmod = ""
-lead = "Ingénieur, si vous ne connaissez pas encore le terme soft skills, ni comment les définir, vous trouverez les éléments nécessaires dans cet article."
+lead = "Ingénieur, vous vous demandez quels sont les soft skills que les entreprises s’arrachent ? La réponse se trouve ici.."
+seotitle = "Pourquoi mentionner les soft skills dans sa lettre de motivation ?"
 title = "Quelle-est l'importance des soft skills pour un ingénieur ?"
+url = "/blog/Pourquoi-mentionner-soft-skills-lettre-de-motivation-ingénieur"
 weight = 100
 
 +++
@@ -32,19 +34,29 @@ Pour commencer, il est important de rappeler qu’il n’y a pas de définition 
 
 Malgré le fait qu’il n’existe pas une définition unique pour ce terme, il est important de poser des mots pour essayer de le définir. Premièrement, la traduction est trompeuse. “Compétences douces” ne permet pas de donner un réel sens à ce terme. En revanche, définir les _soft skills_ comme des compétences utilisables dans différents domaines est un bon début. En effet, au détriment des _hard skills_, les _soft skills_ s’appliquent à tous les métiers.
 
+![3 personnes rigolant devant un ordinateur](/uploads/priscilla-du-preez-xkkcui44im0-unsplash.jpeg "Importance des Soft skills")
+
 Malgré le fait qu’ils diffèrent des _hard skills_, les _soft skills_ ne sont pas des compétences faciles à acquérir. En effet, ils se basent sur des techniques et méthodes apprises, facilitées ou non par des traits de caractère et de personnalité.
 
 Ces traits de personnalité permettent d’établir une base aux _soft skills_ qui se développent et trouvent leur utilité au sein de l’entreprise en fonction des missions demandées.
 
 C’est d’ailleurs lors des entretiens soit téléphonique soit en physique que sont évalués les soft skills.
 
-L’inscription sur Yalink ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour permettre d’établir un premier contact avec vous et de mieux vous connaître et vous et vos soft skills.
+A titre d’exemple, l’inscription sur Yalink ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour permettre d’établir un premier contact avec vous et de mieux vous connaître et vous et vos soft skills.
 
-> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site [**Yalink **](https://yalink.fr/)mais également sur notre page [**LinkedIn**](https://www.linkedin.com/company/yalinkommunity/).
+![Logo jaune et texte yalink](/uploads/logo-yalink-texte-jaune.png "Logo Yalink")
+
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "site yalink").
 
 ### **Les soft skills que les entreprises recherchent à tout prix :**
 
 Vous trouverez ci-dessous, une liste des 10 soft skills à développer pour un ingénieur :
+
+![Ampoule tenue dans les mains](/uploads/riccardo-annandale-7e2pe9wjl9m-unsplash-1.jpeg "Recherche soft skills")
 
 **👉 Créativité** : Être créatif, c’est avoir la capacité de générer de nouvelles idées, soit en se basant sur son intuition ou alors sur sa réflexion.
 
@@ -70,9 +82,11 @@ Vous trouverez ci-dessous, une liste des 10 soft skills à développer pour un i
 
 De nos jours, nous constatons que les CV sont une succession de diplômes, formations ou expériences professionnelles. De nombreux recruteurs continuent encore à se baser uniquement sur ces critères.
 
+![Illustration de mains colorées qui s'entrelace](/uploads/tim-mossholder-bo3shp58c3g-unsplash.jpeg "Soft skills dons")
+
 C’est pour cela qu’il est **important de se démarquer.** En effet, nous savons que pour la plupart des postes ou des missions en tant qu’ingénieurs Freelance, les candidats ont quasiment tous le même parcours et seule l’expérience professionnelle peut différer.
 
-> 🚀 **Tips :** Pensez à **mettre en avant vos soft skills** dans votre CV, votre **Lettre de Motivation** et à **les illustrer lors de votre entretien. Vous retrouverez nos astuces et conseils pour rédiger une lettre de motivation ainsi que pour préparer son entretien.**
+> 🚀 Tips : Pensez à **mettre en avant vos soft skills** dans votre CV, votre **Lettre de Motivation** et à **les illustrer lors de votre entretien. Vous retrouverez** nos astuces et conseils pour rédiger une lettre de motivation**.**
 
 Les **_hard skills_** ont une durée limitée, notamment due à l’évolution des métiers et des technologies. De ce fait, les **_soft skills_** sont des compétences **utiles** et **intemporelles** permettant à la personne de rester **compétitive** en s’adaptant à l’environnement changeant.
 
@@ -92,4 +106,19 @@ Si vous n’appréciez pas le travail d’équipe, évitez de choisir un poste o
 
 **Devenir une meilleure personne, en voulant gommer ses défauts et améliorer ses qualités ne peut qu’être bénéfique !**
 
-> **Yalink,** c’est le futur du travail pour les ingénieurs. Notre plateforme met en relation les ingénieurs Freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48H. Vous pourrez trouver davantage d’informations sur notre site [**Yalink **](https://yalink.fr/)mais également sur notre page [**LinkedIn**](https://www.linkedin.com/company/yalinkommunity/).
+![Logo jaune et texte yalink](/uploads/logo-yalink-texte-jaune.png "Logo Yalink")
+
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "site yalink").
+
+### Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser
+
+* Comment écrire une lettre de motivation pour un ingénieur ?
+* Ingénieur : Quels outils utiliser pour sa lettre de motivation ?
+* Ingénieur : Faut-il écrire une lettre de motivation ?
+* Ingénieur : Faut-il postuler avec une lettre de motivation ?
+* Les 16 erreurs à ne pas commettre dans sa lettre de motivation.
+* Quels Modèle et exemples de lettre de motivation utiliser pour candidater ?
