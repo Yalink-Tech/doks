@@ -2,7 +2,6 @@
 contributors = ["Timothy"]
 date = 2021-05-30T22:00:00Z
 description = "Vous souhaitez rédiger une lettre de motivation mais vous ne savez pas quel logiciel utiliser ? La réponse se trouve ici. "
-draft = true
 imageCover = "/uploads/luke-southern-9ycyggpe5kg-unsplash.jpeg"
 lastmod = ""
 lead = "Ingénieurs, quels sont les outils à connaître pour rédiger sa lettre de motivation ?"
