@@ -20,9 +20,9 @@ weight = 100
 
 Pour beaucoup, écrire une lettre de motivation est une réelle corvée. Le syndrome de la page blanche ou le manque d’inspiration poussent les ingénieurs freelance ou les ingénieurs en quête de CDI à faire des copiés collés de lettres de motivation trouvés sur Internet.
 
-Les recruteurs se retrouvent donc avec plusieurs lettres de motivations entre les mains ayant la même formulation, intonation, avec seulement les expériences qui changent.
+Les recruteurs se retrouvent donc avec plusieurs lettres de motivations entre les mains ayant la **même formulation**, **intonation**, avec seulement les expériences qui changent.
 
-Malgré tout, d’après les responsables des ressources humaines, la lettre de motivation permet de vérifier certains points importants pour l’obtention d’un emploi ou d’une mission.
+Malgré tout, d’après les responsables des ressources humaines, la lettre de motivation permet de **vérifier certains points importants** pour l’obtention d’un emploi ou d’une mission.
 
 ### Ce que vous apprendrez dans cet article :
 
@@ -34,19 +34,19 @@ Malgré tout, d’après les responsables des ressources humaines, la lettre de 
 
 ## Lettre de motivation, réellement ignorée par les recruteurs ?
 
-De nos jours, la lettre de motivation a perdu un peu de sens, notamment avec l’avènement de nouvelles plateformes pour les candidatures comme les réseaux sociaux.
+De nos jours, la lettre de motivation **a perdu un peu de sens**, notamment avec l’avènement de nouvelles plateformes pour les candidatures comme les réseaux sociaux.
 
-Vous pouvez passer par des plateformes de mise en relation comme LinkedIn ou [**Yalink**](https://app.yalink.fr/ "Inscription Yalink"). Ces plateformes vous permettront de trouver des missions d'ingénierie sans avoir à passer par la case lettre de motivation.
+Vous pouvez passer par **des plateformes de mise en relation** comme LinkedIn ou [**Yalink**](https://app.yalink.fr/ "Inscription Yalink"). Ces plateformes vous permettront de trouver des missions d'ingénierie sans avoir à passer par la case lettre de motivation.
 
 L’inscription sur Yalink ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour permettre d’établir un premier contact avec vous et de mieux vous connaître.
 
-En effet, une lettre de motivation n’est pas lue dans 3 cas sur 4. Cela est dû essentiellement au fait que les candidats envoient des lettres de motivations bien trop souvent copiées/collées. Nous savons également que le temps de lecture et d’intérêt qu'apporte un recruteur aux candidatures est inférieur à 60 secondes.
+En effet, une lettre de motivation **n’est pas lue dans 3 cas sur 4**.          Cela est dû essentiellement au fait que les candidats envoient des lettres de motivations bien trop souvent **copiées-collées**. Nous savons également que le temps de lecture et d’intérêt qu'apporte un recruteur aux candidatures est **inférieur à 60 secondes**.
 
 Par conséquent, il est logique que les recruteurs préfèrent se concentrer sur les CV, plus rapides à lire et beaucoup plus représentatifs des demandes techniques de l’emploi ou de la mission.
 
-Écrire une lettre de motivation dépend également du poste visé et de la concurrence. Si la concurrence est forte, une lettre de motivation bien construite et bien rédigée peut faire la différence, alors que pour un secteur en manque de candidats, elle n’est pas forcément nécessaire.
+Écrire une lettre de motivation **dépend également du poste visé et de la concurrence**. Si la concurrence est forte, une lettre de motivation bien construite et bien rédigée peut faire la différence, alors que pour un secteur en manque de candidats, elle n’est pas forcément nécessaire.
 
-Nous retrouvons cependant un nombre irréductible de recruteurs portant encore un intérêt important à la lecture des lettres de motivation. En effet, cela leur permet d’avoir un aperçu de la qualité rédactionnel du candidat mais également de constater la façon dont le candidat se vend. N’oubliez pas qu’il y a le savoir-faire, et le faire savoir ! Une lettre originale, précise et détaillée peut permettre de faire la différence face des candidats qui n’en font pas ou copie sur internet.
+Nous retrouvons cependant un nombre irréductible de recruteurs portant encore **un intérêt important à la lecture des lettres de motivation**.       En effet, cela leur permet d’avoir un **aperçu de la qualité rédactionnel du candidat** mais également de constater la façon dont le candidat "se vend. N’oubliez pas qu’il y a le savoir-faire, et le faire savoir ! Une lettre originale, précise et détaillée peut permettre de faire la différence face des candidats qui n’en font pas ou copie sur internet.
 
 Ainsi, il est difficile de conclure sur la réelle importance d’une lettre de motivation. En revanche, il est certain qu’il vaut mieux ne pas envoyer de lettre de motivation, plutôt qu’une lettre issue d’un template, sans émotion et personnalisation. De plus, les fautes d’orthographe sont bien évidemment à proscrire sous risque d’être écarté de façon rédhibitoire.
 
@@ -74,21 +74,21 @@ La lettre de motivation doit être composée au minimum de 3 parties :
 * **_Moi_**
 * **_Nous_**
 
-Le vous s'adresse directement à l’entreprise et au recruteur.
+Le **_vous_** s'adresse directement à l’entreprise et au recruteur.
 
-Le moi est pour vous le moyen d’exprimer vos qualités et compétences, c'est-à-dire les soft et hard skills, tout en les justifiant avec des exemples concrets.
+Le **_moi_** est pour vous le moyen d’exprimer vos qualités et compétences, c'est-à-dire les **soft** et **hard skills**, tout en les justifiant avec des exemples concrets.
 
-Le nous est le moyen pour vous d’évoquer la possibilité d’un avenir commun avec l’entreprise.
+Le **_nous_** est le moyen pour vous d’évoquer la possibilité d’un avenir commun avec l’entreprise.
 
-Libre à vous de respecter ou non ce plan. Il est parfois nécessaire d’adapter le plan de rédaction à ce que vous souhaitez communiquer mais également l’emploi ou la mission que vous visez.
+Libre à vous de respecter ou non ce plan. Il est parfois nécessaire d’**adapter le plan de rédaction** à ce que vous souhaitez communiquer mais également l’emploi ou la mission que vous visez.
 
-La disposition et la mise en page d’une lettre de motivation sont également des critères fondamentaux à respecter pour qu’elle soit réussie.
+La **disposition** et la **mise en page** d’une lettre de motivation sont également des critères fondamentaux à respecter pour qu’elle soit réussie.
 
 ### **Un en-tête soigné**
 
 L'en-tête doit être composé des informations essentielles et nécessaires à votre candidature, comme votre **nom**, vos **coordonnées**, la **date** et **l’objet** de votre lettre.
 
-**Il est crucial de respecter la structure et la composition de l’en-tête.** Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
+**Il est crucial de respecter la structure et la composition de l’en-tête.**    Si vous ne respectez pas cela, le recruteur le remarquera et pourra potentiellement émettre un avis négatif quant à la suite de votre lettre.
 
 ### **Un paragraphe d’accroche**
 
