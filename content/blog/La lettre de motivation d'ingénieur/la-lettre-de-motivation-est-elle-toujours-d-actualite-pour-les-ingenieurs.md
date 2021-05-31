@@ -11,8 +11,6 @@ url = "/blog/rédaction-lettre-motivation-ingénieur"
 weight = 100
 
 +++
-# Faut-il écrire une lettre de motivation pour un ingénieur ?
-
 ## **🤔** La lettre de motivation est-elle toujours d'actualité pour les ingénieurs ?
 
 ![Homme sur son ordinateur en terrasse](/uploads/linkedin-sales-solutions-nysve5rsjtc-unsplash.jpeg "Rédaction lettre de motivation")
@@ -45,7 +43,7 @@ Par conséquent, il est logique que les recruteurs préfèrent se concentrer sur
 
 Écrire une lettre de motivation **dépend également du poste visé et de la concurrence**. Si la concurrence est forte, une lettre de motivation bien construite et bien rédigée peut faire la différence, alors que pour un secteur en manque de candidats, elle n’est pas forcément nécessaire.
 
-Nous retrouvons cependant un nombre irréductible de recruteurs portant encore **un intérêt important à la lecture des lettres de motivation**.       En effet, cela leur permet d’avoir un **aperçu de la qualité rédactionnel du candidat** mais également de constater la façon dont le candidat "se vend". 
+Nous retrouvons cependant un nombre irréductible de recruteurs portant encore **un intérêt important à la lecture des lettres de motivation**.       En effet, cela leur permet d’avoir un **aperçu de la qualité rédactionnel du candidat** mais également de constater la façon dont le candidat "se vend".
 
 > **🚀 Tips :** N’oubliez pas qu’il y a **le savoir-faire**, et **le faire savoir** ! Une lettre **originale**, **précise** et **détaillée** peut permettre de faire la différence face des candidats qui n’en font pas ou copie sur internet.
 
