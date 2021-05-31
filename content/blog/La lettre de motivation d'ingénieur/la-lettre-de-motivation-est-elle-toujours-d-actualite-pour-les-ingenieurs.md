@@ -62,7 +62,7 @@ Vous retrouverez sur notre site **Yalink**, notre article sur **l’importance d
 
 [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
-Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
+Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "Yalink").
 
 ## Comment rédiger sa lettre de motivation ?
 
@@ -110,21 +110,21 @@ Afin d’être original dans la rédaction de votre lettre, nous vous déconseil
 
 ### Parler de soi
 
-Ceci est la deuxième et dernière partie du moi. Elle est le moyen pour vous, de développer vos compétences techniques mais également aborder vos qualités comportementales (soft skills).
+Ceci est la deuxième et dernière partie du **_moi_**. Elle est le moyen pour vous, de développer vos compétences techniques mais également aborder vos qualités comportementales (**soft skills**).
 
-Lorsque vous citerez ces éléments, il sera nécessaire de les justifier avec des exemples concrets. Cela permettra au recruteur d’avoir une vision précise de vos compétences et qualités.
+Lorsque vous citerez ces éléments, il sera nécessaire de les **justifier avec des exemples concrets.** Cela permettra au recruteur d’avoir une vision précise de vos compétences et qualités.
 
 ### Une conclusion
 
 La conclusion représente le dernier paragraphe argumenté de votre lettre de motivation.
 
-En effet, elle représente le nous. Il est le moyen de montrer l’éventualité d’un avenir commun avec l’entreprise. Vous pouvez utiliser cette partie pour décrire et expliquer, au recruteur, ce que vous pourrez apporter à l’entreprise dans la réalisation de l’emploi ou de la mission. Pour vous aider, appuyez- vous sur les éléments cités dans l’offre d’emploi afin d’oublier aucun élément et être le plus précis possible dans votre rédaction.
+En effet, elle représente le **_nous_**. Il est le moyen de montrer l’**éventualité d’un avenir commun avec l’entreprise.** Vous pouvez utiliser cette partie pour décrire et expliquer, au recruteur, ce que vous pourrez apporter à l’entreprise dans la réalisation de l’emploi ou de la mission. Pour vous aider, appuyez- vous sur les éléments cités dans l’offre d’emploi afin d’oublier aucun élément et être le plus précis possible dans votre rédaction.
 
 ### Une mise en page soignée
 
 ![Page imprimée écrite à l’ordinateur](/uploads/finn-mund-cius9ecvnb8-unsplash-1.jpeg "Mise en page de la lettre de motivation")
 
-La mise en page, avec l’orthographe, est l’un des éléments les plus importants pour faciliter la lecture au recruteur.
+**La mise en page**, avec l**’orthographe**, est l’un des éléments les plus importants pour **faciliter la lecture au recruteur.**
 
 La lettre de motivation doit être obligatoirement au format A4. Afin de faciliter la lecture et la compréhension de votre lettre de motivation, nous vous conseillons une lettre de motivation **dactylographiée** (écrite à l'ordinateur)**.** Cela vous permettra d’avoir une version que vous partagerez par mail ou une version imprimée que vous enverrez par **voie postale.**
 
@@ -132,7 +132,7 @@ Les paragraphes se doivent d’être visuellement distincts, avec des sauts de l
 
 Pour poursuivre, nous vous conseillons de conserver des interlignes se situant entre **1,25 et 2**. N’oubliez pas de **justifier votre texte.**
 
-De plus, favorisez une police classique comme Arial. Cela permet de faciliter la lecture pour le recruteur. La taille de police doit se situer en 10 et 12, afin que ce soit lisible et que votre lettre de motivation tienne sur une page.
+De plus, favorisez une police classique comme **Arial.** Cela permet de faciliter la lecture pour le recruteur. La taille de police doit se situer en **10 et 12**, afin que ce soit lisible et que votre lettre de motivation tienne sur une page.
 
 ### La personnalisation est la clé de votre lettre
 
@@ -144,7 +144,7 @@ Comme dit précédemment, ne recopiez pas des phrases de templates trouvés sur 
 
 Si vous souhaitez davantage de conseils et d’éléments pour écrire votre lettre de motivation d’ingénieur, vous retrouverez sur notre site **les astuces et conseils pour rédiger une lettre de motivation d’ingénieur.**
 
-Vous avez le choix d’écrire ou non une lettre de motivation. Vous ne connaissez pas le profil du recruteur. Il serait dommage de se voir refuser un entretien car vous n’avez pas rédigé de lettre de motivation. Qui peut le plus, peut le moins.
+Vous avez le choix d’écrire ou non une lettre de motivation. Vous ne connaissez pas le profil du recruteur. Il serait dommage de se voir refuser un entretien car vous n’avez pas rédigé de lettre de motivation. "**_Qui peut le plus, peut le moins"._**
 
 ![](/uploads/tenor-1.gif)  
 Dans notre cas, **Yalink** ne demande pas de lettre de motivation à l’inscription. Cependant, si vous souhaitez malgré tout en rédiger une, nous vous conseillons d’en rédiger une en se basant sur des expériences et des recommandations afin d’apporter davantage de détails sur vos compétences et la personne que vous êtes.
@@ -157,9 +157,9 @@ Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur fre
 
 ## Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser :
 
-* Comment écrire une lettre de motivation pour un ingénieur ?
-* Les astuces d'une lettre de motivation réussie pour un ingénieur
-* Ingénieur : Quels outils utiliser pour sa lettre de motivation ?
-* Ingénieur : Faut-il postuler avec une lettre de motivation ?
-* Les 16 erreurs à ne pas commettre dans sa lettre de motivation.
-* Quels modèles et exemples de lettre de motivation utiliser pour candidater ?
+* [Comment écrire une lettre de motivation pour un ingénieur ?]()
+* [Les astuces d'une lettre de motivation réussie pour un ingénieur]()
+* [Ingénieur : Quels outils utiliser pour sa lettre de motivation ?]()
+* [Ingénieur : Faut-il postuler avec une lettre de motivation ?]()
+* [Les 16 erreurs à ne pas commettre dans sa lettre de motivation.]()
+* [Quels modèles et exemples de lettre de motivation utiliser pour candidater ?]()
