@@ -26,9 +26,11 @@ Malgré tout, d’après les responsables des ressources humaines, la lettre de 
 
 ### Ce que vous apprendrez dans cet article :
 
-* Est-ce que les recruteurs lisent encore les lettres de motivation ?
-* Pourquoi la lettre de motivation peut-elle faire la différence ?
-* Quels sont les éléments à respecter pour une lettre de motivation réussie !
+👉 Est-ce que les recruteurs lisent encore les lettres de motivation ?
+
+👉 Pourquoi la lettre de motivation peut-elle faire la différence ?
+
+👉 Quels sont les éléments à respecter pour une lettre de motivation réussie !
 
 ## Lettre de motivation, réellement ignorée par les recruteurs ?
 
