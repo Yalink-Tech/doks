@@ -55,7 +55,7 @@ Ainsi, il est difficile de conclure sur la réelle importance d’une lettre de 
 
 La lettre de motivation est parfois le dernier recours pour départager deux candidats. En effet, la lettre de motivation est le moyen de mettre en avant vos compétences techniques (hard skills) par la citation d’exemples, mais également d’exprimer vos compétences comportementales en les définissant (**soft skills**). C’est également un moyen pour vous de montrer votre implication mais également l’intérêt que vous portez à l’entreprise.
 
-Vous retrouverez sur notre site **Yalink**, notre article sur **l’importance des soft skills.**
+Vous retrouverez sur notre site **Yalink**, notre article sur [**l’importance des soft skills.**]( "Quelle-est l'importance des soft skills pour un ingénieur ?")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
