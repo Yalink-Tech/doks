@@ -2,7 +2,6 @@
 contributors = ["clement"]
 date = 2021-05-30T22:00:00Z
 description = "hbvshbsvh"
-draft = true
 imageCover = "/uploads/clement.jpg"
 lastmod = 2021-05-30T22:00:00Z
 lead = "hbvshbsvh"
