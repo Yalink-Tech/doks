@@ -36,7 +36,7 @@ Malgré tout, d’après les responsables des ressources humaines, la lettre de 
 
 De nos jours, la lettre de motivation a perdu un peu de sens, notamment avec l’avènement de nouvelles plateformes pour les candidatures comme les réseaux sociaux.
 
-Vous pouvez passer par des plateformes de mise en relation comme LinkedIn, Malt ou **Yalink**. Ces plateformes vous permettront de trouver des missions d'ingénierie sans avoir à passer par la case lettre de motivation.
+Vous pouvez passer par des plateformes de mise en relation comme LinkedIn ou [**Yalink**](https://app.yalink.fr/ "Inscription Yalink"). Ces plateformes vous permettront de trouver des missions d'ingénierie sans avoir à passer par la case lettre de motivation.
 
 L’inscription sur Yalink ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour permettre d’établir un premier contact avec vous et de mieux vous connaître.
 
