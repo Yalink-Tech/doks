@@ -58,7 +58,7 @@ La concurrence fait rage entre les nouvelles plateformes, les réseaux sociaux e
 * Une première phrase pour présenter les informations personnelles : votre nom, votre prénom, votre âge, …
 * Une phrase pour mettre en avant votre parcours professionnel, vos compétences professionnelles (**hard skills**) et surtout vos compétences comportementales (**soft skills**).
 
-Vous trouverez un article sur l’importance des **soft skills** pour un ingénieur ici.
+Vous trouverez un article sur [**l’importance des soft skills** ]( "Importance des soft skills")pour un ingénieur ici.
 
 * Une brève conclusion pour mettre en évidence la cohérence de votre profil avec l’offre d’emploi mais également les valeurs communes à l’entreprise.
 
