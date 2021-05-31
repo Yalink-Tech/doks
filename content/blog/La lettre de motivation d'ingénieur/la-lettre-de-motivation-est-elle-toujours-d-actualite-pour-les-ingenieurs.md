@@ -46,9 +46,11 @@ Par conséquent, il est logique que les recruteurs préfèrent se concentrer sur
 
 Écrire une lettre de motivation **dépend également du poste visé et de la concurrence**. Si la concurrence est forte, une lettre de motivation bien construite et bien rédigée peut faire la différence, alors que pour un secteur en manque de candidats, elle n’est pas forcément nécessaire.
 
-Nous retrouvons cependant un nombre irréductible de recruteurs portant encore **un intérêt important à la lecture des lettres de motivation**.       En effet, cela leur permet d’avoir un **aperçu de la qualité rédactionnel du candidat** mais également de constater la façon dont le candidat "se vend. N’oubliez pas qu’il y a le savoir-faire, et le faire savoir ! Une lettre originale, précise et détaillée peut permettre de faire la différence face des candidats qui n’en font pas ou copie sur internet.
+Nous retrouvons cependant un nombre irréductible de recruteurs portant encore **un intérêt important à la lecture des lettres de motivation**.       En effet, cela leur permet d’avoir un **aperçu de la qualité rédactionnel du candidat** mais également de constater la façon dont le candidat "se vend". 
 
-Ainsi, il est difficile de conclure sur la réelle importance d’une lettre de motivation. En revanche, il est certain qu’il vaut mieux ne pas envoyer de lettre de motivation, plutôt qu’une lettre issue d’un template, sans émotion et personnalisation. De plus, les fautes d’orthographe sont bien évidemment à proscrire sous risque d’être écarté de façon rédhibitoire.
+> **🚀 Tips :** N’oubliez pas qu’il y a **le savoir-faire**, et **le faire savoir** ! Une lettre **originale**, **précise** et **détaillée** peut permettre de faire la différence face des candidats qui n’en font pas ou copie sur internet.
+
+Ainsi, il est difficile de conclure sur la réelle importance d’une lettre de motivation. En revanche, il est certain qu’il vaut mieux ne pas envoyer de lettre de motivation, plutôt qu’une lettre issue d’un template, sans émotion et personnalisation. De plus, **les fautes d’orthographe** sont bien évidemment à proscrire sous risque d’être écarté de façon rédhibitoire.
 
 ## Lettre de motivation, un moyen de faire la différence
 
