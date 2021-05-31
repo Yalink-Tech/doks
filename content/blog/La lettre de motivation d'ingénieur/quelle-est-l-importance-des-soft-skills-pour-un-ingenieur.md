@@ -2,7 +2,6 @@
 contributors = ["Timothy"]
 date = 2021-05-30T22:00:00Z
 description = "Ingénieur, vous vous demandez quels sont les soft skills que les entreprises s’arrachent ? La réponse se trouve ici."
-draft = true
 imageCover = "/uploads/annie-spratt-hcb3lib8l8e-unsplash.jpeg"
 lastmod = ""
 lead = "Ingénieur, vous vous demandez quels sont les soft skills que les entreprises s’arrachent ? La réponse se trouve ici.."
@@ -95,6 +94,8 @@ Les **_hard skills_** ont une durée limitée, notamment due à l’évolution d
 ## **Comment développer ses soft skills ?**
 
 Développer ses _soft skills_ passe par de l’apprentissage et de la réflexion. Il n’y a pas de technique miracle pour développer ses _soft skills_. Avant toute chose, il est nécessaire de bien distinguer les traits de caractère et de personnalité qui vous définissent mais aussi ceux qui sont modifiables, et sur lesquels vous pourrez agir afin d’améliorer la personne que vous êtes.
+
+![Gif d'une personne parlant à un micro sur ses soft skills](/uploads/tenor.gif "Comment améliorer ses soft skills")
 
 > 🚀 **Tips** : N’hésitez pas à vous demander “Qui suis-je ? Qu’est-ce-qui me rend unique ? Cela peut paraître stupide, mais ces deux questions permettent de vous aiguiller dans la définition de vos soft skills.
 
