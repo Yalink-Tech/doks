@@ -6,9 +6,9 @@ draft = true
 imageCover = "/uploads/magnet-me-jupaxbh-fgc-unsplash.jpeg"
 lastmod = 2021-05-19T22:00:00Z
 lead = "Ingénieur, vous vous demandez si la lettre de motivation est réellement utile ? Vous trouverez la réponse dans cet article."
-seotitle = ""
+seotitle = "La lettre de motivation, une épreuve compliquée pour l'ingénieur"
 title = "Faut-il écrire une lettre de motivation pour un ingénieur ?"
-url = ""
+url = "/blog/rédaction-lettre-motivation-ingénieur"
 weight = 100
 
 +++
