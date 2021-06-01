@@ -53,13 +53,15 @@ Ainsi, il est difficile de conclure sur la réelle importance d’une lettre de 
 
 La lettre de motivation est parfois le dernier recours pour départager deux candidats. En effet, la lettre de motivation est le moyen de mettre en avant vos compétences techniques (hard skills) par la citation d’exemples, mais également d’exprimer vos compétences comportementales en les définissant (**soft skills**). C’est également un moyen pour vous de montrer votre implication mais également l’intérêt que vous portez à l’entreprise.
 
-Vous retrouverez sur notre site **Yalink**, notre article sur [**l’importance des soft skills.**]( "Quelle-est l'importance des soft skills pour un ingénieur ?")
+Vous retrouverez sur notre site **Yalink**, notre article sur [**l’importance des soft skills.**](https://ressources.yalink.fr/blog/pourquoi-mentionner-soft-skills-lettre-de-motivation-ingenieur/ "Quelle-est l'importance des soft skills pour un ingénieur ?")
+
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
-[Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+[Yalink ](http://yalink.fr "Site Yalink")met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
-Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "Yalink").
+Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "App Yalink").
 
 ## Comment rédiger sa lettre de motivation ?
 
@@ -145,6 +147,8 @@ Vous avez le choix d’écrire ou non une lettre de motivation. Vous ne connaiss
 
 ![](/uploads/tenor-1.gif)  
 Dans notre cas, **Yalink** ne demande pas de lettre de motivation à l’inscription. Cependant, si vous souhaitez malgré tout en rédiger une, nous vous conseillons d’en rédiger une en se basant sur des expériences et des recommandations afin d’apporter davantage de détails sur vos compétences et la personne que vous êtes.
+
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
