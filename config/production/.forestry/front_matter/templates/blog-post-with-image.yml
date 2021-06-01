@@ -39,7 +39,6 @@ fields:
   name: weight
   label: weight
 pages:
-- content/blog/EURL/ceci-est-le-h1.md
 - content/blog/EURL/que-faut-il-connaitre-avant-de-creer-son-eurl-yalink.md
 - content/blog/L'entretien/comment-reussir-son-entretien-en-tant-qu-ingenieur.md
 - content/blog/La lettre de motivation d'ingénieur/comment-ecrire-une-lettre-de-motivation-pour-un-ingenieur.md
