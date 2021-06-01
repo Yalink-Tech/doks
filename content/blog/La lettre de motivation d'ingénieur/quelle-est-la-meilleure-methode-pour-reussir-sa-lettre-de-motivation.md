@@ -1,5 +1,5 @@
 +++
-contributors = []
+contributors = ["Timothy"]
 date = 2021-05-30T22:00:00Z
 description = "Vous souhaitez rédiger la meilleure lettre de motivation possible ? Voici nos astuces et conseils."
 imageCover = "/uploads/bram-naus-n8qb1zakk88-unsplash.jpeg"
@@ -11,7 +11,7 @@ url = "/blog/ingénieur-astuce-lettre-motivation"
 weight = 100
 
 +++
-# Quelle est la meilleure méthode pour réussir sa lettre de motivation ?
+## Toutes les astuces pour un ingénieur lors de l'écriture de sa lettre de motivation
 
 ![](/uploads/bram-naus-n8qb1zakk88-unsplash.jpeg)
 
@@ -19,7 +19,7 @@ La lettre de motivation est parfois l'ultime critère de sélection lors d’une
 
 Pour un bon nombre des candidats, écrire une lettre de motivation s’avère parfois compliqué. Cela suppose de concilier capacité de rédaction et esprit de synthèse, pour exprimer au plus juste l’ensemble des compétences que possèdent les candidats.
 
-### **Ce que vous apprendrez dans cet article**
+### Ce que vous apprendrez dans cet article
 
 👉 La manière dont la lettre de motivation peut faire la différence
 
@@ -46,6 +46,8 @@ Cependant, nous remarquons que la lettre de motivation dépend essentiellement d
 Malgré ces éléments, certains recruteurs continuent de se baser sur une lettre de motivation pour choisir et sélectionner un candidat. Pour certains emplois ou certaines missions, cela donne la possibilité au recruteur de constater le niveau rédactionnel du candidat et sa capacité à “se vendre”. Une lettre détaillée et originale peut “faire pencher la balance”.
 
 Difficile de conseiller ou non d’écrire une lettre de motivation. En revanche, si vous envoyez une lettre issue d’un template ou copiée-collée d’internet, ne vous étonnez pas de ne pas recevoir de réponse. Votre lettre sera directement ignorée et par conséquent votre profil.
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
@@ -123,6 +125,8 @@ Afin de vous aider dans la rédaction de votre lettre de motivation d’ingénie
 * Conservez chacune de vos lettres de motivation. Elles peuvent vous servir de template pour de nouvelles candidatures.
 
 ![](/uploads/fb_roll-safe-1.png)
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
