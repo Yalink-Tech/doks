@@ -85,7 +85,7 @@ De nos jours, nous constatons que les CV sont une succession de diplômes, forma
 
 C’est pour cela qu’il est **important de se démarquer.** En effet, nous savons que pour la plupart des postes ou des missions en tant qu’ingénieurs Freelance, les candidats ont quasiment tous le même parcours et seule l’expérience professionnelle peut différer.
 
-> 🚀 Tips : Pensez à **mettre en avant vos soft skills** dans votre CV, votre **Lettre de Motivation** et à **les illustrer lors de votre entretien. Vous retrouverez** nos astuces et conseils pour rédiger une lettre de motivation**.**
+> 🚀 Tips : Pensez à **mettre en avant vos soft skills** dans votre CV, votre **Lettre de Motivation** et à **les illustrer lors de votre entretien. Vous retrouverez__ nos astuces et conseils pour rédiger une lettre de motivation**.**
 
 Les **_hard skills_** ont une durée limitée, notamment due à l’évolution des métiers et des technologies. De ce fait, les **_soft skills_** sont des compétences **utiles** et **intemporelles** permettant à la personne de rester **compétitive** en s’adaptant à l’environnement changeant.
 
@@ -117,9 +117,10 @@ Si vous n’appréciez pas le travail d’équipe, évitez de choisir un poste o
 
 ### Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser
 
-* Comment écrire une lettre de motivation pour un ingénieur ?
-* Ingénieur : Quels outils utiliser pour sa lettre de motivation ?
-* Ingénieur : Faut-il écrire une lettre de motivation ?
-* Ingénieur : Faut-il postuler avec une lettre de motivation ?
-* Les 16 erreurs à ne pas commettre dans sa lettre de motivation.
-* Quels Modèle et exemples de lettre de motivation utiliser pour candidater ?
+* [Les astuces d'une lettre de motivation réussie pour un ingénieur](https://ressources.yalink.fr/blog/ing%C3%A9nieur-astuce-lettre-motivation/ "Quelle est la meilleure méthode pour réussir sa lettre de motivation ?")
+* [Ingénieur : Quels outils utiliser pour sa lettre de motivation ?](https://ressources.yalink.fr/blog/logiciels-lettre-motivation-ing%C3%A9nieur/ "Les outils pour rédiger sa lettre de motivation d'ingénieur")
+* [Ingénieur : Faut-il écrire une lettre de motivation ?](https://ressources.yalink.fr/blog/r%C3%A9daction-lettre-motivation-ing%C3%A9nieur/ "Faut-il écrire une lettre de motivation en tant qu'ingénieur ?")
+* [Ingénieur : Faut-il postuler avec une lettre de motivation ?](https://ressources.yalink.fr/blog/lettre-motivation-ing%C3%A9nieur-candidature/ "Faut-il postuler avec une lettre de motivation ?")
+* [Pourquoi mentionner les soft skills dans sa lettre de motivation ?](https://ressources.yalink.fr/blog/pourquoi-mentionner-soft-skills-lettre-de-motivation-ing%C3%A9nieur/ "L'importance des soft skills")
+* [Comment écrire une lettre de motivation pour un ingénieur ?](https://ressources.yalink.fr/blog/comment-rediger-lettre-motivation-freelance-ingenieur/ "Comment écrire une lettre de motivation ?")
+* [Les 16 erreurs à ne pas commettre lors de la rédaction d'une lettre de motivation](https://ressources.yalink.fr/blog/16-erreurs-lettre-de-motivation-ing%C3%A9nieur/ "16 erreurs à ne pas reproduire lors de la rédaction de votre lettre de motivation")
