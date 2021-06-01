@@ -1,15 +1,19 @@
 +++
 contributors = ["Vincent"]
 date = 2021-04-27T22:00:00Z
-description = "Le petit guide du portage salarial. Le portage salarial est-il le bon compromis  entre le salariat et le freelancing ? "
-imageCover = "/uploads/portage-salarial.png"
+description = "Le portage salarial est-il le bon compromis entre le salariat et le freelancing ? "
+imageCover = "/uploads/le-portage-salarial.jpg"
 images = []
 lastmod = 2021-04-27T22:00:00Z
-lead = "Le petit guide du portage salarial. Le portage salarial est-il le bon compromis  entre le salariat et le freelancing ? "
-title = "Pourquoi passer par le portage salarial ? "
+lead = "Le portage salarial est-il le bon compromis entre le salariat et le freelancing ? "
+seotitle = "Le petit guide du portage salarial pour l'ingénieur indépendant"
+title = "Pourquoi choisir le portage salarial dans le cadre de son activité ? "
+url = "blog/pourquoi-passer-par-le-portage-salarial/"
 weight = 100
 
 +++
+![Mockup portage salarial](/uploads/le-portage-salarial.jpg "Guide Portage salarial")
+
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait partie de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
@@ -48,6 +52,8 @@ _“Débuter une nouvelle activité, compléter vos revenus ou votre retraite, t
 
 _Toutes les subtilités du statut de portage salarial ne sont pas traitées dans ce guide. Pour cela nous vous conseillons de lire l’article du_ [_service public_](https://www.service-public.fr/professionnels-entreprises/vosdroits/F31620)_._
 
+![Gif d'un élève faisant un signe du pouce](/uploads/tenor-2.gif "Compromis")
+
 ### A savoir
 
 👉 Il n’y a **pas de création de statut** à réaliser pour pouvoir travailler en portage salarial.
@@ -70,6 +76,8 @@ _Toutes les subtilités du statut de portage salarial ne sont pas traitées dans
 
 Le portage salarial se déroule en 5 étapes clés où le freelance est accompagné à chaque étape. Vous pouvez choisir d'être accompagné par [**Yalink**](https://yalink.fr/) et la société de portage [**RH solutions**.](https://www.rh-solutions.com/agence/aquitaine/rh-solutions-bordeaux-2.html)
 
+![Deux personnes se sert la main](/uploads/sebastian-herrmann-nbtidofkgo8-unsplash.jpeg "Accompagnement")
+
 **👉 La prospection**
 
 Vous obtenez une mission par vos propres moyens ou via l’intermédiaire d’une plateforme comme [Yalink](yalink.fr). Les conditions de la mission (TJM, durée, lieu, sujet etc…) sont définies entre le freelance et l’entreprise.
@@ -89,6 +97,14 @@ Pendant la durée de la mission, le freelance informe ses partenaires de l’ava
 **👉 Fin de mission**
 
 Si vous n’avez pas de nouvelle mission, votre contrat de travail s’arrête et se termine par une rupture conventionnelle. La société de portage vous remet alors votre solde de tout compte, votre certificat de travail et l’attestation d’employeur destinée à Pôle Emploi pour activer vos droits chômage.
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
+
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "site yalink").
 
 ## **🌱**L’aventure de Jackie Mongoose
 
@@ -144,6 +160,8 @@ L’objectif est ici de détailler comment la société de portage calcule le sa
 En tant que salarié porté vous bénéficiez du statut de salarié et de tous les avantages liés à la protection sociale (sécurité sociale, retraite, prévoyance, assurance chômage, droit à la formation…).
 
 C’est **le gros avantage** du portage salarial qui vous assure un statut sécurisé. A titre comparatif, vous gagnez moins votre vie en tant que salarié porté vs micro-entrepreneur, en revanche vous êtes mieux protégé et accompagné administrativement.
+
+![Photo d'un médecin avec un stetoscope](/uploads/maladie.jpg "Mutuelle")
 
 > #### Mutuelle et prévoyance
 >
@@ -276,3 +294,11 @@ Jakie Mongoose vous a préparé un petit récapitulatif aux petits oignons, au c
 Nous avons aussi calculé le TJM que Jackie Mongoose aurait dû facturer pour pouvoir obtenir le même salaire net (avant impôt). Celui-ci s’élève à **424 €**.
 
 Pour plus d’informations, n’hésitez pas à [nous contacter](https://yalink.fr/nous_contacter).
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
+
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "site yalink").
