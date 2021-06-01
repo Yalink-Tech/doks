@@ -11,9 +11,9 @@ url = "/blog/logiciels-lettre-motivation-ingénieur"
 weight = 100
 
 +++
-# Ingénieurs, quels sont les logiciels à connaître pour rédiger sa lettre de motivation ?
+## Ingénieurs, quels sont les logiciels à connaître pour rédiger sa lettre de motivation ?
 
-![](/uploads/fb_roll-safe-1.jpeg)
+![Ordinateur avec une liste de logiciels](/uploads/fb_roll-safe-1.jpeg "Logiciels")
 
 Nous connaissons la difficulté exprimée par les ingénieurs quand il s’agit de rédiger une lettre de motivation. Pour la majorité des candidats, la rédaction et la mise en page d’une lettre de motivation sont faites sur des logiciels ou des sites de traitement de texte. Mais saviez-vous qu’il existe une multitude de sites et logiciels pour écrire et mettre en page une lettre de motivation ? Nous allons les présenter dans cet article.
 
@@ -27,7 +27,7 @@ Nous connaissons la difficulté exprimée par les ingénieurs quand il s’agit 
 
 Éléments basiques du traitement de texte et de la mise en page, les logiciels de traitement de texte sont des fondamentaux pour la rédaction d’une lettre de motivation.
 
-![](/uploads/luke-southern-9ycyggpe5kg-unsplash.jpeg)
+![Personne en train d'écrire sur son ordinateur](/uploads/luke-southern-9ycyggpe5kg-unsplash.jpeg "Traitement de texte")
 
 Certains logiciels sont payants, d’autres gratuits, mais leurs fonctionnalités sont similaires.
 
@@ -37,6 +37,8 @@ Voici la liste des différents logiciels de traitement de texte :
 * **Libre Office** : Une alternative gratuite à Word, il propose les mêmes fonctionnalités avec une interface moins bien développée.
 * **Open Office** : Tout comme Libre Office, c’est un logiciel libre regroupant toutes les fonctionnalités du traitement de texte. Cependant, le logiciel est rarement mis à jour et est régulièrement victime de bugs.
 * **Google Doc** : C’est sûrement l'outsider de Word. Très simple d’utilisation, reprenant les mêmes fonctionnalités que le logiciel de Microsoft, il possède également un écosystème complet allant du tableur au stockage de fichiers en ligne. Pratique car vous pouvez retrouver vos fichiers sur chacun de vos appareils que ce soit votre téléphone, votre tablette ou votre ordinateur.
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
@@ -56,7 +58,7 @@ En se basant sur ces modèles, vous avez la possibilité de personnaliser votre 
 
 Ceci est utile, si vous ne souhaitez pas réaliser vous-même la mise en page de votre lettre de motivation. Il vous faudra cependant rédiger l’intégralité du texte de la lettre de motivation.
 
-![](/uploads/brett-jordan-5l0r8zqpzhk-unsplash.jpeg)
+![Deux robots avec des écrans](/uploads/brett-jordan-5l0r8zqpzhk-unsplash.jpeg "Robots")
 
 Si vous éprouvez des difficultés lors de la rédaction de votre lettre de motivation, vous pouvez lire notre article sur **les astuces et conseils pour rédiger une lettre de motivation en tant qu’ingénieur.**
 
@@ -72,7 +74,9 @@ De ce fait, nous vous conseillons donc la simple utilisation d'un logiciel ou d�
 
 Le meilleur format est le PDF, lisible par tous, il est également celui qui empêche toute modification du fichier.
 
-![](/uploads/marvin-meyer-syto3xs06fu-unsplash.jpeg)
+![Plusieurs ordinateurs sur une table](/uploads/marvin-meyer-syto3xs06fu-unsplash.jpeg "Conseils")
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
