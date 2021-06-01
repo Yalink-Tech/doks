@@ -3,7 +3,7 @@ contributors = ["Vincent"]
 date = 2021-05-27T22:00:00Z
 description = "Comment se lancer en tant qu'indépendant ?  Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
 imageCover = "/uploads/les-bases-du-freelancing.jpg"
-lastmod = 2021-05-27T22:00:00Z
+lastmod = 2021-05-31T22:00:00Z
 lead = "Comment se lancer en tant qu'indépendant ?  Fonctionnement, statuts, démarches, tout ce que vous devez savoir pour devenir freelance se trouve ici."
 seotitle = "Comment devenir freelance ? Le guide complet pour les ingénieurs"
 title = "Quelles sont les bases du freelancing?"
@@ -89,9 +89,11 @@ Nous vous avons listé ci-dessous les spécificités du freelance par rapport au
 >
 > Vous pouvez parfois utiliser ceux de l’entreprise pour des raisons de sécurité ou de confidentialité.
 
-![Yalink texte et logo jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
+![Fille sautant devant une montagne verte](/uploads/base-freelancing.png "Liberté")
 
-## aY
+## Yalink, le futur du travail pour les ingénieurs
+
+![Logo Yalink Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Jaune")
 
 [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
