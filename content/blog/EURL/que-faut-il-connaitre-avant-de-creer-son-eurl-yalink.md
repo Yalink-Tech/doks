@@ -3,7 +3,7 @@ contributors = ["Vincent"]
 date = 2021-05-27T22:00:00Z
 description = "Le guide pour se lancer en tout sérénité en EURL réservé aux ingénieurs"
 imageCover = "/uploads/l_eurl.jpg"
-lastmod = ""
+lastmod = 2021-05-31T22:00:00Z
 lead = "Le guide pour se lancer en tout sérénité en EURL réservé aux ingénieurs"
 seotitle = "Le petit guide de l'EURL pour l'ingénieur Freelance"
 title = "Que faut-il connaître avant de créer son EURL ? Yalink"
@@ -87,7 +87,7 @@ Il s’agit soit de l’associé unique, soit d’une personne tierce nommé par
 
 Nous verrons que les régimes fiscaux et sociaux dépendent de la nature de l’associé unique et du gérant.
 
-![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 > ## Yalink, le futur du travail pour les ingénieurs
 >
@@ -145,7 +145,7 @@ Ici l’associé est une personne morale (une autre société en quelque sorte).
 
 👉 Régime fiscal de la société = IS obligatoirement
 
-![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 > ## Yalink, le futur du travail pour les ingénieurs
 >
@@ -558,7 +558,7 @@ Jackie Mongoose vous a préparé un petit récapitulatif au cas où vous auriez 
 
 {{< /simple-table >}}
 
-![Logo Yalink Jaune](/uploads/logo-yalink-texte-jaune.png "Logo Yalink")
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 > ## Yalink, le futur du travail pour les ingénieurs
 >
