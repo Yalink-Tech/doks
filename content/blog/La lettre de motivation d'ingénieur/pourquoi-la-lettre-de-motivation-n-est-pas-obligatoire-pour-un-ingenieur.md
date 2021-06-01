@@ -11,7 +11,7 @@ url = "/blog/lettre-motivation-ingénieur-candidature"
 weight = 100
 
 +++
-# Pourquoi la lettre de motivation n’est pas obligatoire pour un ingénieur ?
+## Pourquoi continuer de candidater avec une lettre de motivation quand l'email suffit ? 
 
 Nous connaissons le questionnement des ingénieurs sur l’intérêt ou non, de postuler en utilisant une lettre de motivation. Mais peu de personnes innovent en utilisant des alternatives existantes pour communiquer leurs compétences techniques et soft skills.
 
@@ -34,6 +34,8 @@ Le manque de temps et l’absence d’originalité incitent peu les recruteurs �
 Pourtant, la lettre de motivation et ses alternatives peuvent être des moyens de se différencier des autres candidats pour mettre en avant ses **soft skills** et montrer la motivation et l’investissement mis en place pour l’élaboration d’une candidature.
 
 Cela peut faire la différence notamment lorsque plusieurs profils de candidats se ressemblent en termes de qualités et de compétences. L’originalité du choix et l’utilisation d’un support pour exposer sa motivation sont des bons éléments pour se démarquer des autres.
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
@@ -91,6 +93,8 @@ Un mail de motivation personnalisé est un moyen d’aller droit au but. En effe
 
 > **🚀 Tips** :La clé pour un mail de motivation réussi est la personnalisation. Les éléments que nous avons donnés doivent impérativement être présents. Libre à vous d’en rajouter et de les personnaliser, cela vous démarquera des autres candidats.
 
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
+
 ## Yalink, le futur du travail pour les ingénieurs
 
 [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
@@ -116,6 +120,8 @@ Le mail de motivation est sans doute, le moyen d’être le plus percutant en un
 Libre à vous de choisir le support de motivation pour votre candidature. Le temps des recruteurs est précieux ! C’est pour cela que nous conseillons aux ingénieurs, de se focaliser sur la réalisation d’un pitch mail. Ce dernier est direct, synthétique et précis, ce qui permet au recruteur de se faire un avis en un minimum de temps.
 
 ![](/uploads/tenor-2.gif)
+
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
