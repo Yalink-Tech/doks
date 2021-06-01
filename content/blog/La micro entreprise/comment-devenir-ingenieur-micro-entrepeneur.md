@@ -2,14 +2,19 @@
 contributors = ["Vincent\n"]
 date = 2021-04-27T22:00:00Z
 description = "Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survivre en micro entreprise c'est ici que cela se passe. "
-imageCover = "/uploads/licro-entrepeneur.png"
+imageCover = "/uploads/la-micro-entreprise.jpg"
 images = []
 lastmod = 2021-04-27T22:00:00Z
 lead = "Comment devenir freelance ? Le guide de la micro-entreprise. ACRE, TVA, plafonds, régimes fiscaux, pour survivre en micro entreprise c'est ici que cela se passe"
+seotitle = "Le petit guide de la micro entreprise pour l'ingénieur Freelance"
 title = "Comment devenir ingénieur micro-entrepreneur ?"
+url = "/blog/comment-devenir-ingénieur-micro-entrepreneur/"
 weight = 100
 
 +++
+
+![Mockup micro entreprise](/uploads/la-micro-entreprise.jpg "Livre blanc micro entreprise")
+
 ## 🌱 Pourquoi un article de blog?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
@@ -33,6 +38,8 @@ La micro-entreprise permet d’exercer une activité professionnelle indépendan
 Outre sa simplicité, le principal avantage se situe sur le fait de pouvoir cumuler un emploi salarié **et** une activité de freelance : un moyen de préparer en toute sérénité une transition vers le cap de l’indépendance.
 
 Toutes les subtilités du statut de la micro-entreprise ne sont pas traitées dans ce guide. Pour cela nous vous conseillons de lire le [guide officiel de l’auto entrepreneur.](https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/guide-officiel.html)
+
+![Home devant un dessin de plan](/uploads/licro-entrepeneur.png "Micro entreprise simple")
 
 ### A savoir !
 
@@ -70,6 +77,8 @@ Une activité en micro-entreprise implique:
 
 > 🚧Au delà de 34 400€ facturés, il y a facturation de la TVA dès le premier jour du mois de dépassement. Soyez donc vigilant ! Vous pouvez également faire la demande de collecter la TVA dès votre 1er jour d’activité. Envie d’en savoir plus ? Consultez l’article de [shine](https://www.shine.fr/blog/assujetti-tva-auto-entrepreneur/).
 
+![Illustration argent sous cloche](/uploads/facture.jpg "Argent")
+
 ## 🌱L’aventure de Jackie Mongoose
 
 {{< blog-img src="/uploads/humaaans-space.png" alt="Jackie Mongoose profile picture">}}
@@ -90,6 +99,14 @@ Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Ma
 > 🚧 Jackie a fixé son TJM en fonction de ses besoins personnels. Celui-ci peut varier en fonction de la durée de la mission ainsi que la complexité de celle-ci.
 
 👉 Pour la simplicité des calculs nous prendrons l’hypothèse que Jackie est **célibataire et sans enfant**. Son quotient familial est de **1**. Ceci nous servira pour le calcul de l’impôt.
+
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
+
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "site yalink").
 
 ## 🌱 Le palier social
 
@@ -144,6 +161,8 @@ La sécurité sociale des indépendants est l’un des gros chantiers du gouvern
 
 Pour travailler l'esprit tranquille nous conseillons à chaque freelance de souscrire à minima aux prestations suivantes pour être accompagné sur son activité !  
 Nous avons listé ci-dessous le budget moyen qu’il faut compter pour chaque prestation.
+
+![Medicaments](/uploads/medicament.jpg "Protection sociale")
 
 > #### Mutuelle et prévoyance
 >
@@ -291,3 +310,11 @@ Vous voici arrivé à destination. On récapitule donc le “combien il reste en
 **A la fin de chaque mois il reste donc 3 232€ net**
 
 Ces résultats ont été obtenus grâce au simulateur créé par [Yalink](yalink.fr). Recevez ce simulateur en cliquant sur le lien [suivant](https://docs.google.com/spreadsheets/d/1OgExjReMh9iXPBDzNpC4KhJM3LrdW3pJLtA2xDsGRPQ/edit#gid=1383330774).
+
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
+
+> ## Yalink, le futur du travail pour les ingénieurs
+>
+> [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+>
+> Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "site yalink").
