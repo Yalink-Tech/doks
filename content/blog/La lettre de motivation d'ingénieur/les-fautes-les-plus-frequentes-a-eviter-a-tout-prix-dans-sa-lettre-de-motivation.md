@@ -1,10 +1,10 @@
 +++
 contributors = ["Timothy"]
 date = 2021-05-27T22:00:00Z
-description = "Ingénieur, vous trouverez les erreurs ici les erreurs les plus fréquentes qui sont commises dans une lettre de motivation ? "
+description = "Ingénieur, vous trouverez ici les erreurs les plus fréquentes qui sont commises dans une lettre de motivation ? "
 imageCover = "/uploads/panneau-stop.jpeg"
 lastmod = 2021-05-27T22:00:00Z
-lead = "Ingénieur, vous trouverez les erreurs ici les erreurs les plus fréquentes qui sont commises dans une lettre de motivation ?"
+lead = "Ingénieur, vous trouverez ici les erreurs les plus fréquentes qui sont commises dans une lettre de motivation ? "
 seotitle = "Les 16 erreurs à ne pas commettre dans sa lettre de motivation pour un ingénieur"
 title = "Les fautes les plus fréquentes à éviter à tout prix dans sa lettre de motivation"
 url = "/blog/16-erreurs-lettre-de-motivation-ingénieur"
@@ -75,7 +75,7 @@ Une lettre de motivation, tout comme votre CV, doit être fidèle à la réalit�
 
 > 🧐**Tips** :   Si vous souhaitez enrichir votre CV ou votre lettre de motivation, la seule solution acceptable est d’acquérir des compétences ! Vous pouvez peut-être utiliser votre [compte de formation professionnel.]()
 
-![](/uploads/logo-test.png)
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Jaune")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
@@ -143,7 +143,7 @@ Si vous rédigez une lettre de motivation, veillez à ce que cette dernière soi
 
 _Si vous ne faites pas les erreurs citées et que vous appliquez nos conseils, vous mettez toutes les chances de votre côté pour obtenir un entretien._
 
-![Logo jaune yalink et texte](/uploads/logo-test.png "Logo Yalink")
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
