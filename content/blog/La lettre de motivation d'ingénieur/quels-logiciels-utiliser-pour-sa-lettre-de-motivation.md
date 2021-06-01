@@ -82,9 +82,9 @@ Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur fre
 
 ## Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser
 
-* [Les astuces d'une lettre de motivation réussie pour un ingénieur]()
-* [Ingénieur : Quels outils utiliser pour sa lettre de motivation ?]()
+* [Les astuces d'une lettre de motivation réussie pour un ingénieur](https://ressources.yalink.fr/blog/ing%C3%A9nieur-astuce-lettre-motivation/ "Quelle est la meilleure méthode pour réussir sa lettre de motivation ?")
+* [Ingénieur : Quels outils utiliser pour sa lettre de motivation ?](https://ressources.yalink.fr/blog/logiciels-lettre-motivation-ing%C3%A9nieur/ "Les outils pour rédiger sa lettre de motivation d'ingénieur")
 * [Ingénieur : Faut-il écrire une lettre de motivation ?]()
 * [Ingénieur : Faut-il postuler avec une lettre de motivation ?]()
-* [Quels modèles et exemples de lettre de motivation utilisés pour postuler ?]()
+* [Pourquoi la lettre de motivation n'est elle pas obligatoire pour un ingénieur ?]()
 * [Pourquoi mentionner les soft skills dans sa lettre de motivation ?]()
