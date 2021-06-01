@@ -11,11 +11,11 @@ url = "/blog/guide-base-freelancing-ingenieur"
 weight = 100
 
 +++
+![Livre sur ce qu'il faut connaître du freelancing](/uploads/les-bases-du-freelancing.jpg "Les bases du freelancing")
+
 ## 🌱 Pourquoi choisir de s'orienter vers le freelancing ?
 
 Cet article fait parti de la saga de l’ingénieur.e freelance. Cette saga a été conçue pour les ingénieur.es souhaitant connaître la **rémunération** d’un freelance en fonction **des différents statuts** existant en France.
-
-![Livre sur ce qu'il faut connaître du freelancing](/uploads/les-bases-du-freelancing.jpg "Les bases du freelancing")
 
 > _Note:_ **Retrouvez les articles complets des statuts présentés ci-dessous**
 >
@@ -50,6 +50,8 @@ Freelance est un terme anglais, couramment utilisé, notamment dans les prestati
 En France, freelance ne correspond pas à un statut juridique. Un entrepreneur peut se caractériser comme freelance, mais aux yeux de l’administration il s’agit soit d’un micro-entrepreneur soit d'un associé unique (EURL ou SASU).
 
 **Globalement, être freelance en 2021 revient à disposer de la capacité à facturer un client pour la réalisation de missions.**
+
+![Illustration d'une cloche avec des sous à l'intérieur](/uploads/facture.jpg "Facturer")
 
 Ainsi, un freelance a une relation commerciale avec des clients, à la différence d’un salarié qui a un lien de subordination avec un employeur.
 
@@ -87,9 +89,9 @@ Nous vous avons listé ci-dessous les spécificités du freelance par rapport au
 >
 > Vous pouvez parfois utiliser ceux de l’entreprise pour des raisons de sécurité ou de confidentialité.
 
-![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+![Yalink texte et logo jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
-## Yalink, le futur du travail pour les ingénieurs
+## aY
 
 [Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
@@ -153,7 +155,7 @@ Le régime fiscal définit de quelle manière l’activité sera soumise à l’
 
 ## 🌱L’aventure de Jackie Mongoose
 
-![Image d'un personnage](/uploads/humaaans-space.png "Jackie Mongoose")
+![Illustration de Jackie Mongoose](/uploads/humaaans-space.png "Jackie Mongoose")
 
 Tout au long de notre découverte, vous serez accompagné de Jackie Mongoose. Mais qui est **Jackie Mongoose** ?
 
@@ -194,7 +196,7 @@ Sachez que vous avez toujours la possibilité de changer et d’évoluer vers d�
 
 {{< /simple-table >}}
 
-![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
