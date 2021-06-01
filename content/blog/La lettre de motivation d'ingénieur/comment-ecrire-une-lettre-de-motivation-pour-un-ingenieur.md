@@ -113,7 +113,7 @@ Nous vous conseillons de montrer votre disponibilité à un éventuel entretien.
 >
 > 👉“La réalisation d’un entretien, si vous en considérez l’utilité, me permettra de vous apporter les informations complémentaires que vous nécessitez. Je vous prie d’agréer, Madame / Monsieur, mes sincères salutations.”
 
-![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 > ## Yalink, le futur du travail pour les ingénieurs
 >
@@ -160,13 +160,13 @@ Pour réaliser une lettre de motivation d'ingénieur percutante, il est importan
 
 Voilà, vous avez toutes les clés en main pour réussir la rédaction de votre lettre de motivation. **N’oubliez pas que le CV reste la chose la plus importante dans une réponse d’offre, mais la lettre de motivation peut faire la différence à profil égal.**
 
-![Logo Yalink et texte jaune](/uploads/logo-test.png "Logo Yalink")
+![Logo Yalink et texte Jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
-[Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+[Yalink ](http://yalink.fr "Site Yalink")met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
-Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
+Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "App Yalink").
 
 ## Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser
 
