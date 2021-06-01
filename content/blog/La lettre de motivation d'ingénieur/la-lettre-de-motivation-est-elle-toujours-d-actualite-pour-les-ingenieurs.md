@@ -37,7 +37,7 @@ Vous pouvez passer par **des plateformes de mise en relation** comme LinkedIn ou
 
 L’inscription sur Yalink ne requiert pas de lettre de motivation, mais un échange téléphonique est réalisé pour permettre d’établir un premier contact avec vous et de mieux vous connaître.
 
-En effet, une lettre de motivation **n’est pas lue dans 3 cas sur 4**.          Cela est dû essentiellement au fait que les candidats envoient des lettres de motivations bien trop souvent **copiées-collées**. Nous savons également que le temps de lecture et d’intérêt qu'apporte un recruteur aux candidatures est **inférieur à 60 secondes**.
+En effet, une lettre de motivation **n’est pas lue dans 3 cas sur 4**. Cela est dû essentiellement au fait que les candidats envoient des lettres de motivations bien trop souvent **copiées-collées**. Nous savons également que le temps de lecture et d’intérêt qu'apporte un recruteur aux candidatures est **inférieur à 60 secondes**.
 
 Par conséquent, il est logique que les recruteurs préfèrent se concentrer sur les CV, plus rapides à lire et beaucoup plus représentatifs des demandes techniques de l’emploi ou de la mission.
 
@@ -53,7 +53,7 @@ Ainsi, il est difficile de conclure sur la réelle importance d’une lettre de 
 
 La lettre de motivation est parfois le dernier recours pour départager deux candidats. En effet, la lettre de motivation est le moyen de mettre en avant vos compétences techniques (hard skills) par la citation d’exemples, mais également d’exprimer vos compétences comportementales en les définissant (**soft skills**). C’est également un moyen pour vous de montrer votre implication mais également l’intérêt que vous portez à l’entreprise.
 
-Vous retrouverez sur notre site **Yalink**, notre article sur [**l’importance des soft skills.**](https://ressources.yalink.fr/blog/pourquoi-mentionner-soft-skills-lettre-de-motivation-ingenieur/ "Quelle-est l'importance des soft skills pour un ingénieur ?")
+Vous retrouverez sur notre site **Yalink**, notre article sur [**l’importance des soft skills.**](https://ressources.yalink.fr/blog/pourquoi-mentionner-soft-skills-lettre-de-motivation-ing%C3%A9nieur/ "Quelle-est l'importance des soft skills pour un ingénieur ?")
 
 ![Logo Yalink et texte jaune](/uploads/logo-yalink-texte-jaune_360-px.png "Logo Yalink")
 
