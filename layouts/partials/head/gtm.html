@@ -1,8 +1,9 @@
 <!-- Found on https://github.com/martijnvv/GTM-integration-Hugo/blob/master/gtm.html -->
+<!-- Don't forget to add nonce="googletagmanager" in script balise -->
 {{ if not (in (.Site.BaseURL | string) "localhost") }}{{ if .Site.Params.gtm_id}}{{ if .Site.Params.gtm_endpoint}}  <link href='https://{{ .Site.Params.gtm_endpoint }}' rel="preconnect" crossorigin>
   <link rel="dns-prefetch" href='https://{{ .Site.Params.gtm_endpoint }}'>{{ else }}<link href='https://www.googletagmanager.com' rel="preconnect" crossorigin>
   <link rel="dns-prefetch" href='https://www.googletagmanager.com'>{{ end }}{{ end }}
-{{- if eq .Site.Params.gtm_datalayer "basic"}}  <script>
+{{- if eq .Site.Params.gtm_datalayer "basic"}}  <script nonce="googletagmanager">
 	window.dataLayer = window.dataLayer || [];
 	window.dataLayer.push({
 		{{- if .ExpiryDate}}'pageExpiryDate': '{{ .ExpiryDate.format  "2006-01-02"  }}',{{- end }}
