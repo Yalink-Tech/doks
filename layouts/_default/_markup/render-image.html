@@ -1,0 +1,3 @@
+<p class="md__image">
+  <img class="blog-img img-fluid lazyload blur-up" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+</p>

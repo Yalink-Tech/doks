@@ -2,6 +2,18 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  {{- if .Site.Params.gtm_id}}{{ partial "head/gtm.html" . }}{{ end }}
+  <script>
+    window.axeptioSettings = {
+      clientId: "609bf1bfe34b5e7472ce5b0a",
+    };
+
+    (function(d, s) {
+      var t = d.getElementsByTagName(s)[0], e = d.createElement(s);
+      e.async = true; e.src = "//static.axept.io/sdk.js";
+      t.parentNode.insertBefore(e, t);
+    })(document, "script");
+  </script>
   {{ block "head/resource-hints" . }}{{ partial "head/resource-hints.html" . }}{{ end }}
   {{ block "head/stylesheet" . }}{{ partial "head/stylesheet.html" . }}{{ end }}
   {{ block "head/seo" . }}{{ partial "head/seo.html" . }}{{ end }}
