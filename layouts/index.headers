@@ -2,7 +2,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self' googletagmanager.com google-analytics.com; frame-ancestors https://jamstackthemes.dev; manifest-src 'self'; connect-src 'self' *.axept.io; font-src 'self'; img-src 'self' axeptio.imgix.net google.com data:; script-src 'self' 'unsafe-eval' 'sha256-s11HxVXc0zPJwPTxEmFuH8huaj4dbjBXOuKOka5MN3Y=' 'sha256-FQNAVowrBA4a2yXlOKn2ryW9dYO3Nx9ZSW14mNqL/BA=' 'sha256-Jn4iKoIrRGZKwPGDkLNvMFNPrIkC0r05wXUuDogw3mA=' https://www.googletagmanager.com/gtm.js *.axept.io; style-src 'self' 'sha256-noOZfv1+y+E+pY49xPRGv20Yixl4c9+PZxiNCsMame8=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU='
+  Content-Security-Policy: default-src 'none'; connect-src https://client.axept.io/60ae5e896cd349769a803843.json; font-src 'self'; img-src 'self' https://axeptio.imgix.net; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://static.axept.io/sdk.js https://www.googletagmanager.com/gtm.js; style-src 'self' 'unsafe-inline'
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
   Feature-Policy: geolocation 'self'
