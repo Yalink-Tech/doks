@@ -28,6 +28,8 @@ Qui n’a pas parfois manqué d’inspiration quant à la disposition et la mise
 
 ## Les conseils pour réussir et personnaliser votre CV
 
+![](/uploads/homme-assis-jambes-croisees.jpg)
+
 ### Une analyse de l’offre pour un CV précis
 
 Chaque offre d’emploi comporte des mots-clés afin de définir le poste ou la mission proposée. Il est donc important d’analyser en préambule l’offre d’emploi afin d’identifier ces mots-clés. Généralement, ils se trouvent dans des rubriques suivantes :
@@ -62,6 +64,8 @@ Vous pouvez oublier les rubriques “Loisirs”. Ceci n’a pas véritablement d
 **🚀 Tips** : N’hésitez pas à vous demander “Qui suis-je ? Qu’est-ce-qui me rend unique ? Cela peut paraître stupide, mais ces deux questions permettent de vous aiguiller dans la définition de vos soft skills. Votre CV, c’est votre vitrine !
 
 ## Comment structurer son CV ?
+
+![](/uploads/main-ecriture-cv.jpg)
 
 Pour vous simplifier la vie, on vous a listé l’ensemble des éléments structurants du CV.
 
@@ -114,25 +118,25 @@ Afin d’avoir tous les éléments en votre disposition pour rédiger un CV d'in
 
 Voici donc une liste non exhaustive des erreurs à éviter dans l’élaboration de votre CV d’ingénieur que vous pouvez de façon plus détaillée [ici](https://docs.google.com/document/d/1dxCXBgqnVlQOlpNPdkuOyrt8uQPXJbd3qM6FkEZi6R8/edit).
 
-* Un CV impersonnel
+* **Un CV impersonnel**
 
 Votre CV ainsi que son contenu doivent être adaptés à l’offre d’emploi à laquelle vous postulez. Si votre CV n’est pas personnalisé et précis, il y a peu de chance que votre profil soit retenu.
 
-* Les fautes d’orthographe
+* **Les fautes d’orthographe**
 
 La majorité des recruteurs écarte les CV si on y retrouve des fautes d’orthographe. Cela montre votre non-maîtrise de la langue mais également votre manque de considération par l’absence d’une relecture appliquée et d’une correction adaptée.
 
-* Mentir sur son CV
+* **Mentir sur son CV**
 
 Inutile de mentir sur votre CV. Vos diplômes et vos expériences professionnelles seront vérifiées par le recruteur. Si vous mentez, votre CV sera rejeté. En ce qui concerne vos soft skills, il est également inutile de mentir. Le recruteur constatera par lui-même la véracité de vos propos lors d’un éventuel entretien.
 
-* Un format inadapté
+* **Un format inadapté**
 
 Votre CV doit tenir sur une page A4. Vous ne devez pas détailler tout votre parcours professionnel, mais mettre uniquement vos expériences utiles au recruteur.
 
 Votre CV doit également être divisé en rubriques et sous-rubriques afin de faciliter la lecture et la recherche d’informations du recruteur. Un CV mal structuré n’incite pas le recruteur à poursuivre sa lecture.
 
-* Donner des préférences salariales
+* **Donner des préférences salariales**
 
 Vous ne devez pas aborder vos préférences salariales ou salaire actuel dans votre CV.
 
@@ -143,6 +147,8 @@ Si vous souhaitez connaître davantage les erreurs à ne pas reproduire, vous po
 Souvenez-vous, votre CV est votre vitrine. Vous devez soigner sa présentation et sa composition afin de combler les attentes du recruteur. En revanche, le CV ne représente pas le seul moyen de sélection. Il est uniquement la première étape d’une phase de recrutement.
 
 **🚀 Tips** : Soyez original, fidèle à vous-mêmes et honnête afin de vous différencier des autres candidats. N’oubliez pas d’adapter votre CV à chacune des entreprises et des offres auxquelles vous répondez.
+
+![](/uploads/ordinateur-bureau-cahier.jpg)
 
 ## Yalink, le futur du travail pour les ingénieurs
 
