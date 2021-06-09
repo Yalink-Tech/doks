@@ -79,7 +79,7 @@ L’accroche d’un CV est un moyen de faire la différence. Cette dernière con
 
 ### Une photo professionnelle
 
-La question se pose régulièrement. La photo est-elle obligatoire dans un CV ? Il est possible de postuler sans mettre de photo, afin d’éviter les possibles discriminations physiques.   
+La question se pose régulièrement. La photo est-elle obligatoire dans un CV ? Il est possible de postuler sans mettre de photo, afin d’éviter les possibles discriminations physiques.  
 En revanche, une photo professionnelle, identique à celle de votre profil LinkedIN, peut marquer l’esprit du recruteur. Cela permet de mettre un visage sur la candidature et de la mémoriser plus facilement.
 
 ### Un format obligatoire
@@ -142,7 +142,7 @@ Si vous souhaitez connaître davantage les erreurs à ne pas reproduire, vous po
 
 Souvenez-vous, votre CV est votre vitrine. Vous devez soigner sa présentation et sa composition afin de combler les attentes du recruteur. En revanche, le CV ne représente pas le seul moyen de sélection. Il est uniquement la première étape d’une phase de recrutement.
 
-Tips : Soyez original, fidèle à vous-mêmes et honnête afin de vous différencier des autres candidats. N’oubliez pas d’adapter votre CV à chacune des entreprises et des offres auxquelles vous répondez.
+**🚀 Tips** : Soyez original, fidèle à vous-mêmes et honnête afin de vous différencier des autres candidats. N’oubliez pas d’adapter votre CV à chacune des entreprises et des offres auxquelles vous répondez.
 
 ## Yalink, le futur du travail pour les ingénieurs
 
