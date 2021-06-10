@@ -55,7 +55,7 @@ L’optimisation de votre profil LinkedIn est un bon moyen de vous rendre visibl
 
 **🚀 Tips :** Vous avez la possibilité de mettre des mots clés dans l’URL de votre profil, pour un meilleur référencement et une meilleure visibilité de votre profil dans le secteur d’activité recherché par les entreprises.
 
-### La photo de profil :
+### La photo de profil 
 
 Pour commencer, la première chose que verront les membres de votre réseau ainsi que les entreprises lors d’une candidature, sera la photo de votre profil.
 
@@ -65,7 +65,7 @@ Cela mettra en valeur votre visage et le rendra reconnaissable, même en format 
 
 Si vous utilisez un fond de couleur, nous vous recommandons de choisir la même couleur que votre bannière afin d’avoir une harmonie sur votre profil.
 
-### Bonus : la photo de couverture ou bannière :
+### Bonus : la photo de couverture ou bannière 
 
 Votre photo de couverture ou bannière sera le deuxième élément visible lors de l’aperçu de votre profil. Utilisez votre photo de couverture comme support pour exposer votre secteur d’activité, vos compétences et vos valeurs premières. Votre bannière doit être en accord avec votre photo de profil : reprise du même code couleur, de la même photo ou image si vous en utilisez une.
 
@@ -73,7 +73,7 @@ Cela crée ainsi une charte graphique propre à votre profil et vous démarque a
 
 **🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/)pour créer une image parfaitement adaptée au format de linkedin et à votre image. N’hésitez pas à consulter l’article détaillant [les meilleurs outils](https://docs.google.com/document/d/1C7zbkP3_4CynfLDYTdumPKKFh9QOeyeP1qt42HQto-s/edit) pour vous inspirer !
 
-### Le titre :
+### Le titre 
 
 L’endroit propice pour expliquer et détailler votre activité en moins de 2 lignes. Vous devez être précis et percutant afin de faciliter au visiteur, la compréhension de votre profil.
 
@@ -83,7 +83,7 @@ Inutile de faire des phrases, employez des mots importants et des informations q
 
 Dans l’exemple, les mots clés VRD et conducteur de travaux ressortiront en premier lieu dès qu’un recruteur cherchera à recruter un conducteur de travaux en voirie par exemple.
 
-### L’introduction :
+### L’introduction 
 
 Cette partie représente la phrase d’accroche de votre profil. C’est le moment d’exposer votre personnalité, vos valeurs et vos principales compétences. Afin d’être plus impactant et mis en avant par la plateforme, vous pouvez utiliser des emojis (n’abusez pas non plus des fusées, et choisissez des emojis qui correspondent le mieux soit à votre métier soit à votre personnalité).
 
@@ -93,7 +93,7 @@ On vous suggère de communiquer votre email pour toutes personnes souhaitant vou
 
 Évitez d’indiquer votre numéro de téléphone pour ne pas être dérangé. 📵
 
-### La section Expérience et Formation :
+### La section Expérience et Formation 
 
 Il s’agit du nerf de la guerre, du cœur du réacteur. Toutes les informations utiles doivent se trouver dans cette section.
 
@@ -107,11 +107,11 @@ C’est aussi un moyen d’être recommandé par les entreprises, ce qui est un 
 
 Détaillez vos expériences sans raconter un roman. L’objectif est d’être synthétique et d’utiliser des mots clés qui parleront à votre réseau.
 
-### La section Compétences :
+### La section Compétences 
 
 Cette section sert à mettre en avant vos compétences, allant des hard skills aux soft skills. Vous pouvez mentionner les logiciels que vous maitrisez et vos compétences comportementales comme l’esprit d’équipe, par exemple.
 
-### Les Centres d'intérêt :
+### Les Centres d'intérêt 
 
 Cette section permet à toute personne de voir les comptes et les entreprises que vous suivez. C’est un excellent moyen pour l’entreprise de constater si vous suivez l’actualité propre à votre secteur d’activité ou non...
 
