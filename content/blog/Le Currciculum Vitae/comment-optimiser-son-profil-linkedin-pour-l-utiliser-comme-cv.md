@@ -14,7 +14,7 @@ weight = 100
 +++
 ## Pourquoi le profil LinkedIn correspond au CV 2.0 ?
 
-Le réseau social [LinkedIn](https://www.linkedin.com/feed/) regroupe un total de **756 millions d’utilisateurs** dans le monde.
+Le réseau social [LinkedIn](https://www.linkedin.com/feed/ "LinkedIn") regroupe un total de **756 millions d’utilisateurs** dans le monde.
 
 En **France**, il centralise **22 millions de membres** et **840 000 entreprises**.
 
@@ -75,7 +75,7 @@ Votre photo de couverture ou bannière sera le deuxième élément visible lors 
 
 Cela crée ainsi une charte graphique propre à votre profil et vous démarque ainsi des autres candidats.
 
-**🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/)pour créer une image parfaitement adaptée au format de LinkedIn et à votre image. N’hésitez pas à consulter l’article détaillant [les meilleurs outils](https://docs.google.com/document/d/1C7zbkP3_4CynfLDYTdumPKKFh9QOeyeP1qt42HQto-s/edit) pour vous inspirer !
+**🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/ "Canva")pour créer une image parfaitement adaptée au format de LinkedIn et à votre image. N’hésitez pas à consulter l’article détaillant [les meilleurs outils](https://docs.google.com/document/d/1C7zbkP3_4CynfLDYTdumPKKFh9QOeyeP1qt42HQto-s/edit) pour vous inspirer !
 
 ![Homme Tablette Doigt](/uploads/homme-tablette-doigt.jpg "Navigation sur LinkedIn")
 
@@ -123,9 +123,9 @@ Cette section permet à toute personne de voir les comptes et les entreprises qu
 
 ## Yalink, le futur du travail pour les ingénieurs
 
-[Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+[Yalink ](http://yalink.fr "Yalink")met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
-Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
+Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "Yalink").
 
 ## LinkedIn, une réelle plateforme de recrutement
 
@@ -145,9 +145,9 @@ Comme dans la vie professionnelle classique, le réseau fait partie des gages de
 
 ## Yalink, le futur du travail pour les ingénieurs
 
-[Yalink ](http://yalink.fr)met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
+[Yalink ](http://yalink.fr "Yalink")met en relation les ingénieurs freelance avec les entreprises du secteur de la construction et de l’industrie en moins de 48h.
 
-Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr).
+Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur freelance ou CDI) en vous inscrivant sur [Yalink](http://app.yalink.fr "Yalink").
 
 ### **Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser (à modifier)**
 
