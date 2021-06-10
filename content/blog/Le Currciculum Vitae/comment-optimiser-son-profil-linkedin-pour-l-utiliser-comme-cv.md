@@ -20,7 +20,7 @@ En **France**, il centralise **22 millions de membres** et **840 000 entreprises
 
 Grâce à la crise sanitaire, l’utilisation et la fréquentation de LinkedIn ont considérablement augmenté, permettant aux professionnels de maintenir un lien avec leur secteur d’activité et leur entreprise.
 
-![](/uploads/iphone-linkedin-feuille.jpg)
+![Iphone LinkedIn Feuille](/uploads/iphone-linkedin-feuille.jpg "Inscription LinkedIn")
 
 LinkedIn représente également un outil indispensable pour les personnes à la recherche d’un emploi, d’une mission ou d’un stage.
 
@@ -59,7 +59,7 @@ L’optimisation de votre profil LinkedIn est un bon moyen de vous rendre visibl
 
 ### La photo de profil 
 
-![](/uploads/deux-femmes-appareil-photo.jpg)
+![Deux femmes appareil photo](/uploads/deux-femmes-appareil-photo.jpg "Sélection de la photo de profil")
 
 Pour commencer, la première chose que verront les membres de votre réseau ainsi que les entreprises lors d’une candidature, sera la photo de votre profil.
 
@@ -77,7 +77,7 @@ Cela crée ainsi une charte graphique propre à votre profil et vous démarque a
 
 **🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/)pour créer une image parfaitement adaptée au format de LinkedIn et à votre image. N’hésitez pas à consulter l’article détaillant [les meilleurs outils](https://docs.google.com/document/d/1C7zbkP3_4CynfLDYTdumPKKFh9QOeyeP1qt42HQto-s/edit) pour vous inspirer !
 
-![](/uploads/homme-tablette-doigt.jpg)
+![Homme Tablette Doigt](/uploads/homme-tablette-doigt.jpg "Navigation sur LinkedIn")
 
 ### Le titre 
 
@@ -141,7 +141,7 @@ Comme dans la vie professionnelle classique, le réseau fait partie des gages de
 
 **🚀 Tips** : Pensez à demander des recommandations auprès de vos anciens employeurs. Ils sont souvent gages d’assurance pour les recruteurs !
 
-![](/uploads/homme-ordinateur-assis.jpg)
+![Homme Ordinateur assis](/uploads/homme-ordinateur-assis.jpg "Rédaction d'un message sur LinkedIn")
 
 ## Yalink, le futur du travail pour les ingénieurs
 
