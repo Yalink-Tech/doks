@@ -20,6 +20,8 @@ En **France**, il centralise **22 millions de membres** et **840 000 entreprises
 
 Grâce à la crise sanitaire, l’utilisation et la fréquentation de LinkedIn ont considérablement augmenté, permettant aux professionnels de maintenir un lien avec leur secteur d’activité et leur entreprise.
 
+![](/uploads/iphone-linkedin-feuille.jpg)
+
 LinkedIn représente également un outil indispensable pour les personnes à la recherche d’un emploi, d’une mission ou d’un stage.
 
 Peu sont les entreprises qui ne sont pas présentes sur la plateforme. Elles sont d’ailleurs nombreuses à poster régulièrement des offres d’emploi ou des missions sur le réseau social professionnel n°1.
@@ -57,6 +59,8 @@ L’optimisation de votre profil LinkedIn est un bon moyen de vous rendre visibl
 
 ### La photo de profil 
 
+![](/uploads/deux-femmes-appareil-photo.jpg)
+
 Pour commencer, la première chose que verront les membres de votre réseau ainsi que les entreprises lors d’une candidature, sera la photo de votre profil.
 
 Cette dernière se doit d’être en format Portrait ainsi qu’en Haute Définition. Vous devez mettre en avant votre visage. Pour cela, nous vous conseillons d’avoir, derrière vous, un fond flou ou de couleur unie.
@@ -71,7 +75,9 @@ Votre photo de couverture ou bannière sera le deuxième élément visible lors 
 
 Cela crée ainsi une charte graphique propre à votre profil et vous démarque ainsi des autres candidats.
 
-**🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/)pour créer une image parfaitement adaptée au format de linkedin et à votre image. N’hésitez pas à consulter l’article détaillant [les meilleurs outils](https://docs.google.com/document/d/1C7zbkP3_4CynfLDYTdumPKKFh9QOeyeP1qt42HQto-s/edit) pour vous inspirer !
+**🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/)pour créer une image parfaitement adaptée au format de LinkedIn et à votre image. N’hésitez pas à consulter l’article détaillant [les meilleurs outils](https://docs.google.com/document/d/1C7zbkP3_4CynfLDYTdumPKKFh9QOeyeP1qt42HQto-s/edit) pour vous inspirer !
+
+![](/uploads/homme-tablette-doigt.jpg)
 
 ### Le titre 
 
@@ -134,6 +140,8 @@ De plus, au-delà des entreprises, c’est l’opportunité pour vous de créer 
 Comme dans la vie professionnelle classique, le réseau fait partie des gages de confiance et de recommandation pour les entreprises. Par conséquent, il est fondamental de vous connecter à des utilisateurs du même secteur d'activité que le vôtre ou encore de suivre des entreprises qui pourraient potentiellement vous correspondre et être à la recherche d’un profil comme le vôtre.
 
 **🚀 Tips** : Pensez à demander des recommandations auprès de vos anciens employeurs. Ils sont souvent gages d’assurance pour les recruteurs !
+
+![](/uploads/homme-ordinateur-assis.jpg)
 
 ## Yalink, le futur du travail pour les ingénieurs
 
