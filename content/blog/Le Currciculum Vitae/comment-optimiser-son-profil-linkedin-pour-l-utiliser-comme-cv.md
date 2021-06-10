@@ -1,6 +1,6 @@
 +++
 contributors = ["Timothy"]
-date = ""
+date = 2021-06-09T22:00:00Z
 description = " Pourquoi utiliser votre profil LinkedIn en tant que CV ? Toutes les réponses se trouvent dans cet article."
 imageCover = "/uploads/iphone-linkedin-feuille.jpg"
 lastmod = ""
