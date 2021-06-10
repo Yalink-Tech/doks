@@ -1,6 +1,6 @@
 +++
 contributors = ["Timothy"]
-date = ""
+date = 2021-06-09T22:00:00Z
 description = " Ingénieur, vous vous demandez comment réussir votre CV ? Voici les différentes astuces pour y parvenir."
 imageCover = "/uploads/pexels-ketut-subiyanto-4560150.jpg"
 lastmod = ""
