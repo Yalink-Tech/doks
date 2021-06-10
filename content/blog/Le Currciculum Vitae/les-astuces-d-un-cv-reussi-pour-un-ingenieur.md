@@ -16,6 +16,8 @@ weight = 100
 
 Pour de nombreux ingénieurs, le CV est un moyen de mettre en avant leurs compétences techniques. Parfois, lors de l’élaboration d’un CV, la mise en forme et la structure sont ignorées. Afin de vous aider à réaliser le meilleur CV possible, nous vous avons réservé un article relatant les astuces et conseils à appliquer lors de la réalisation d’un CV.
 
+![](/uploads/pexels-ketut-subiyanto-4560150.jpg)
+
 ### **Ce que vous apprendrez dans cet article**
 
 👉 La méthode à suivre pour structurer votre CV et le rendre pertinent
@@ -36,6 +38,8 @@ Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur fre
 
 Le titre est le premier élément qui permet d’attirer l'attention du recruteur. En tant qu’ingénieur, vous devez être le plus précis possible dans votre titre, en mentionnant votre spécialisation ou le secteur d’activité visé. Vous pouvez également mettre en avant votre domaine de compétences.
 
+![Femme stylo bureau feuilles](/uploads/pexels-rodnae-productions-5921785.jpg "Femme travaillant sur son bureau")
+
 Le titre de votre CV est l’élément de personnalisation qui permettra au recruteur de savoir si votre profil correspond ou non au poste visé. Si votre titre est précis, il poursuivra la lecture de CV. En revanche, si ce n’est pas le cas, votre CV sera ignoré.
 
 ### Expériences professionnelles
@@ -49,6 +53,8 @@ Dans de nombreux secteurs d’activités et domaines professionnels, la formatio
 ### Compétences techniques
 
 De nombreux ingénieurs ont tendance à mettre toutes les compétences abordées lors de leurs études ou des compétences révolues. Il est rarement possible d’être bon dans tous les domaines. De ce fait, nous vous conseillons de mettre en avant les compétences techniques que vous maitrisez le mieux ainsi que celles en adéquation avec l’offre d’emploi ou de mission freelance. Vous devez également les détailler et les évaluer afin d’aider les recruteurs à juger votre réel niveau.
+
+![homme gilet casque orange chantier](/uploads/pexels-kateryna-babaieva-2760243.jpg "Homme sur un chantieur")
 
 **🚀 Tips :** Ne mentez pas dans votre CV. Inutile de mettre des compétences que vous n’avez pas. Elles seront dans tos les cas toutes vérifiées par le recruteur.
 
@@ -111,6 +117,8 @@ Votre CV doit tenir sur le recto d’une feuille A4. Votre CV doit regrouper le 
 * Une photo professionnelle :
 
 Une photo professionnelle, identique à celle de votre profil LinkedIN, peut marquera l’esprit du recruteur. En effet, cela permet de mettre un visage sur votre candidature et de la mémoriser plus facilement. Selon une étude, 80% des recruteurs font attention à la photo de profil ?
+
+![stylo main écriture](/uploads/green-chameleon-s9cc2skysjm-unsplash.jpg "Personne en train d'écrire")
 
 Si vous respectez ces éléments et qu’ils sont présents dans votre CV, vous aurez toutes les chances pour intéresser le recruteur et que votre profil soit retenu.
 
