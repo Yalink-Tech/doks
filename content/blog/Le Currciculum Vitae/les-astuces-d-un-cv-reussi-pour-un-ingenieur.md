@@ -2,7 +2,6 @@
 contributors = ["Timothy"]
 date = ""
 description = " Ingénieur, vous vous demandez comment réussir votre CV ? Voici les différentes astuces pour y parvenir."
-draft = true
 imageCover = "/uploads/pexels-ketut-subiyanto-4560150.jpg"
 lastmod = ""
 lead = "Quelles sont les astuces pour réussir son CV en tant qu’ingénieur ?"

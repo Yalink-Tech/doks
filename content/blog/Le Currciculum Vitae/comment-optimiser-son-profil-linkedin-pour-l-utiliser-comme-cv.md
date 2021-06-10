@@ -2,7 +2,6 @@
 contributors = ["Timothy"]
 date = ""
 description = " Pourquoi utiliser votre profil LinkedIn en tant que CV ? Toutes les réponses se trouvent dans cet article."
-draft = true
 imageCover = "/uploads/iphone-linkedin-feuille.jpg"
 lastmod = ""
 lead = "Comment utiliser sa page LinkedIn comme CV ?"

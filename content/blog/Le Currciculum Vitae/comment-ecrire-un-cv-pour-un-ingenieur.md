@@ -2,7 +2,6 @@
 contributors = ["Timothy"]
 date = 2021-06-15T22:00:00Z
 description = " Ingénieur, nous vous dévoilons la recette magique pour créer votre CV! "
-draft = true
 imageCover = "/uploads/main-ecriture-cv.jpg"
 lastmod = 2021-06-08T22:00:00Z
 lead = " Ingénieur, nous vous dévoilons la recette magique pour créer votre CV! "
