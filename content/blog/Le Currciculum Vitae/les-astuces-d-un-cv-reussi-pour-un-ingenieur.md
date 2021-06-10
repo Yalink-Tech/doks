@@ -1,5 +1,5 @@
 +++
-contributors = []
+contributors = ["Timothy"]
 date = ""
 description = " Ingénieur, vous vous demandez comment réussir votre CV ? Voici les différentes astuces pour y parvenir."
 draft = true
