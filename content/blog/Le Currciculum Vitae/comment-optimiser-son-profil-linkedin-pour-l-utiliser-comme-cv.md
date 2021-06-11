@@ -23,7 +23,7 @@ Grâce à la crise sanitaire, l’utilisation et la fréquentation de LinkedIn o
 
 LinkedIn représente également un outil indispensable pour les personnes à la recherche d’un emploi, d’une mission ou d’un stage.
 
-Peu sont les entreprises qui ne sont pas présentes sur la plateforme. Elles sont d’ailleurs nombreuses à poster régulièrement des offres d’emploi ou des missions sur le réseau social professionnel n°1.
+Rares sont les entreprises absentes de LinkedIn. Elles sont d’ailleurs nombreuses à poster régulièrement des offres d’emploi ou des missions sur le réseau social professionnel n°1.
 
 Ceci leur procure une plus grande visibilité que sur d’autres réseaux sociaux ou plateformes de recrutement, aujourd'hui délaissées par les nouvelles générations.
 
@@ -74,7 +74,7 @@ Votre photo de couverture ou bannière sera le deuxième élément visible lors 
 
 Cela crée ainsi une charte graphique propre à votre profil et vous démarque ainsi des autres candidats.
 
-**🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/ "Canva")pour créer une image parfaitement adaptée au format de LinkedIn et à votre image. N’hésitez pas à consulter l’article détaillant [les meilleurs outils](https://docs.google.com/document/d/1C7zbkP3_4CynfLDYTdumPKKFh9QOeyeP1qt42HQto-s/edit) pour vous inspirer !
+**🚀 Tips**: la dimension de la photo de couverture fait 1584 x 396 pixels. Nous vous conseillons l'utilisation de [Canva ](https://www.canva.com/ "Canva")pour créer une image parfaitement adaptée au format de LinkedIn et à votre image. 
 
 ![Homme Tablette Doigt](/uploads/homme-tablette-doigt.jpg "Navigation sur LinkedIn")
 
@@ -150,9 +150,5 @@ Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur fre
 
 ### **Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser (à modifier)**
 
-* Les astuces d'un CV réussi pour un ingénieur
-* Les 5 outils pour réussir son CV d'ingénieur
-* Comment écrire un CV pour un ingénieur ?
-* Ingénieur : Faut-il toujours postuler avec un CV ?
-* Lex 10 erreurs à ne pas commettre dans son CV pour un ingénieur
+* [Les astuces d'un CV réussi pour un ingénieur](https://ressources.yalink.fr/blog/astuces-cv-ingenieur/)
 * [Comment optimiser son profil LinkedIn pour l'utiliser en tant que CV ?](https://ressources.yalink.fr/blog/optimiser-profil-linkedin-cv/ "Optimiser son profil LinkedIn ")
