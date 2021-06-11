@@ -129,9 +129,5 @@ Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur fre
 
 ### **Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser (à modifier)**
 
-* Les astuces d'un CV réussi pour un ingénieur
-* Les 5 outils pour réussir son CV d'ingénieur
 * Comment écrire un CV pour un ingénieur ?
-* Ingénieur : Faut-il toujours postuler avec un CV ?
-* Lex 10 erreurs à ne pas commettre dans son CV pour un ingénieur
 * [Comment optimiser son profil LinkedIn pour l'utiliser en tant que CV ?](https://ressources.yalink.fr/blog/optimiser-profil-linkedin-cv/ "Optimiser son profil LinkedIn ")
