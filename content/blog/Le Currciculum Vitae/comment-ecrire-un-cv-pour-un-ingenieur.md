@@ -4,10 +4,10 @@ date = 2021-06-15T22:00:00Z
 description = " Ingénieur, nous vous dévoilons la recette magique pour créer votre CV! "
 imageCover = "/uploads/main-ecriture-cv.jpg"
 lastmod = 2021-06-08T22:00:00Z
-lead = " Ingénieur, nous vous dévoilons la recette magique pour créer votre CV! "
+lead = "Ingénieur, nous vous dévoilons la recette magique pour créer votre CV! "
 seotitle = "Comment rédiger un CV percutant qui plaira aux entreprises ?"
 title = "Comment écrire un CV pour un ingénieur ?"
-url = "/blog/créer-cv-ingénieur"
+url = "/blog/creer-cv-ingénieur"
 weight = 100
 
 +++
@@ -115,7 +115,7 @@ Cela peut paraître “has been”, mais dans un monde qui se digitalise, la voi
 
 Afin d’avoir tous les éléments en votre disposition pour rédiger un CV d'ingénieur, il est incontournable de connaître les erreurs rédhibitoires à éviter pour ne pas voir votre CV écarté de ceux retenus.
 
-Voici donc une liste non exhaustive des erreurs à éviter dans l’élaboration de votre CV d’ingénieur que vous pouvez de façon plus détaillée [ici](https://docs.google.com/document/d/1dxCXBgqnVlQOlpNPdkuOyrt8uQPXJbd3qM6FkEZi6R8/edit).
+Voici donc une liste non exhaustive des erreurs à éviter dans l’élaboration de votre CV d’ingénieur que vous pouvez de façon plus détaillée ici.
 
 * **Un CV impersonnel**
 
@@ -157,9 +157,5 @@ Trouvez dès maintenant votre prochaine opportunité (mission d’ingénieur fre
 
 ### **Vous avez aimé lire cet article ? Les articles ci-dessous peuvent vous intéresser (à modifier)**
 
-* Les astuces d'un CV réussi pour un ingénieur
-* Les 5 outils pour réussir son CV d'ingénieur
-* Comment écrire un CV pour un ingénieur ?
-* Ingénieur : Faut-il toujours postuler avec un CV ?
-* Lex 10 erreurs à ne pas commettre dans son CV pour un ingénieur
+* [Les astuces d'un CV réussi pour un ingénieur](https://ressources.yalink.fr/blog/astuces-cv-ingenieur/)
 * [Comment optimiser son profil LinkedIn pour l'utiliser en tant que CV ?](https://ressources.yalink.fr/blog/optimiser-profil-linkedin-cv/ "Optimiser son profil LinkedIn ")
