@@ -1,8 +1,7 @@
 +++
-contributors = ["vincent"]
+contributors = ["Vincent"]
 date = 2021-09-09T22:00:00Z
 description = "Vous êtes ingénieur et freelance ou indépendant ? Vous vous posez la question de la gestion de la TVA ? On vous dit tout dans cet article. "
-draft = true
 imageCover = "/uploads/imposition.jpg"
 lastmod = ""
 lead = "TVA Micro entreprise"
